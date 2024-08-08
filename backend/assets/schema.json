@@ -1,0 +1,366 @@
+{
+  "d3-bars": {
+    "L1": [
+      {"title": {"en": "type", "fr": "type"}, "key": "L1-0"},
+      {"title": {"en": "title", "fr": "titre"}, "key": "L1-1"},
+      {"title": {"en": "intro", "fr": "intro"}, "key": "L1-2"},
+      {"title": {"en": "notes", "fr": "notes"}, "key": "L1-3"},
+      {"title": {"en": "axes", "fr": "axes"}, "key": "L1-4", "children": [
+        {"title": {"en": "x-axis", "fr": "axe x"}, "key": "L1-4-0"},
+        {"title": {"en": "y-axis", "fr": "axe y"}, "key": "L1-4-1"}
+      ]},
+      {"title": {"en": "color", "fr": "couleur"}, "key": "L1-5"}
+    ],
+    "L2": [
+      {"title": {"en": "data points", "fr": "points de données"}, "key": "L2-0"},
+      {"title": {"en": "extrema", "fr": "extrêmes"}, "key": "L2-1", "children": [
+        {"title": {"en": "maximum", "fr": "maximum"}, "key": "L2-1-0"},
+        {"title": {"en": "minimum", "fr": "minimum"}, "key": "L2-1-1"}
+      ]},
+      {"title": {"en": "distribution", "fr": "distribution"}, "key": "L2-2", "children": [
+        {"title": {"en": "mean", "fr": "moyenne"}, "key": "L2-2-0"},
+        {"title": {"en": "std", "fr": "écart-type"}, "key": "L2-2-1"},
+        {"title": {"en": "median", "fr": "médiane"}, "key": "L2-2-2"}
+      ]},
+      {"title": {"en": "outliers", "fr": "valeurs aberrantes"}, "key": "L2-3"},
+      {"title": {"en": "correlation", "fr": "corrélation"}, "key": "L2-4"},
+      {"title": {"en": "trend", "fr": "tendance"}, "key": "L2-5"}
+    ],
+    "L3": [
+      {"title": {"en": "External information", "fr": "Informations externes"}, "key": "L3-0"}
+    ]
+  },
+  "d3-bars-split": {
+    "L1": [
+      {"title": {"en": "type", "fr": "type"}, "key": "L1-0"},
+      {"title": {"en": "title", "fr": "titre"}, "key": "L1-1"},
+      {"title": {"en": "intro", "fr": "intro"}, "key": "L1-2"},
+      {"title": {"en": "notes", "fr": "notes"}, "key": "L1-3"},
+      {"title": {"en": "axes", "fr": "axes"}, "key": "L1-4", "children": [
+        {"title": {"en": "x-axis", "fr": "axe x"}, "key": "L1-4-0"},
+        {"title": {"en": "y-axis", "fr": "axe y"}, "key": "L1-4-1"}
+      ]},
+      {"title": {"en": "color", "fr": "couleur"}, "key": "L1-5"}
+    ],
+    "L2": [
+      {"title": {"en": "data points", "fr": "points de données"}, "key": "L2-0", "children": []},
+      {"title": {"en": "extrema", "fr": "extrêmes"}, "key": "L2-1", "children": [
+        {"title": {"en": "maximum", "fr": "maximum"}, "key": "L2-1-0", "children": [
+          {"title": {"en": "column wise", "fr": "par colonne"}, "key": "L2-1-0-0"},
+          {"title": {"en": "row wise", "fr": "par rangée"}, "key": "L2-1-0-1"}
+        ]},
+        {"title": {"en": "minimum", "fr": "minimum"}, "key": "L2-1-1", "children": [
+          {"title": {"en": "column wise", "fr": "par colonne"}, "key": "L2-1-1-0"},
+          {"title": {"en": "row wise", "fr": "par rangée"}, "key": "L2-1-1-1"}
+        ]}
+      ]},
+      {"title": {"en": "distribution", "fr": "distribution"}, "key": "L2-2", "children": [
+        {"title": {"en": "mean", "fr": "moyenne"}, "key": "L2-2-0", "children": [
+          {"title": {"en": "column wise", "fr": "par colonne"}, "key": "L2-2-0-0"},
+          {"title": {"en": "row wise", "fr": "par rangée"}, "key": "L2-2-0-1"}
+        ]},
+        {"title": {"en": "std", "fr": "écart-type"}, "key": "L2-2-1", "children": [
+          {"title": {"en": "column wise", "fr": "par colonne"}, "key": "L2-2-1-0"},
+          {"title": {"en": "row wise", "fr": "par rangée"}, "key": "L2-2-1-1"}
+        ]},
+        {"title": {"en": "median", "fr": "médiane"}, "key": "L2-2-2", "children": [
+          {"title": {"en": "column wise", "fr": "par colonne"}, "key": "L2-2-2-0"},
+          {"title": {"en": "row wise", "fr": "par rangée"}, "key": "L2-2-2-1"}
+        ]}
+      ]},
+      {"title": {"en": "outliers", "fr": "valeurs aberrantes"}, "key": "L2-3", "children": [
+        {"title": {"en": "column wise", "fr": "par colonne"}, "key": "L2-3-0", "children": []},
+        {"title": {"en": "row wise", "fr": "par rangée"}, "key": "L2-3-1", "children": []}
+      ]}
+    ],
+    "L3": [
+      {"title": {"en": "External information", "fr": "Informations externes"}, "key": "L3-0"}
+    ]
+  },
+  "d3-bars-stacked": {
+    "L1": [
+      {"title": {"en": "type", "fr": "type"}, "key": "L1-0"},
+      {"title": {"en": "title", "fr": "titre"}, "key": "L1-1"},
+      {"title": {"en": "intro", "fr": "intro"}, "key": "L1-2"},
+      {"title": {"en": "notes", "fr": "notes"}, "key": "L1-3"},
+      {"title": {"en": "axes", "fr": "axes"}, "key": "L1-4", "children": [
+        {"title": {"en": "x-axis", "fr": "axe x"}, "key": "L1-4-0"},
+        {"title": {"en": "y-axis", "fr": "axe y"}, "key": "L1-4-1"}
+      ]},
+      {"title": {"en": "color", "fr": "couleur"}, "key": "L1-5"}
+    ],
+    "L2": [
+      {"title": {"en": "data points", "fr": "points de données"}, "key": "L2-0", "children": [
+        {"title": {"en": "aggregate values", "fr": "valeurs agrégées"}, "key": "L2-0-0"},
+        {"title": {"en": "category wise", "fr": "par catégorie"}, "key": "L2-0-1", "children": []}
+      ]},
+      {"title": {"en": "extrema", "fr": "extrêmes"}, "key": "L2-1", "children": [
+        {"title": {"en": "maximum", "fr": "maximum"}, "key": "L2-1-0", "children": [
+          {"title": {"en": "aggregate values", "fr": "valeurs agrégées"}, "key": "L2-1-0-0"},
+          {"title": {"en": "category wise", "fr": "par catégorie"}, "key": "L2-1-0-1"},
+          {"title": {"en": "element wise", "fr": "par élément"}, "key": "L2-1-0-2"}
+        ]},
+        {"title": {"en": "minimum", "fr": "minimum"}, "key": "L2-1-1", "children": [
+          {"title": {"en": "aggregate values", "fr": "valeurs agrégées"}, "key": "L2-1-1-0"},
+          {"title": {"en": "category wise", "fr": "par catégorie"}, "key": "L2-1-1-1"},
+          {"title": {"en": "element wise", "fr": "par élément"}, "key": "L2-1-1-2"}
+        ]}
+      ]},
+      {"title": {"en": "distribution", "fr": "distribution"}, "key": "L2-2", "children": [
+        {"title": {"en": "mean", "fr": "moyenne"}, "key": "L2-2-0"},
+        {"title": {"en": "std", "fr": "écart-type"}, "key": "L2-2-1"},
+        {"title": {"en": "median", "fr": "médiane"}, "key": "L2-2-2"}
+      ]},
+      {"title": {"en": "outliers", "fr": "valeurs aberrantes"}, "key": "L2-3", "children": [
+        {"title": {"en": "aggregate values", "fr": "valeurs agrégées"}, "key": "L2-3-0"},
+        {"title": {"en": "category wise", "fr": "par catégorie"}, "key": "L2-3-1", "children": []},
+        {"title": {"en": "element wise", "fr": "par élément"}, "key": "L2-3-2", "children": []}
+      ]},
+      {"title": {"en": "correlation", "fr": "corrélation"}, "key": "L2-4"},
+      {"title": {"en": "trend", "fr": "tendance"}, "key": "L2-5"}
+    ],
+    "L3": [{"title": {"en": "External information", "fr": "Informations externes"}, "key": "L3-0"}]
+  },
+  "d3-bars-grouped": {
+    "L1": [
+      {"title": {"en": "type", "fr": "type"}, "key": "L1-0"},
+      {"title": {"en": "title", "fr": "titre"}, "key": "L1-1"},
+      {"title": {"en": "intro", "fr": "intro"}, "key": "L1-2"},
+      {"title": {"en": "notes", "fr": "notes"}, "key": "L1-3"},
+      {"title": {"en": "axes", "fr": "axes"}, "key": "L1-4", "children": [
+        {"title": {"en": "x-axis", "fr": "axe x"}, "key": "L1-4-0"},
+        {"title": {"en": "y-axis", "fr": "axe y"}, "key": "L1-4-1"}
+      ]},
+      {"title": {"en": "color", "fr": "couleur"}, "key": "L1-5"}
+    ],
+    "L2": [
+      {"title": {"en": "data points", "fr": "points de données"}, "key": "L2-0", "children": []},
+      {"title": {"en": "extrema", "fr": "extrêmes"}, "key": "L2-1", "children": [
+        {"title": {"en": "maximum", "fr": "maximum"}, "key": "L2-1-0", "children": [
+          {"title": {"en": "category wise", "fr": "par catégorie"}, "key": "L2-1-0-0"},
+          {"title": {"en": "element wise", "fr": "par l'élément"}, "key": "L2-1-0-1"}
+        ]},
+        {"title": {"en": "minimum", "fr": "minimum"}, "key": "L2-1-1", "children": [
+          {"title": {"en": "category wise", "fr": "par catégorie"}, "key": "L2-1-1-0"},
+          {"title": {"en": "element wise", "fr": "par l'élément"}, "key": "L2-1-1-1"}
+        ]}
+      ]},
+      {"title": {"en": "distribution", "fr": "distribution"}, "key": "L2-2", "children": [
+        {"title": {"en": "mean", "fr": "moyenne"}, "key": "L2-2-0", "children": [
+          {"title": {"en": "category wise", "fr": "par catégorie"}, "key": "L2-2-0-0"},
+          {"title": {"en": "element wise", "fr": "par l'élément"}, "key": "L2-2-0-1"}
+        ]},
+        {"title": {"en": "std", "fr": "écart-type"}, "key": "L2-2-1", "children": [
+          {"title": {"en": "category wise", "fr": "par catégorie"}, "key": "L2-2-1-0"},
+          {"title": {"en": "element wise", "fr": "par l'élément"}, "key": "L2-2-1-1"}
+        ]},
+        {"title": {"en": "median", "fr": "médiane"}, "key": "L2-2-2", "children": [
+          {"title": {"en": "category wise", "fr": "par catégorie"}, "key": "L2-2-2-0"},
+          {"title": {"en": "element wise", "fr": "par l'élément"}, "key": "L2-2-2-1"}
+        ]}
+      ]},
+      {"title": {"en": "outliers", "fr": "valeurs aberrantes"}, "key": "L2-3", "children": []},
+      {"title": {"en": "correlation", "fr": "corrélation"}, "key": "L2-4", "children": []},
+      {"title": {"en": "trend", "fr": "tendance"}, "key": "L2-5", "children": []}
+    ],
+    "L3": [{"title": {"en": "External information", "fr": "Informations externes"}, "key": "L3-0"}]
+  },
+  "column-chart": {
+    "L1": [
+      {"title": {"en": "type", "fr": "type"}, "key": "L1-0"},
+      {"title": {"en": "title", "fr": "titre"}, "key": "L1-1"},
+      {"title": {"en": "intro", "fr": "intro"}, "key": "L1-2"},
+      {"title": {"en": "notes", "fr": "notes"}, "key": "L1-3"},
+      {"title": {"en": "axes", "fr": "axes"}, "key": "L1-4", "children": [
+        {"title": {"en": "x-axis", "fr": "axe x"}, "key": "L1-4-0"},
+        {"title": {"en": "y-axis", "fr": "axe y"}, "key": "L1-4-1"}
+      ]},
+      {"title": {"en": "color", "fr": "couleur"}, "key": "L1-5"}
+    ],
+    "L2": [
+      {"title": {"en": "data points", "fr": "points de données"}, "key": "L2-0"},
+      {"title": {"en": "extrema", "fr": "extrêmes"}, "key": "L2-1", "children": [
+        {"title": {"en": "maximum", "fr": "maximum"}, "key": "L2-1-0"},
+        {"title": {"en": "minimum", "fr": "minimum"}, "key": "L2-1-1"}
+      ]},
+      {"title": {"en": "distribution", "fr": "distribution"}, "key": "L2-2", "children": [
+        {"title": {"en": "mean", "fr": "moyenne"}, "key": "L2-2-0"},
+        {"title": {"en": "std", "fr": "écart-type"}, "key": "L2-2-1"},
+        {"title": {"en": "median", "fr": "médiane"}, "key": "L2-2-2"}
+      ]},
+      {"title": {"en": "outliers", "fr": "valeurs aberrantes"}, "key": "L2-3"},
+      {"title": {"en": "correlation", "fr": "corrélation"}, "key": "L2-4"},
+      {"title": {"en": "trend", "fr": "tendance"}, "key": "L2-5"}
+    ],
+    "L3": [
+      {"title": {"en": "External information", "fr": "Informations externes"}, "key": "L3-0"}
+    ]
+  },
+  "grouped-column-chart": {
+    "L1": [
+      {"title": {"en": "type", "fr": "type"}, "key": "L1-0"},
+      {"title": {"en": "title", "fr": "titre"}, "key": "L1-1"},
+      {"title": {"en": "intro", "fr": "intro"}, "key": "L1-2"},
+      {"title": {"en": "notes", "fr": "notes"}, "key": "L1-3"},
+      {"title": {"en": "axes", "fr": "axes"}, "key": "L1-4", "children": [
+        {"title": {"en": "x-axis", "fr": "axe x"}, "key": "L1-4-0"},
+        {"title": {"en": "y-axis", "fr": "axe y"}, "key": "L1-4-1"}
+      ]},
+      {"title": {"en": "color", "fr": "couleur"}, "key": "L1-5"}
+    ],
+    "L2": [
+      {"title": {"en": "data points", "fr": "points de données"}, "key": "L2-0", "children": []},
+      {"title": {"en": "extrema", "fr": "extrêmes"}, "key": "L2-1", "children": [
+        {"title": {"en": "maximum", "fr": "maximum"}, "key": "L2-1-0", "children": [
+          {"title": {"en": "category wise", "fr": "par catégorie"}, "key": "L2-1-0-0"},
+          {"title": {"en": "element wise", "fr": "par l'élément"}, "key": "L2-1-0-1"}
+        ]},
+        {"title": {"en": "minimum", "fr": "minimum"}, "key": "L2-1-1", "children": [
+          {"title": {"en": "category wise", "fr": "par catégorie"}, "key": "L2-1-1-0"},
+          {"title": {"en": "element wise", "fr": "par l'élément"}, "key": "L2-1-1-1"}
+        ]}
+      ]},
+      {"title": {"en": "distribution", "fr": "distribution"}, "key": "L2-2", "children": [
+        {"title": {"en": "mean", "fr": "moyenne"}, "key": "L2-2-0", "children": [
+          {"title": {"en": "category wise", "fr": "par catégorie"}, "key": "L2-2-0-0"},
+          {"title": {"en": "element wise", "fr": "par l'élément"}, "key": "L2-2-0-1"}
+        ]},
+        {"title": {"en": "std", "fr": "écart-type"}, "key": "L2-2-1", "children": [
+          {"title": {"en": "category wise", "fr": "par catégorie"}, "key": "L2-2-1-0"},
+          {"title": {"en": "element wise", "fr": "par l'élément"}, "key": "L2-2-1-1"}
+        ]},
+        {"title": {"en": "median", "fr": "médiane"}, "key": "L2-2-2", "children": [
+          {"title": {"en": "category wise", "fr": "par catégorie"}, "key": "L2-2-2-0"},
+          {"title": {"en": "element wise", "fr": "par l'élément"}, "key": "L2-2-2-1"}
+        ]}
+      ]},
+      {"title": {"en": "outliers", "fr": "valeurs aberrantes"}, "key": "L2-3", "children": []},
+      {"title": {"en": "correlation", "fr": "corrélation"}, "key": "L2-4", "children": []},
+      {"title": {"en": "trend", "fr": "tendance"}, "key": "L2-5", "children": []}
+    ],
+    "L3": [{"title": {"en": "External information", "fr": "Informations externes"}, "key": "L3-0"}]
+  },
+  "stacked-column-chart": {
+    "L1": [
+      {"title": {"en": "type", "fr": "type"}, "key": "L1-0"},
+      {"title": {"en": "title", "fr": "titre"}, "key": "L1-1"},
+      {"title": {"en": "intro", "fr": "intro"}, "key": "L1-2"},
+      {"title": {"en": "notes", "fr": "notes"}, "key": "L1-3"},
+      {"title": {"en": "axes", "fr": "axes"}, "key": "L1-4", "children": [
+        {"title": {"en": "x-axis", "fr": "axe x"}, "key": "L1-4-0"},
+        {"title": {"en": "y-axis", "fr": "axe y"}, "key": "L1-4-1"}
+      ]},
+      {"title": {"en": "color", "fr": "couleur"}, "key": "L1-5"}
+    ],
+    "L2": [
+      {"title": {"en": "data points", "fr": "points de données"}, "key": "L2-0", "children": [
+        {"title": {"en": "aggregate values", "fr": "valeurs agrégées"}, "key": "L2-0-0"},
+        {"title": {"en": "category wise", "fr": "par catégorie"}, "key": "L2-0-1", "children": []}
+      ]},
+      {"title": {"en": "extrema", "fr": "extrêmes"}, "key": "L2-1", "children": [
+        {"title": {"en": "maximum", "fr": "maximum"}, "key": "L2-1-0", "children": [
+          {"title": {"en": "aggregate values", "fr": "valeurs agrégées"}, "key": "L2-1-0-0"},
+          {"title": {"en": "category wise", "fr": "par catégorie"}, "key": "L2-1-0-1"},
+          {"title": {"en": "element wise", "fr": "par élément"}, "key": "L2-1-0-2"}
+        ]},
+        {"title": {"en": "minimum", "fr": "minimum"}, "key": "L2-1-1", "children": [
+          {"title": {"en": "aggregate values", "fr": "valeurs agrégées"}, "key": "L2-1-1-0"},
+          {"title": {"en": "category wise", "fr": "par catégorie"}, "key": "L2-1-1-1"},
+          {"title": {"en": "element wise", "fr": "par élément"}, "key": "L2-1-1-2"}
+        ]}
+      ]},
+      {"title": {"en": "distribution", "fr": "distribution"}, "key": "L2-2", "children": [
+        {"title": {"en": "mean", "fr": "moyenne"}, "key": "L2-2-0"},
+        {"title": {"en": "std", "fr": "écart-type"}, "key": "L2-2-1"},
+        {"title": {"en": "median", "fr": "médiane"}, "key": "L2-2-2"}
+      ]},
+      {"title": {"en": "outliers", "fr": "valeurs aberrantes"}, "key": "L2-3", "children": [
+        {"title": {"en": "aggregate values", "fr": "valeurs agrégées"}, "key": "L2-3-0"},
+        {"title": {"en": "category wise", "fr": "par catégorie"}, "key": "L2-3-1", "children": []},
+        {"title": {"en": "element wise", "fr": "par élément"}, "key": "L2-3-2", "children": []}
+      ]},
+      {"title": {"en": "correlation", "fr": "corrélation"}, "key": "L2-4"},
+      {"title": {"en": "trend", "fr": "tendance"}, "key": "L2-5"}
+    ],
+    "L3": [{"title": {"en": "External information", "fr": "Informations externes"}, "key": "L3-0"}]
+  },
+  "d3-area": {
+    "L1": [
+      {"title": {"en": "type", "fr": "type"}, "key": "L1-0"},
+      {"title": {"en": "title", "fr": "titre"}, "key": "L1-1"},
+      {"title": {"en": "intro", "fr": "intro"}, "key": "L1-2"},
+      {"title": {"en": "notes", "fr": "notes"}, "key": "L1-3"},
+      {"title": {"en": "axes", "fr": "axes"}, "key": "L1-4", "children": [
+        {"title": {"en": "x-axis", "fr": "axe x"}, "key": "L1-4-0"},
+        {"title": {"en": "y-axis", "fr": "axe y"}, "key": "L1-4-1"}
+      ]},
+      {"title": {"en": "color", "fr": "couleur"}, "key": "L1-5"}
+    ],
+    "L2": [
+      {"title": {"en": "data points", "fr": "points de données"}, "key": "L2-0"},
+      {"title": {"en": "extrema", "fr": "extrêmes"}, "key": "L2-1", "children": [
+        {"title": {"en": "maximum", "fr": "maximum"}, "key": "L2-1-0"},
+        {"title": {"en": "minimum", "fr": "minimum"}, "key": "L2-1-1"}
+      ]},
+      {"title": {"en": "distribution", "fr": "distribution"}, "key": "L2-2", "children": [
+        {"title": {"en": "mean", "fr": "moyenne"}, "key": "L2-2-0"},
+        {"title": {"en": "std", "fr": "écart-type"}, "key": "L2-2-1"},
+        {"title": {"en": "median", "fr": "médiane"}, "key": "L2-2-2"}
+      ]},
+      {"title": {"en": "outliers", "fr": "valeurs aberrantes"}, "key": "L2-3"},
+      {"title": {"en": "correlation", "fr": "corrélation"}, "key": "L2-4"},
+      {"title": {"en": "trend", "fr": "tendance"}, "key": "L2-5"}
+    ],
+    "L3": [{"title": {"en": "External information", "fr": "Informations externes"}, "key": "L3-0"}]
+  },
+  "d3-lines": {
+    "L1": [
+      {"title": {"en": "type", "fr": "type"}, "key": "L1-0"},
+      {"title": {"en": "title", "fr": "titre"}, "key": "L1-1"},
+      {"title": {"en": "intro", "fr": "intro"}, "key": "L1-2"},
+      {"title": {"en": "notes", "fr": "notes"}, "key": "L1-3"},
+      {"title": {"en": "axes", "fr": "axes"}, "key": "L1-4", "children": [
+        {"title": {"en": "x-axis", "fr": "axe x"}, "key": "L1-4-0"},
+        {"title": {"en": "y-axis", "fr": "axe y"}, "key": "L1-4-1"}
+      ]},
+      {"title": {"en": "color", "fr": "couleur"}, "key": "L1-5"}
+    ],
+    "L2": [
+      {"title": {"en": "data points", "fr": "points de données"}, "key": "L2-0"},
+      {"title": {"en": "extrema", "fr": "extrêmes"}, "key": "L2-1", "children": [
+        {"title": {"en": "maximum", "fr": "maximum"}, "key": "L2-1-0"},
+        {"title": {"en": "minimum", "fr": "minimum"}, "key": "L2-1-1"}
+      ]},
+      {"title": {"en": "distribution", "fr": "distribution"}, "key": "L2-2", "children": [
+        {"title": {"en": "mean", "fr": "moyenne"}, "key": "L2-2-0"},
+        {"title": {"en": "std", "fr": "écart-type"}, "key": "L2-2-1"},
+        {"title": {"en": "median", "fr": "médiane"}, "key": "L2-2-2"}
+      ]},
+      {"title": {"en": "outliers", "fr": "valeurs aberrantes"}, "key": "L2-3"},
+      {"title": {"en": "correlation", "fr": "corrélation"}, "key": "L2-4"},
+      {"title": {"en": "trend", "fr": "tendance"}, "key": "L2-5"}
+    ],
+    "L3": [{"title": {"en": "External information", "fr": "Informations externes"}, "key": "L3-0"}]
+  },
+  "d3-pies": {
+    "L1": [
+      {"title": {"en": "type", "fr": "type"}, "key": "L1-0"},
+      {"title": {"en": "title", "fr": "titre"}, "key": "L1-1"},
+      {"title": {"en": "intro", "fr": "intro"}, "key": "L1-2"},
+      {"title": {"en": "notes", "fr": "notes"}, "key": "L1-3"},
+      {"title": {"en": "order", "fr": "ordre"}, "key": "L1-4"},
+      {"title": {"en": "color", "fr": "couleur"}, "key": "L1-5"}
+    ],
+    "L2": [
+      {"title": {"en": "data points", "fr": "points de données"}, "key": "L2-0"},
+      {"title": {"en": "extrema", "fr": "extrêmes"}, "key": "L2-1", "children": [
+        {"title": {"en": "maximum", "fr": "maximum"}, "key": "L2-1-0"},
+        {"title": {"en": "minimum", "fr": "minimum"}, "key": "L2-1-1"}
+      ]},
+      {"title": {"en": "outliers", "fr": "valeurs aberrantes"}, "key": "L2-2"}
+    ],
+    "L3": [
+      {"title": {"en": "External information", "fr": "Informations externes"}, "key": "L3-0"}
+    ]
+  }
+}

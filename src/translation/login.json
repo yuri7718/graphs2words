@@ -1,0 +1,12 @@
+{
+  "en": {
+    "missingToken": "Please enter the token",
+    "invalidToken": "Invalid token",
+    "submit": "Submit"
+  },
+  "fr": {
+    "missingToken": "Veuillez entrer le jeton",
+    "invalidToken": "Jeton invalide",
+    "submit": "Soumettre"
+  }
+}

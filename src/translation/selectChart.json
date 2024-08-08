@@ -1,0 +1,12 @@
+{
+  "en": {
+    "searchError": "Failed to find chart ID",
+    "searchPlaceholder": "Search Chart ID",
+    "select": "Select"
+  },
+  "fr": {
+    "searchError": "Impossible de trouver l'ID du graphique",
+    "searchPlaceholder": "Rechercher l'ID du graphique",
+    "select": "Sélectionner"
+  }
+}

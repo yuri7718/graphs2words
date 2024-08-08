@@ -1,0 +1,5179 @@
+{
+    "data": [
+        {
+            "publicId": "MLjqQ",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/MLjqQ/e48f5a0e4bdc3686cc6f4c757de6a594/full.png"
+        },
+        {
+            "publicId": "xFB53",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/xFB53/be0829b31258ff3c463f2f5c9e397a72/full.png"
+        },
+        {
+            "publicId": "R6d6p",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/R6d6p/781b10deb8fd24e27189c6077681fa91/full.png"
+        },
+        {
+            "publicId": "L2vnY",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/L2vnY/0457ea09caeab5b1acfc2773a67ede78/full.png"
+        },
+        {
+            "publicId": "teYyr",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/teYyr/f1b0c55b8e155eee7da643e8a37a5498/full.png"
+        },
+        {
+            "publicId": "o0u9F",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/o0u9F/490ebf155008e6410af49e5bd52dbaa6/full.png"
+        },
+        {
+            "publicId": "T4Vvb",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/T4Vvb/6549bb877618b1ed30409e58dd2f6cd0/full.png"
+        },
+        {
+            "publicId": "wbBK2",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/wbBK2/f7dd834da489daf75b8d8d89ef97abf5/full.png"
+        },
+        {
+            "publicId": "bzpxl",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/bzpxl/a0a36dd5ed7f2a2dbf05bda27e7eab47/full.png"
+        },
+        {
+            "publicId": "p7wgh",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/p7wgh/414aed0e5c458bae59b5420ec826085d/full.png"
+        },
+        {
+            "publicId": "s6t9O",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/s6t9O/f78682c543dc742f4b0f28cda2ae2aa0/full.png"
+        },
+        {
+            "publicId": "FhWPI",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/FhWPI/f1def8ecf04a559308df82d24bbdb4f8/full.png"
+        },
+        {
+            "publicId": "e97qi",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/e97qi/6750bf2e41ab767d5acb414dd69a91aa/full.png"
+        },
+        {
+            "publicId": "XoXwZ",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/XoXwZ/4ea212422b371e7b29f78d5f3ef54cae/full.png"
+        },
+        {
+            "publicId": "7hP8Y",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/7hP8Y/0c4e109fa0649c7f1b020a1f0e3f40b8/full.png"
+        },
+        {
+            "publicId": "Q4Vc9",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/Q4Vc9/17e59a12102a0dced7f2752c7f136cbe/full.png"
+        },
+        {
+            "publicId": "3fnJH",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/3fnJH/163d3ae028ec0cd4fdd69ce7eba7939c/full.png"
+        },
+        {
+            "publicId": "JrzgE",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/JrzgE/d6600baeed61c90b7a519a4c07c7e2f6/full.png"
+        },
+        {
+            "publicId": "4u7jH",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/4u7jH/ab42f52883b27fee7e450a4e8522dc4a/full.png"
+        },
+        {
+            "publicId": "splRb",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/splRb/48e4f1000ab472d2f719e605d00d212d/full.png"
+        },
+        {
+            "publicId": "TUB0W",
+            "type": "d3-area",
+            "thumbnail": "//img.datawrapper.de/TUB0W/b32def909f7055a3cb9a7dbcba79290a/full.png"
+        },
+        {
+            "publicId": "TdcNo",
+            "type": "d3-area",
+            "thumbnail": "//img.datawrapper.de/TdcNo/bebfddb5855d8de15708bd7c68ee6288/full.png"
+        },
+        {
+            "publicId": "nTxXz",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/nTxXz/6305c353f24b0ddccf86d87f2875a3d9/full.png"
+        },
+        {
+            "publicId": "Iddeu",
+            "type": "d3-area",
+            "thumbnail": "//img.datawrapper.de/Iddeu/9979e94012fb031612114683a5b93bc6/full.png"
+        },
+        {
+            "publicId": "qtyW4",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/qtyW4/29e0f6a10a8a090851fbf2b7488ce1ae/full.png"
+        },
+        {
+            "publicId": "z05qE",
+            "type": "d3-bars-stacked",
+            "thumbnail": "//img.datawrapper.de/z05qE/8acd663d66eea1ac5f4318d0ac325124/full.png"
+        },
+        {
+            "publicId": "4acZP",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/4acZP/06e57bd30d2b1d1984f4d38957fde118/full.png"
+        },
+        {
+            "publicId": "B1cM3",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/B1cM3/85f63446c3bb95371cd1e0b4ad612011/full.png"
+        },
+        {
+            "publicId": "hI8y9",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/hI8y9/20993fa2a3a759e55ddb25e6aa8c7c3c/full.png"
+        },
+        {
+            "publicId": "6YsyY",
+            "type": "stacked-column-chart",
+            "thumbnail": "//img.datawrapper.de/6YsyY/37b15cb8d48e527e6c4f371913ddb7ce/full.png"
+        },
+        {
+            "publicId": "cRMaG",
+            "type": "d3-bars-stacked",
+            "thumbnail": "//img.datawrapper.de/cRMaG/18f12f88108d2ee20cff67c8cb4eb577/full.png"
+        },
+        {
+            "publicId": "p2R5p",
+            "type": "stacked-column-chart",
+            "thumbnail": "//img.datawrapper.de/p2R5p/de8a21c6c5b95631cf8112838158c6b0/full.png"
+        },
+        {
+            "publicId": "nGgiZ",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/nGgiZ/7aab6c1b70fb529b1b26d2fec85657ca/full.png"
+        },
+        {
+            "publicId": "zRzqX",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/zRzqX/9f563df4bfc24e1855fbd1b6d76b0797/full.png"
+        },
+        {
+            "publicId": "d8DKm",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/d8DKm/7f57432d7a93a43b44a983c9b262cec3/full.png"
+        },
+        {
+            "publicId": "gt192",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/gt192/2b594f5033e9b2bfc5af359b2e2dc5d0/full.png"
+        },
+        {
+            "publicId": "olo5n",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/olo5n/5c5beabf061727b027637df1e0152997/full.png"
+        },
+        {
+            "publicId": "Zrtrf",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/Zrtrf/814e8dcf9ec5e7e1a4d7a783ef00f348/full.png"
+        },
+        {
+            "publicId": "MUYMY",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/MUYMY/2aded4dd33f271681c14bef109bf1fcb/full.png"
+        },
+        {
+            "publicId": "s9FMw",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/s9FMw/5c07d8f6eb8caf557e5234056672f54e/full.png"
+        },
+        {
+            "publicId": "sbsXG",
+            "type": "stacked-column-chart",
+            "thumbnail": "//img.datawrapper.de/sbsXG/e1648e58da78bd666b3632478bb1b823/full.png"
+        },
+        {
+            "publicId": "eO7on",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/eO7on/5c33caa082e7cb25afe3fa6afad98c82/full.png"
+        },
+        {
+            "publicId": "aDWBV",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/aDWBV/3e4b6eb2b923b3c4525ebef074f02b42/full.png"
+        },
+        {
+            "publicId": "61mbS",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/61mbS/c2c53277c0efe49e920c67db189de828/full.png"
+        },
+        {
+            "publicId": "09ozB",
+            "type": "stacked-column-chart",
+            "thumbnail": "//img.datawrapper.de/09ozB/230c7ba24c77ff50f3c5ceb60c6de0dc/full.png"
+        },
+        {
+            "publicId": "nK7u5",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/nK7u5/a3102f119f1556cf361708e4066dcc5b/full.png"
+        },
+        {
+            "publicId": "i7RYR",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/i7RYR/d09f6474f1bbcf25891db877eceff56a/full.png"
+        },
+        {
+            "publicId": "Fj19i",
+            "type": "stacked-column-chart",
+            "thumbnail": "//img.datawrapper.de/Fj19i/914004de500cf85086e1fa260e5e1159/full.png"
+        },
+        {
+            "publicId": "MaQ3e",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/MaQ3e/f7289f7f6bb93be3d17d52d8d35b586c/full.png"
+        },
+        {
+            "publicId": "7Oh8S",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/7Oh8S/ea01173b6d9a310a3412d2b6634132c4/full.png"
+        },
+        {
+            "publicId": "xDP8B",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/xDP8B/4ba578da4fa741e92429d8b9bc3d0cbf/full.png"
+        },
+        {
+            "publicId": "1ryfb",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/1ryfb/6780e9be1179f050a2114c7e967ce11a/full.png"
+        },
+        {
+            "publicId": "EcnML",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/EcnML/5196492c3f579f8ced663254c2684ea1/full.png"
+        },
+        {
+            "publicId": "Shj4k",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/Shj4k/5248854a247e6470d624c6d2e5245052/full.png"
+        },
+        {
+            "publicId": "3Nelq",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/3Nelq/e8bfe54753036f2d910e8dfa11416d1d/full.png"
+        },
+        {
+            "publicId": "ld5Z8",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/ld5Z8/bf030b0fdfa4d43cd286f54590710082/full.png"
+        },
+        {
+            "publicId": "JP8ch",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/JP8ch/afcf738384c4216d222afbd3b0302b00/full.png"
+        },
+        {
+            "publicId": "qmdZA",
+            "type": "d3-bars-stacked",
+            "thumbnail": "//img.datawrapper.de/qmdZA/2947082df1d3cf91ba5e48cc71ba4114/full.png"
+        },
+        {
+            "publicId": "huiSp",
+            "type": "d3-area",
+            "thumbnail": "//img.datawrapper.de/huiSp/ff4583ceaa1d7ed8ebbe5178c95e8888/full.png"
+        },
+        {
+            "publicId": "eCV6w",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/eCV6w/fb5e8ca75b46e443f990b73f2a739b73/full.png"
+        },
+        {
+            "publicId": "nYfcg",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/nYfcg/3d1b65c449477106446269f1c372eedf/full.png"
+        },
+        {
+            "publicId": "Cw2AR",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/Cw2AR/df866541e7cb5d9b3a0af80df373d17a/full.png"
+        },
+        {
+            "publicId": "kONJj",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/kONJj/873ba79de890976b7a23d953ac130fa9/full.png"
+        },
+        {
+            "publicId": "t04nh",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/t04nh/a08faf52c6ebc5cd32a8d164ed0f15d6/full.png"
+        },
+        {
+            "publicId": "Z6yV6",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/Z6yV6/6e1b92adac38be618d87248191bdc060/full.png"
+        },
+        {
+            "publicId": "m69Nh",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/m69Nh/c2af50b5383d923a7c0101f2a8d01ae7/full.png"
+        },
+        {
+            "publicId": "t5nfS",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/t5nfS/529c5b5ca98cc4e2d9a9a2a5a39b0df5/full.png"
+        },
+        {
+            "publicId": "bL78m",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/bL78m/0d74ff4b17ab4e51b0c1510174c66df2/full.png"
+        },
+        {
+            "publicId": "0Ff2T",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/0Ff2T/96526808c36ea3b53d4407a672921ca2/full.png"
+        },
+        {
+            "publicId": "98yFv",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/98yFv/8e1fc4199385976f643f430d8f2d623b/full.png"
+        },
+        {
+            "publicId": "mI5wg",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/mI5wg/f3a313b1b5ea70bd58ab926cca7af686/full.png"
+        },
+        {
+            "publicId": "hoPKC",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/hoPKC/e7ad5c852c9fb12c86285d7d0dec0d48/full.png"
+        },
+        {
+            "publicId": "DRC34",
+            "type": "d3-area",
+            "thumbnail": "//img.datawrapper.de/DRC34/9dc61d317131175b1a6d1d7facbb0182/full.png"
+        },
+        {
+            "publicId": "TZBBI",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/TZBBI/52fbe217567908cc2cdcf01c978ac9c2/full.png"
+        },
+        {
+            "publicId": "T1fCR",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/T1fCR/4ba8ec9216c0893a7ec954dcb3ed46a6/full.png"
+        },
+        {
+            "publicId": "r28FD",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/r28FD/01944125ec0432fce7c75f983a9eebfa/full.png"
+        },
+        {
+            "publicId": "BTQ6a",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/BTQ6a/cc4e45f16b1c16a17f2646b69df1dd22/full.png"
+        },
+        {
+            "publicId": "kJ5Bu",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/kJ5Bu/fbd66fa47463b57d120de4a50a1773bf/full.png"
+        },
+        {
+            "publicId": "cKZxA",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/cKZxA/3920c0af7d53ca190e3367f8957e6582/full.png"
+        },
+        {
+            "publicId": "tCyN4",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/tCyN4/f2fb05192abc6f6e8c56123d0129bee1/full.png"
+        },
+        {
+            "publicId": "yfCrw",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/yfCrw/bed07791012dd939c778a9e12bb595be/full.png"
+        },
+        {
+            "publicId": "CBTnY",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/CBTnY/50271dcff27f5a334c7a5cea82e69a85/full.png"
+        },
+        {
+            "publicId": "nPMYO",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/nPMYO/279af184d55806ce63fd9ea401b7ee9e/full.png"
+        },
+        {
+            "publicId": "5NwXo",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/5NwXo/e6e0b1a8d91034ffcec48675c042b675/full.png"
+        },
+        {
+            "publicId": "qgpcz",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/qgpcz/38c140c1caedb39694e3d4e9b0a29bd4/full.png"
+        },
+        {
+            "publicId": "flyXV",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/flyXV/2e2b8556c5ff50d0a0efec2b740e019c/full.png"
+        },
+        {
+            "publicId": "EMwiu",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/EMwiu/8ef73c42bb7cb9dd5839eb7c2c9f5d18/full.png"
+        },
+        {
+            "publicId": "QAgVi",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/QAgVi/abef0c432406b378cb76f8726d20277f/full.png"
+        },
+        {
+            "publicId": "A89O9",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/A89O9/394b9d414022aef3f71c8a4d4ba571fd/full.png"
+        },
+        {
+            "publicId": "Pkc1h",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/Pkc1h/60c2031e3272e7c07298829c8998e963/full.png"
+        },
+        {
+            "publicId": "tisSX",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/tisSX/38427f7032e3175050041858f7e74609/full.png"
+        },
+        {
+            "publicId": "as4wY",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/as4wY/2e76ae13206e2eb03be202d252f615f5/full.png"
+        },
+        {
+            "publicId": "0IuSH",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/0IuSH/ae16773eb6562a35baf30968dba95475/full.png"
+        },
+        {
+            "publicId": "ou3qH",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/ou3qH/22f3d795adfec8e1b2f6c7abacf59758/full.png"
+        },
+        {
+            "publicId": "aejS5",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/aejS5/8d1355a94006adeb0d80771f818e3010/full.png"
+        },
+        {
+            "publicId": "Df9lN",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/Df9lN/aed939e893b6685e4356ffc8e44f2254/full.png"
+        },
+        {
+            "publicId": "lyF1P",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/lyF1P/804c236d0244020664c293b54505261b/full.png"
+        },
+        {
+            "publicId": "l5tkw",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/l5tkw/e25c879ffc6d908518547a898ff2c5f4/full.png"
+        },
+        {
+            "publicId": "8aRu9",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/8aRu9/c93dbe8300199d33621b4ef5cdcf6a8d/full.png"
+        },
+        {
+            "publicId": "wWUyB",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/wWUyB/99ef369b5f2bc4da53b7024377449c5c/full.png"
+        },
+        {
+            "publicId": "sP3rT",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/sP3rT/42314f89366fd775df3452088092acd2/full.png"
+        },
+        {
+            "publicId": "pnEY4",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/pnEY4/e41f1c1d1c117bee21fd0af06fbed365/full.png"
+        },
+        {
+            "publicId": "v4YsK",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/v4YsK/f7bf421b722c72f78efb7a032ab681e3/full.png"
+        },
+        {
+            "publicId": "naauF",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/naauF/d8bfbe43e8d50c4514ab8da6b099ac65/full.png"
+        },
+        {
+            "publicId": "dezv5",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/dezv5/74d52343d6c83dea32826987bcab8139/full.png"
+        },
+        {
+            "publicId": "u3WZJ",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/u3WZJ/7b590512bf04cf3e7412513c12ac57a5/full.png"
+        },
+        {
+            "publicId": "4iNep",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/4iNep/39d003de38e10615b92074634414a5c8/full.png"
+        },
+        {
+            "publicId": "wvGug",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/wvGug/d9037ce30857565c9180f13557416031/full.png"
+        },
+        {
+            "publicId": "x7wrA",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/x7wrA/2a91ad3d9822ffbc7311c7d2dcf9f45f/full.png"
+        },
+        {
+            "publicId": "nG0wz",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/nG0wz/c018eba5ca42be1c25f4c2e554cadf69/full.png"
+        },
+        {
+            "publicId": "mV48q",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/mV48q/e242cd17be7021f9018305e730f5bf68/full.png"
+        },
+        {
+            "publicId": "vg11C",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/vg11C/0b608cf7e2efbddd42f07f0271c80a38/full.png"
+        },
+        {
+            "publicId": "N2xgs",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/N2xgs/768d9404d6fe8512e7dc353e3468480c/full.png"
+        },
+        {
+            "publicId": "rcoan",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/rcoan/b6fa060067a4f805a1c3589da1b0545c/full.png"
+        },
+        {
+            "publicId": "VbfTv",
+            "type": "d3-bars-stacked",
+            "thumbnail": "//img.datawrapper.de/VbfTv/87bd1009f1420140f79b6a434e73ddbc/full.png"
+        },
+        {
+            "publicId": "iCJei",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/iCJei/e110801f9c42f8cc9cd0f6e84c2a064c/full.png"
+        },
+        {
+            "publicId": "AyxQZ",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/AyxQZ/385954e2bbab02ea25e17c95ee14e6b0/full.png"
+        },
+        {
+            "publicId": "gErHm",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/gErHm/3cf70a32fb969cfea8f0fb4e5d8bd9fa/full.png"
+        },
+        {
+            "publicId": "eac8F",
+            "type": "stacked-column-chart",
+            "thumbnail": "//img.datawrapper.de/eac8F/654fe0e3bd570cc49e7532c22cfa1dbe/full.png"
+        },
+        {
+            "publicId": "ujkUh",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/ujkUh/51aaaff511d1877ef5cd13f7e182e313/full.png"
+        },
+        {
+            "publicId": "bHpj4",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/bHpj4/9d05a609a143e475c1bc9d9121ab438b/full.png"
+        },
+        {
+            "publicId": "bxvqk",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/bxvqk/3e19bf3c56126f2442d9bf5f555424f7/full.png"
+        },
+        {
+            "publicId": "diVXE",
+            "type": "d3-area",
+            "thumbnail": "//img.datawrapper.de/diVXE/5ec056bf61e54fc4c6e274d123e6f532/full.png"
+        },
+        {
+            "publicId": "bAQ3P",
+            "type": "d3-area",
+            "thumbnail": "//img.datawrapper.de/bAQ3P/60b854811b0e924d4c42216e09813c68/full.png"
+        },
+        {
+            "publicId": "OB2R3",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/OB2R3/84eef073182818f04724b2fc1c8bd4eb/full.png"
+        },
+        {
+            "publicId": "P6x50",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/P6x50/e7178eb40af3edc51feb618868b0a84e/full.png"
+        },
+        {
+            "publicId": "gNHYW",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/gNHYW/2edc717c1450cf640aed3f3b3c81f693/full.png"
+        },
+        {
+            "publicId": "8SLZc",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/8SLZc/2f12f4696339a67f9313bf8ec2449aa0/full.png"
+        },
+        {
+            "publicId": "V8VmF",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/V8VmF/d5fc857b8bd73e0ce1feeaa3aa27f771/full.png"
+        },
+        {
+            "publicId": "RB7mF",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/RB7mF/55a36d74b7566766eeb4796ab41d7b9b/full.png"
+        },
+        {
+            "publicId": "JAoWD",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/JAoWD/ed2da075b1f5583dfa2780bb333230f6/full.png"
+        },
+        {
+            "publicId": "FrCGv",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/FrCGv/053ba28dd0490bbc883c18029917b19c/full.png"
+        },
+        {
+            "publicId": "xWqvz",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/xWqvz/09983c33bebb0005824bcc7a14910e90/full.png"
+        },
+        {
+            "publicId": "GBT8O",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/GBT8O/a2cc0975d9d0949bb66ed665270c6d2a/full.png"
+        },
+        {
+            "publicId": "R4hRi",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/R4hRi/1c381a63bd6136f7008084a8a2e79754/full.png"
+        },
+        {
+            "publicId": "y5t9h",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/y5t9h/24f2a64284b1213974f41964cc7503e9/full.png"
+        },
+        {
+            "publicId": "BKo5g",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/BKo5g/32d4b565b2ac69bcb0072fe17309dd68/full.png"
+        },
+        {
+            "publicId": "XNkk6",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/XNkk6/10380f215fd9324bb61369991cd0454d/full.png"
+        },
+        {
+            "publicId": "lOzID",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/lOzID/ae23a5d047ea92da390ac17ab8718437/full.png"
+        },
+        {
+            "publicId": "zWpRy",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/zWpRy/10e62acef696c59981d6c41824b852db/full.png"
+        },
+        {
+            "publicId": "bbvyR",
+            "type": "d3-area",
+            "thumbnail": "//img.datawrapper.de/bbvyR/2a9a876d890a069a1084118282ad15a6/full.png"
+        },
+        {
+            "publicId": "7lRyY",
+            "type": "d3-area",
+            "thumbnail": "//img.datawrapper.de/7lRyY/638b7d1ac6da9ac02fb15d43fc475115/full.png"
+        },
+        {
+            "publicId": "EdnSv",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/EdnSv/b42d944596367806145e223a3bade108/full.png"
+        },
+        {
+            "publicId": "An2xX",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/An2xX/b3857eb2edea72474228b710c19d448d/full.png"
+        },
+        {
+            "publicId": "Y532V",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/Y532V/8ce6a685f0a2c21b0249df55a8f2022d/full.png"
+        },
+        {
+            "publicId": "QNSva",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/QNSva/008736f1211a7a5e2feb975840dce746/full.png"
+        },
+        {
+            "publicId": "zr0ht",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/zr0ht/823185eb346df40894407ae245601e16/full.png"
+        },
+        {
+            "publicId": "RYyWX",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/RYyWX/9c11b101b425462407eeecb2ae88e7fd/full.png"
+        },
+        {
+            "publicId": "Cmc5I",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/Cmc5I/cddee93d568261a480ff603fe543ab9f/full.png"
+        },
+        {
+            "publicId": "1C9nV",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/1C9nV/a0c54e84addd494d264c90862e062862/full.png"
+        },
+        {
+            "publicId": "c0d1B",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/c0d1B/b76c7c83b2b6cd582c0a63a7f32df225/full.png"
+        },
+        {
+            "publicId": "n7kni",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/n7kni/7ebddb7af28ec8517b771952d5d0f6d1/full.png"
+        },
+        {
+            "publicId": "C9SiR",
+            "type": "d3-area",
+            "thumbnail": "//img.datawrapper.de/C9SiR/3a760f120c9fd81eabc3ed0b639dfbba/full.png"
+        },
+        {
+            "publicId": "bY5yE",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/bY5yE/60d4204c060020cefcdcd080bb325fde/full.png"
+        },
+        {
+            "publicId": "mpVk2",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/mpVk2/9ae4efd32a8d11423a45ebade5421891/full.png"
+        },
+        {
+            "publicId": "rdvMQ",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/rdvMQ/bbd87e8be2be18ca881288d7e09d35a1/full.png"
+        },
+        {
+            "publicId": "Up4fy",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/Up4fy/bb85155154c75483d03e62e610d408da/full.png"
+        },
+        {
+            "publicId": "lYO9j",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/lYO9j/469e6913ba1f5571b4e183a9acd41ee3/full.png"
+        },
+        {
+            "publicId": "rMKai",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/rMKai/b2ed62cfb5ce574eb538e1c1c227afcc/full.png"
+        },
+        {
+            "publicId": "Coa1E",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/Coa1E/8740128a292be20c3c6c111c37af9f5a/full.png"
+        },
+        {
+            "publicId": "WhDsl",
+            "type": "stacked-column-chart",
+            "thumbnail": "//img.datawrapper.de/WhDsl/55c22178291ed382a9f3edf456c72835/full.png"
+        },
+        {
+            "publicId": "Vd8Y4",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/Vd8Y4/58d2b26bdb4abdc48926a0b4e3ca7534/full.png"
+        },
+        {
+            "publicId": "YwnkI",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/YwnkI/b1380173aff901d24151216f405e75cc/full.png"
+        },
+        {
+            "publicId": "nW5Lo",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/nW5Lo/2de2c038bbc1aa191e1f6bb0568ada9d/full.png"
+        },
+        {
+            "publicId": "3Bgzy",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/3Bgzy/54e40cd5681ea5feb88ec1eca9e2c2f1/full.png"
+        },
+        {
+            "publicId": "Bw8Hy",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/Bw8Hy/de59b436a3c2967a0ff0f1306b278488/full.png"
+        },
+        {
+            "publicId": "19TJS",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/19TJS/31e2e4b422c2ff23afaf0a47ca1a0f72/full.png"
+        },
+        {
+            "publicId": "vXRxl",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/vXRxl/d5a06db98d2194c93d8616b0f11749d6/full.png"
+        },
+        {
+            "publicId": "D6Yu4",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/D6Yu4/7cdc076c5678dddabd3dfc0a3f1fb4f2/full.png"
+        },
+        {
+            "publicId": "rXMuz",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/rXMuz/ed985fae2c77bd3086722f1e44b64863/full.png"
+        },
+        {
+            "publicId": "wLBNG",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/wLBNG/5c496b9878158599f6fffa6fceadc2e8/full.png"
+        },
+        {
+            "publicId": "bDb9O",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/bDb9O/ff9159a2f9efa582a44287c4ede2dd3e/full.png"
+        },
+        {
+            "publicId": "G00EZ",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/G00EZ/6474fb1f42cd34d854b9635863874d29/full.png"
+        },
+        {
+            "publicId": "EllIR",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/EllIR/f080f90b60f20299977797dae3c5d9e8/full.png"
+        },
+        {
+            "publicId": "Rozfq",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/Rozfq/b5b1ab615bd38e379cf18cb8fdc56966/full.png"
+        },
+        {
+            "publicId": "ocFQN",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/ocFQN/fa8d91738a45ddf58c0c8a78fcde1dc4/full.png"
+        },
+        {
+            "publicId": "YaQBL",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/YaQBL/3f02a98c25a1e2e8a9681d0da3b4a4b6/full.png"
+        },
+        {
+            "publicId": "Fgn78",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/Fgn78/31f5d616aa83999e8fc49d6ddc681d5c/full.png"
+        },
+        {
+            "publicId": "7eHFt",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/7eHFt/f6ad900d985470e2c72a95b6a2854b3b/full.png"
+        },
+        {
+            "publicId": "p2xVd",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/p2xVd/17a04414ce2e6a237f9e4c4b61de4c8f/full.png"
+        },
+        {
+            "publicId": "wvbkc",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/wvbkc/cbf54675424e1b9098d9c0c4487574ac/full.png"
+        },
+        {
+            "publicId": "iZzk5",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/iZzk5/7cb4954ee105a233ddf9943a18bb03e3/full.png"
+        },
+        {
+            "publicId": "XlHXH",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/XlHXH/ce1435ad33ba21aa641d59ff823648fd/full.png"
+        },
+        {
+            "publicId": "RRlkd",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/RRlkd/baeee74605a4d31dee19c20977b7aee8/full.png"
+        },
+        {
+            "publicId": "GrZfv",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/GrZfv/d77be30e649e8c50bcdeab64ad42c30a/full.png"
+        },
+        {
+            "publicId": "xrof7",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/xrof7/833594b354fcc8229fe72ca1455672c4/full.png"
+        },
+        {
+            "publicId": "mZqnb",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/mZqnb/a3dd4d92ddf10953f4376630d24f0c9b/full.png"
+        },
+        {
+            "publicId": "URuGg",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/URuGg/6099f14d19c19323207d65a82af99a16/full.png"
+        },
+        {
+            "publicId": "VIlFk",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/VIlFk/792ca1cbdcfcc8e794c389807226b7a0/full.png"
+        },
+        {
+            "publicId": "GIQlv",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/GIQlv/d5e20998da3ee3225b2706d6d26b52c7/full.png"
+        },
+        {
+            "publicId": "ZPTy9",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/ZPTy9/c03c21471c05e1ec9af58b826efec2cb/full.png"
+        },
+        {
+            "publicId": "fWMIs",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/fWMIs/dcd1072ba1c4b5a6caaa55695e7cbaac/full.png"
+        },
+        {
+            "publicId": "sSHFl",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/sSHFl/ec9d2ec3a8b86cf63e0adfaf41091251/full.png"
+        },
+        {
+            "publicId": "ek6Gc",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/ek6Gc/ffd30ddf80e60ad18f4d3b8ecaf8e1ab/full.png"
+        },
+        {
+            "publicId": "KJfyV",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/KJfyV/f00fc1eee64b453cdb9766f4aece6bd9/full.png"
+        },
+        {
+            "publicId": "tYYJL",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/tYYJL/dc466a1721fd1cbea6e2aa80983e2a61/full.png"
+        },
+        {
+            "publicId": "L5lkm",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/L5lkm/2e290a6f7f4378df38b3be9b993384df/full.png"
+        },
+        {
+            "publicId": "TycFk",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/TycFk/7c62f7c2fc1bd7f57fe690abfd14cf34/full.png"
+        },
+        {
+            "publicId": "0qDM5",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/0qDM5/ca140bbf8d0542452074ebf150bb0f2b/full.png"
+        },
+        {
+            "publicId": "I26PJ",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/I26PJ/2b632936ca7d79a145a549b5e572301a/full.png"
+        },
+        {
+            "publicId": "RChb3",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/RChb3/9dd9c3fa8d03a1cfdf63619bdbf980d3/full.png"
+        },
+        {
+            "publicId": "EY0Wn",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/EY0Wn/d5feb56b8f0161a3741a58fc8a90e08a/full.png"
+        },
+        {
+            "publicId": "v9TFu",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/v9TFu/03d64c72fab98dc266ba289f99d2c094/full.png"
+        },
+        {
+            "publicId": "mAW9n",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/mAW9n/14fd6825a2df2f7e548d2200e7105916/full.png"
+        },
+        {
+            "publicId": "JEGUZ",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/JEGUZ/63337e4559d3c3543f1fd9790f82118e/full.png"
+        },
+        {
+            "publicId": "C1QGB",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/C1QGB/c4231a06a72c7dc3c54226b3cda1b5ad/full.png"
+        },
+        {
+            "publicId": "2Na9M",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/2Na9M/21ae4303104660fc48e2d33a289f9f9d/full.png"
+        },
+        {
+            "publicId": "7VvnN",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/7VvnN/3f91d3e0200f56f39658dc04c9676919/full.png"
+        },
+        {
+            "publicId": "X383A",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/X383A/ec9133dbe7dfd0629f15482eb0a9cd2b/full.png"
+        },
+        {
+            "publicId": "ulVTn",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/ulVTn/e22c2f4d061c11a1553d54c322656bca/full.png"
+        },
+        {
+            "publicId": "34HeO",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/34HeO/be91f36aea9cc09c4abde9655a4c03c3/full.png"
+        },
+        {
+            "publicId": "DLDVq",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/DLDVq/9a436c30ca34a727e92cb418446e68fa/full.png"
+        },
+        {
+            "publicId": "qh1RA",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/qh1RA/4e49a4641f9fd9270e1d36c0940c5f8f/full.png"
+        },
+        {
+            "publicId": "5nHH9",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/5nHH9/78493a5c521a1b2608146b58f60e281b/full.png"
+        },
+        {
+            "publicId": "eIMen",
+            "type": "stacked-column-chart",
+            "thumbnail": "//img.datawrapper.de/eIMen/d13aa5542f93bb776bb588279455fcf8/full.png"
+        },
+        {
+            "publicId": "NvohE",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/NvohE/96ca8f3062f75ad82a2c2ed365e62404/full.png"
+        },
+        {
+            "publicId": "JHqgI",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/JHqgI/9ccf0734136eabc55419913156517f46/full.png"
+        },
+        {
+            "publicId": "lNZNY",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/lNZNY/b84ef34ffffa4da8c1d8d677670b51f9/full.png"
+        },
+        {
+            "publicId": "0ack0",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/0ack0/c65b35f39067c2a5a75cc2c7d3bbd6d1/full.png"
+        },
+        {
+            "publicId": "0mG22",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/0mG22/2233527736cec5a1580bed2e0176ddce/full.png"
+        },
+        {
+            "publicId": "7Akx5",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/7Akx5/88351b91134ff40b818c19e6a7a0a250/full.png"
+        },
+        {
+            "publicId": "HJ1ko",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/HJ1ko/957d358e6367d765cbcfd4ed7fca53dc/full.png"
+        },
+        {
+            "publicId": "MWZmt",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/MWZmt/664acd24829f5e3d949ffec14ca2ec85/full.png"
+        },
+        {
+            "publicId": "gALR5",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/gALR5/74ba6a811e5b44ef3fea8a9cd815afe0/full.png"
+        },
+        {
+            "publicId": "TnVDI",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/TnVDI/b7bddbb27fd1bc60d9504bbf63827143/full.png"
+        },
+        {
+            "publicId": "Oir8q",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/Oir8q/aa9d8c09db10b6c5425910319ae5b27f/full.png"
+        },
+        {
+            "publicId": "A9tRO",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/A9tRO/324c0acfd36794a4198fd40483e4f051/full.png"
+        },
+        {
+            "publicId": "fRfBX",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/fRfBX/4a1430ff272a701dcfd1430694725c0a/full.png"
+        },
+        {
+            "publicId": "xgEMX",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/xgEMX/edbc497cfad2018f3cae9a4cab758cf8/full.png"
+        },
+        {
+            "publicId": "mgSgR",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/mgSgR/3c803517c231059b662a002a7a45481f/full.png"
+        },
+        {
+            "publicId": "NOnNG",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/NOnNG/18c7f449895e92a073c1a642bb1343cf/full.png"
+        },
+        {
+            "publicId": "qY9Ju",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/qY9Ju/431252ecb20fa476b8528a271f229429/full.png"
+        },
+        {
+            "publicId": "otfLa",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/otfLa/98297923233a0535f6530412e2b3c569/full.png"
+        },
+        {
+            "publicId": "so4e6",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/so4e6/5b33351f3a5204d480a1d720abe1c03c/full.png"
+        },
+        {
+            "publicId": "qBEbz",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/qBEbz/4bcda98cf5b229a048987527796a62ce/full.png"
+        },
+        {
+            "publicId": "8xb3M",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/8xb3M/7dbcf563068de14bb87b9be63901582d/full.png"
+        },
+        {
+            "publicId": "PZC6M",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/PZC6M/1a1f0f3413397c22ce8d8c669c089226/full.png"
+        },
+        {
+            "publicId": "0ASlu",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/0ASlu/ff84be250acfd16dabf1b7f83255b18e/full.png"
+        },
+        {
+            "publicId": "GPUSj",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/GPUSj/bddd804cdd5d975ec654a40f3b95578e/full.png"
+        },
+        {
+            "publicId": "cqUX6",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/cqUX6/b7ebb8a8a03164f369414164ae2abfa9/full.png"
+        },
+        {
+            "publicId": "kG5JQ",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/kG5JQ/ec17819aa5dc5a142b0b7256175ad336/full.png"
+        },
+        {
+            "publicId": "41rRx",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/41rRx/9644ec4bce72a9988ad3bf35a5474d45/full.png"
+        },
+        {
+            "publicId": "SuLbp",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/SuLbp/fa5f7316b88fb8dd7aa09302924e8231/full.png"
+        },
+        {
+            "publicId": "Qc6N4",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/Qc6N4/068e0b981b5947f90ce36114249dee55/full.png"
+        },
+        {
+            "publicId": "WA0Ld",
+            "type": "stacked-column-chart",
+            "thumbnail": "//img.datawrapper.de/WA0Ld/c35716c2ee50cb6910a61f2d358746c9/full.png"
+        },
+        {
+            "publicId": "Z74cw",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/Z74cw/456e3f85a66f3cef9ccbebe1bea93c0b/full.png"
+        },
+        {
+            "publicId": "OKPF8",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/OKPF8/8cbe32142bc2150879c847a545e85922/full.png"
+        },
+        {
+            "publicId": "45G9b",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/45G9b/70190d9d6d69554412b0c1e5aeebf8d2/full.png"
+        },
+        {
+            "publicId": "a6EnX",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/a6EnX/82c219efdaaf3d1292a253f3c485cb15/full.png"
+        },
+        {
+            "publicId": "LvlUZ",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/LvlUZ/4009077cf50ebb428edc3e00c3e4b203/full.png"
+        },
+        {
+            "publicId": "kDJQ3",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/kDJQ3/2eea3ec0293ffd242bdb176a3187f90b/full.png"
+        },
+        {
+            "publicId": "SicbB",
+            "type": "d3-bars-stacked",
+            "thumbnail": "//img.datawrapper.de/SicbB/1a1cd9b39ac92576ca0ec5552bc2bbac/full.png"
+        },
+        {
+            "publicId": "EdkoA",
+            "type": "d3-bars-stacked",
+            "thumbnail": "//img.datawrapper.de/EdkoA/0341ebfe93be07ccf1d6e88803609b4b/full.png"
+        },
+        {
+            "publicId": "fdjCn",
+            "type": "d3-bars-stacked",
+            "thumbnail": "//img.datawrapper.de/fdjCn/b598926ebe4f8baac7b6a75f67aa42f5/full.png"
+        },
+        {
+            "publicId": "KOrrk",
+            "type": "d3-bars-stacked",
+            "thumbnail": "//img.datawrapper.de/KOrrk/a662e4f14ebeb1545a0881ecd9b1e2f0/full.png"
+        },
+        {
+            "publicId": "VAQBy",
+            "type": "d3-bars-stacked",
+            "thumbnail": "//img.datawrapper.de/VAQBy/99ee0219f6334bce9adc2d8c59e8c347/full.png"
+        },
+        {
+            "publicId": "QwkPn",
+            "type": "d3-bars-stacked",
+            "thumbnail": "//img.datawrapper.de/QwkPn/5c4e54ff6c06cc05b67f8e47dabeb4db/full.png"
+        },
+        {
+            "publicId": "7Pbo9",
+            "type": "d3-bars-stacked",
+            "thumbnail": "//img.datawrapper.de/7Pbo9/39ba869cdacd1215064ad9215dbee576/full.png"
+        },
+        {
+            "publicId": "pkKsj",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/pkKsj/9a07e38a43fe6b4605eb4cfe69f6fd07/full.png"
+        },
+        {
+            "publicId": "LnuFw",
+            "type": "d3-bars-stacked",
+            "thumbnail": "//img.datawrapper.de/LnuFw/ea6dbd5ec6cc8024f4a3f9d1fcb70759/full.png"
+        },
+        {
+            "publicId": "R8WpG",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/R8WpG/6609c25b8f796e7a89257965e121503d/full.png"
+        },
+        {
+            "publicId": "h1A4F",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/h1A4F/6ec1ea193a4898dfdf3844e07bb8441d/full.png"
+        },
+        {
+            "publicId": "py068",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/py068/fd32837fbddfb3bbbd0bcdcf73c11b34/full.png"
+        },
+        {
+            "publicId": "3gDQd",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/3gDQd/cdf707e563025ab0f11d4e1eca83c63d/full.png"
+        },
+        {
+            "publicId": "Fw90Z",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/Fw90Z/7057913b7fb723f229618d77be2e0e4c/full.png"
+        },
+        {
+            "publicId": "azizt",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/azizt/8c4a00a66336a8a235f1209842f7b56b/full.png"
+        },
+        {
+            "publicId": "gbcx5",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/gbcx5/613b6a6407e2a6b666680f4f950e348e/full.png"
+        },
+        {
+            "publicId": "tuDR4",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/tuDR4/6c8bcd280d5a5b11ad42f3bfac5b85f2/full.png"
+        },
+        {
+            "publicId": "knyD1",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/knyD1/9bd997f511a831b3d5f0366b120ff685/full.png"
+        },
+        {
+            "publicId": "kgUzZ",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/kgUzZ/49d74ce9cb4f13e427e1f8e3d8fbfc06/full.png"
+        },
+        {
+            "publicId": "WnIjG",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/WnIjG/4e472dc1967ee110e3ec5a79eaead20b/full.png"
+        },
+        {
+            "publicId": "L0CJN",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/L0CJN/c657afbb1b4feb04e7e14d6e9ecd457b/full.png"
+        },
+        {
+            "publicId": "5aPaZ",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/5aPaZ/24737489c267ea80103fab8638c243b5/full.png"
+        },
+        {
+            "publicId": "O6aDS",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/O6aDS/09e794fd6a19e07f12cf071128345e4b/full.png"
+        },
+        {
+            "publicId": "m1Uty",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/m1Uty/7e119c85ff7d55065639d59bdd8f21cb/full.png"
+        },
+        {
+            "publicId": "ahL42",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/ahL42/4e98f1d7556fa596fef7f46663e6cbff/full.png"
+        },
+        {
+            "publicId": "FBQIn",
+            "type": "d3-bars-stacked",
+            "thumbnail": "//img.datawrapper.de/FBQIn/a26f397e4194bdb676eb7900729805e9/full.png"
+        },
+        {
+            "publicId": "j3ECk",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/j3ECk/a46c41961c66ad6bfea379f959b1f894/full.png"
+        },
+        {
+            "publicId": "ylK58",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/ylK58/c987e79a18964a3a6ce6f6aeba237efe/full.png"
+        },
+        {
+            "publicId": "qptz7",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/qptz7/336d00e0cd8099bce725de41f300acf8/full.png"
+        },
+        {
+            "publicId": "qP8jX",
+            "type": "stacked-column-chart",
+            "thumbnail": "//img.datawrapper.de/qP8jX/42300238c9b7538f78e8523d59e66191/full.png"
+        },
+        {
+            "publicId": "uOMGY",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/uOMGY/28a7621de22a1bc3e8306e71b1617f61/full.png"
+        },
+        {
+            "publicId": "x12TP",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/x12TP/8287095ea347ce81024c4ae003612ceb/full.png"
+        },
+        {
+            "publicId": "60eGW",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/60eGW/f7725285c3f8d444b7f278f1e44ac898/full.png"
+        },
+        {
+            "publicId": "m5Y1q",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/m5Y1q/4649693c8690fe64463f42ca542c5847/full.png"
+        },
+        {
+            "publicId": "1qQoM",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/1qQoM/b4fc0152b39c5b79b4f6a725f978424b/full.png"
+        },
+        {
+            "publicId": "Y77a4",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/Y77a4/dad35272326bd614be53c864fa21d8ba/full.png"
+        },
+        {
+            "publicId": "gzV1G",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/gzV1G/a79c0b254f580a17a87db02c17b55db5/full.png"
+        },
+        {
+            "publicId": "k70I1",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/k70I1/3e941a87732e80f8e3aa1ff9de30fab3/full.png"
+        },
+        {
+            "publicId": "H6Cop",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/H6Cop/6b50bf97863e0e06c9283f80bff7ee2c/full.png"
+        },
+        {
+            "publicId": "84JSU",
+            "type": "stacked-column-chart",
+            "thumbnail": "//img.datawrapper.de/84JSU/58f1fb203a66c23fdeb048c1d13405f7/full.png"
+        },
+        {
+            "publicId": "ujxKJ",
+            "type": "stacked-column-chart",
+            "thumbnail": "//img.datawrapper.de/ujxKJ/24c18fed9f61687755c638479b9c6d5e/full.png"
+        },
+        {
+            "publicId": "59Pur",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/59Pur/1e9622d790732d7b9ba967de5ba79065/full.png"
+        },
+        {
+            "publicId": "0Hpkp",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/0Hpkp/b8b743bacc8c909628c41ae54410f58c/full.png"
+        },
+        {
+            "publicId": "CB9NT",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/CB9NT/4c8a1d875677d24d8fb6d907ec734b71/full.png"
+        },
+        {
+            "publicId": "4rY23",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/4rY23/498bda8be33e137cc98eda1f800ba8c4/full.png"
+        },
+        {
+            "publicId": "N0naN",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/N0naN/312f8b6f20b3faa8db96972481773ec6/full.png"
+        },
+        {
+            "publicId": "xut1v",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/xut1v/173df3569b7050a138499ec790b3bd0c/full.png"
+        },
+        {
+            "publicId": "uCxGi",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/uCxGi/a0b8df317d634ea3bfbfe6d23f08a7a9/full.png"
+        },
+        {
+            "publicId": "8izaN",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/8izaN/901bbdf0b58ba6efdacbbaafdfaeaa0e/full.png"
+        },
+        {
+            "publicId": "A9qUw",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/A9qUw/4eef4f099bad191afc541329ac54e49b/full.png"
+        },
+        {
+            "publicId": "BxShn",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/BxShn/acb38ee0f26d16b3928c5c225392c867/full.png"
+        },
+        {
+            "publicId": "uyZr9",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/uyZr9/ba82b110de608f61dfa2315a241e9b8d/full.png"
+        },
+        {
+            "publicId": "isAJd",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/isAJd/8efe2a36a60c78338c1e940bf807c023/full.png"
+        },
+        {
+            "publicId": "6PEEk",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/6PEEk/e43aa6e4d9beb55ddd0374cba991e803/full.png"
+        },
+        {
+            "publicId": "ovHAk",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/ovHAk/0b1d671649927eb4ee69726416fb3629/full.png"
+        },
+        {
+            "publicId": "DvWmQ",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/DvWmQ/e53f6a01562665c1310c4a3af31d7a48/full.png"
+        },
+        {
+            "publicId": "8a7Wh",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/8a7Wh/12c197e92c904271ccb5a311892ada52/full.png"
+        },
+        {
+            "publicId": "kI9RO",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/kI9RO/81a4a923bfbe8e26d0efc6e20a99bc96/full.png"
+        },
+        {
+            "publicId": "1Y0wu",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/1Y0wu/c462c90f301218d578a9889afb73843d/full.png"
+        },
+        {
+            "publicId": "a0AM6",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/a0AM6/1e8efe7c6d0f282a69afb8bf83669235/full.png"
+        },
+        {
+            "publicId": "lGtlC",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/lGtlC/2dbe554ed3b563b594ad60180c13419e/full.png"
+        },
+        {
+            "publicId": "GLTHU",
+            "type": "d3-bars-stacked",
+            "thumbnail": "//img.datawrapper.de/GLTHU/6fa77ce53cf24923a07d3f42ee3e60c4/full.png"
+        },
+        {
+            "publicId": "UQgsd",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/UQgsd/2a526a6740703651326864789a89676c/full.png"
+        },
+        {
+            "publicId": "5Fzoh",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/5Fzoh/71e337a69bd65526af8ccbe792f49c29/full.png"
+        },
+        {
+            "publicId": "vl8N7",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/vl8N7/b758bf24083a09ba85001f75b25a1462/full.png"
+        },
+        {
+            "publicId": "xSsuD",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/xSsuD/62d8ffcbd80b305dc6ffd90a0d380c06/full.png"
+        },
+        {
+            "publicId": "5YT9F",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/5YT9F/93af46759fed0e4fe98b7a08b4f52493/full.png"
+        },
+        {
+            "publicId": "ACqCY",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/ACqCY/3ffd497717b1cb489db64de40c452e6f/full.png"
+        },
+        {
+            "publicId": "6Eqq9",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/6Eqq9/b2174345657ee5e5afa346fe0af6a9c5/full.png"
+        },
+        {
+            "publicId": "W1FLd",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/W1FLd/79b56233d4ed3589f466e860fb1e42d2/full.png"
+        },
+        {
+            "publicId": "vBjrq",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/vBjrq/20232d87dfdf8a698ec612d8cd8089ad/full.png"
+        },
+        {
+            "publicId": "uTZ3X",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/uTZ3X/1e9df8bb5fb6e657bf263d5e963b1921/full.png"
+        },
+        {
+            "publicId": "bbXMc",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/bbXMc/3b899564d6ff634094aadc1f014202f3/full.png"
+        },
+        {
+            "publicId": "RXfOu",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/RXfOu/30484b2bf13deaa94329da5e73eb61d2/full.png"
+        },
+        {
+            "publicId": "FtcMX",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/FtcMX/1529ad583849df10e307cc7773c68abe/full.png"
+        },
+        {
+            "publicId": "BOHay",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/BOHay/18242b668066dad34acf801887280ded/full.png"
+        },
+        {
+            "publicId": "HQeCC",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/HQeCC/81006ed1027415e49474b5b80e79d4cc/full.png"
+        },
+        {
+            "publicId": "ASfs0",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/ASfs0/c384701f2518336d4617b9b94e5bae31/full.png"
+        },
+        {
+            "publicId": "fSu2V",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/fSu2V/61a3b477fc5f89eacdb92272aab93f95/full.png"
+        },
+        {
+            "publicId": "pZuMm",
+            "type": "d3-bars-stacked",
+            "thumbnail": "//img.datawrapper.de/pZuMm/d72ee5809e4022951497f2540662a143/full.png"
+        },
+        {
+            "publicId": "5GN3p",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/5GN3p/dc98505a64193a05c0c767109b79341e/full.png"
+        },
+        {
+            "publicId": "zHkNr",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/zHkNr/1c6eea4d4898682564c03ac2c271f282/full.png"
+        },
+        {
+            "publicId": "KXGnW",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/KXGnW/5aa83375545382cf0bc061287f36735a/full.png"
+        },
+        {
+            "publicId": "C1Jm9",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/C1Jm9/67b887fc1962ad32335baaa5fc2dfee1/full.png"
+        },
+        {
+            "publicId": "0gypo",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/0gypo/a2647251a373d64a3720ed5f8f98226c/full.png"
+        },
+        {
+            "publicId": "lZTmu",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/lZTmu/6643f595cef0eef416578346115e7679/full.png"
+        },
+        {
+            "publicId": "0yn6q",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/0yn6q/6b4afb92a0f5623919703e4843eb095a/full.png"
+        },
+        {
+            "publicId": "8yDFn",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/8yDFn/0d9c7918bcec249cc5fda9e70807c5b4/full.png"
+        },
+        {
+            "publicId": "ptAjL",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/ptAjL/9d5c154b2d25cec4527022868f4bdfa8/full.png"
+        },
+        {
+            "publicId": "bru8C",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/bru8C/a974d6b15bff36bd4ab3df681eb4841d/full.png"
+        },
+        {
+            "publicId": "Xc6yw",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/Xc6yw/a13089dfadeafbe7f6f7bc41106f0ae7/full.png"
+        },
+        {
+            "publicId": "ay7sL",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/ay7sL/d157bf988d91e085a5bba504f30bbaec/full.png"
+        },
+        {
+            "publicId": "CeDGF",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/CeDGF/8b2445693b560aae138801a6dbfdfa4f/full.png"
+        },
+        {
+            "publicId": "cVirM",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/cVirM/0c7cb812472bd6e0fb155a9891f7441b/full.png"
+        },
+        {
+            "publicId": "c6Gxr",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/c6Gxr/76a07fcaf64bedb677ca9427cab46347/full.png"
+        },
+        {
+            "publicId": "JVXUa",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/JVXUa/7187894801a95b99455b692ebb98e876/full.png"
+        },
+        {
+            "publicId": "5o4CH",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/5o4CH/304eb01d1f4c2580eb1fd7456725ab9f/full.png"
+        },
+        {
+            "publicId": "I1xN6",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/I1xN6/c9ea6eb2cd59ee144956a35b43cab1c2/full.png"
+        },
+        {
+            "publicId": "RYi4X",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/RYi4X/767710bd8231982c0f837e76ee85a473/full.png"
+        },
+        {
+            "publicId": "4bblD",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/4bblD/4ac0aba5d5e11ede0d3f3b1607fd0fbd/full.png"
+        },
+        {
+            "publicId": "DGKsk",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/DGKsk/ccf17a20160d85142e04b86dd0af02d6/full.png"
+        },
+        {
+            "publicId": "S595z",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/S595z/af56dfae13afcdc96c2f5f830b038491/full.png"
+        },
+        {
+            "publicId": "dP96L",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/dP96L/edc1a1e2ed04997ba06dab2bb2f66513/full.png"
+        },
+        {
+            "publicId": "uGkDx",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/uGkDx/88e4816d759cdd62bcc76ec988dafff0/full.png"
+        },
+        {
+            "publicId": "ciq9L",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/ciq9L/2044827da42177c7ac2948479ba62611/full.png"
+        },
+        {
+            "publicId": "4LPRi",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/4LPRi/d5e8865b440cdf7a57973059b93915d6/full.png"
+        },
+        {
+            "publicId": "7yZws",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/7yZws/5559ade786328cfa979165dd8de4f513/full.png"
+        },
+        {
+            "publicId": "c1zLN",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/c1zLN/2100e1d2bf7d7f4bf20e4523e1f6a337/full.png"
+        },
+        {
+            "publicId": "2adML",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/2adML/e343ceb65ab72d3981ff8a632e1c3a6c/full.png"
+        },
+        {
+            "publicId": "k6owa",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/k6owa/7192986bdcb622c41e3113cd45ee108e/full.png"
+        },
+        {
+            "publicId": "0nKqY",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/0nKqY/f9a9752da80c37855388f914103944cd/full.png"
+        },
+        {
+            "publicId": "9q25t",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/9q25t/d09462d9fadc0dfdb087e3a0f2717da4/full.png"
+        },
+        {
+            "publicId": "BG0Up",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/BG0Up/159e6d9c4dd79d91f114fee19dcb12b8/full.png"
+        },
+        {
+            "publicId": "JqKTQ",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/JqKTQ/18c4aa0da33f209b5762817e0c5a8ba7/full.png"
+        },
+        {
+            "publicId": "OC0sB",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/OC0sB/3b3d946bbe36b337e63af3d6a5a0e9ff/full.png"
+        },
+        {
+            "publicId": "X0ehy",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/X0ehy/2a6fcf8cc458d03e0afb35cd83782832/full.png"
+        },
+        {
+            "publicId": "Oa55W",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/Oa55W/41b8471c2deef92db70f0cc243ce4708/full.png"
+        },
+        {
+            "publicId": "i8i1M",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/i8i1M/a92c3cfae7684ca70b0d190e0c27bbfb/full.png"
+        },
+        {
+            "publicId": "K8BZN",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/K8BZN/fff01fb98972f74a0f154e7572000f34/full.png"
+        },
+        {
+            "publicId": "9XL7Z",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/9XL7Z/d93ecfd1b098391123bac5bc1eba4ac2/full.png"
+        },
+        {
+            "publicId": "9Ab1p",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/9Ab1p/083b1e4ad3fd82c4196ee3dd465fba14/full.png"
+        },
+        {
+            "publicId": "mFHud",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/mFHud/e2b6025de976259303d195525330f700/full.png"
+        },
+        {
+            "publicId": "2hpQf",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/2hpQf/b80c0a2ec6232c5064f0e3d02fa04368/full.png"
+        },
+        {
+            "publicId": "z1H4I",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/z1H4I/d7875a723ffc365b601d81cfe5a1ee25/full.png"
+        },
+        {
+            "publicId": "XMPPO",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/XMPPO/7e63ac5d94b0a4b497336cd97c1b6a5b/full.png"
+        },
+        {
+            "publicId": "eMtQO",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/eMtQO/4ce693a6b98cf245333407ee44398c0d/full.png"
+        },
+        {
+            "publicId": "Kz6Tl",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/Kz6Tl/e505b8790f1f8e26b900ba13c39b349a/full.png"
+        },
+        {
+            "publicId": "MR4rV",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/MR4rV/e495769402ff8fcabbb7d01ae8d59117/full.png"
+        },
+        {
+            "publicId": "7jZa7",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/7jZa7/c74f513eda71ba8d4fa33fc9a67ea91f/full.png"
+        },
+        {
+            "publicId": "nKkTs",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/nKkTs/787bbcfc055ff463b34d3c94390e1277/full.png"
+        },
+        {
+            "publicId": "s4QIM",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/s4QIM/c48589b86e33db722a9bf1240267dfbe/full.png"
+        },
+        {
+            "publicId": "pPE22",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/pPE22/971dc20918310502bae90984844603ac/full.png"
+        },
+        {
+            "publicId": "Ghd7c",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/Ghd7c/3792e009c5851246b65b21e85656609c/full.png"
+        },
+        {
+            "publicId": "HRtax",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/HRtax/39c31453737f01f25b93ccab5965028f/full.png"
+        },
+        {
+            "publicId": "jipQ1",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/jipQ1/440051a95b0e8d459d6bff7e67a83f8e/full.png"
+        },
+        {
+            "publicId": "q5nxX",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/q5nxX/489ee3157b69d80a4525881c69f20936/full.png"
+        },
+        {
+            "publicId": "4ADse",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/4ADse/cf8b6d10ae3ab914a1e944a89592627e/full.png"
+        },
+        {
+            "publicId": "iCWYf",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/iCWYf/41e827ac7439dc08285cd67ccb3304e0/full.png"
+        },
+        {
+            "publicId": "hqC1V",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/hqC1V/e83043488c7351536df990664f4e56fa/full.png"
+        },
+        {
+            "publicId": "qGsMs",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/qGsMs/849e33cb7182abcd8db3ee3a520da7ff/full.png"
+        },
+        {
+            "publicId": "qgw7P",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/qgw7P/18e7b35b061be1c11e0ff61038072dcf/full.png"
+        },
+        {
+            "publicId": "vozmE",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/vozmE/9493120fa06c72fc7fa30712af517487/full.png"
+        },
+        {
+            "publicId": "VRboj",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/VRboj/d7fac1a68ad3cd1485a490e8bfe16b7c/full.png"
+        },
+        {
+            "publicId": "4C3UW",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/4C3UW/0fb2111be4f9bf92fc8c7e2141aa4a1a/full.png"
+        },
+        {
+            "publicId": "NyoUD",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/NyoUD/af6c1370c603296421213528f5c4f7b0/full.png"
+        },
+        {
+            "publicId": "L1Z2k",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/L1Z2k/7663a5cc60a36877c016b4faeb3c7114/full.png"
+        },
+        {
+            "publicId": "3w8b6",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/3w8b6/a2c3cd9abe6063fbf7400065cd0618c9/full.png"
+        },
+        {
+            "publicId": "jnLvz",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/jnLvz/670b26e327ef2627506c2367e80f4ad4/full.png"
+        },
+        {
+            "publicId": "Oxicn",
+            "type": "d3-bars-stacked",
+            "thumbnail": "//img.datawrapper.de/Oxicn/c36f59bcc59b0c59e531cb7fc33e3cf3/full.png"
+        },
+        {
+            "publicId": "zswew",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/zswew/e72e36ca701b1a4bf66b520fabd21366/full.png"
+        },
+        {
+            "publicId": "95zmx",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/95zmx/5a5ab07fe730257922295f6ca7631ed6/full.png"
+        },
+        {
+            "publicId": "TmDcq",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/TmDcq/53d48f6adbf460b615ac390c26d54fac/full.png"
+        },
+        {
+            "publicId": "PflH2",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/PflH2/73250c9cc3a17bb6bacda1fc04b492f5/full.png"
+        },
+        {
+            "publicId": "ZnCQ5",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/ZnCQ5/aeb941e5d1f8465dce08e3c60be8ee99/full.png"
+        },
+        {
+            "publicId": "o5lQ4",
+            "type": "stacked-column-chart",
+            "thumbnail": "//img.datawrapper.de/o5lQ4/39c920e29a48272fc16ad546509e5d1d/full.png"
+        },
+        {
+            "publicId": "UYuQR",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/UYuQR/e1a7ba692890424e809dff895a5924ba/full.png"
+        },
+        {
+            "publicId": "HawhI",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/HawhI/91a16dbe6b5a1515e4cf4afad93db6b9/full.png"
+        },
+        {
+            "publicId": "4A1uR",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/4A1uR/fb6d177b3f5e0aa3e29daee40e27febd/full.png"
+        },
+        {
+            "publicId": "O3AFh",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/O3AFh/c77d78e276f5a21b7e087af5580bbe11/full.png"
+        },
+        {
+            "publicId": "dylcW",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/dylcW/231e7fa5b38446a617f2477d41f3c91c/full.png"
+        },
+        {
+            "publicId": "i8TUZ",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/i8TUZ/4138caaf1547c3d721714dfc492eafd3/full.png"
+        },
+        {
+            "publicId": "UlmlO",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/UlmlO/65f85f9355098ce4c8c95dbfd176011a/full.png"
+        },
+        {
+            "publicId": "YA1gj",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/YA1gj/598ae7d52ab5e535bb1c79e311592fbb/full.png"
+        },
+        {
+            "publicId": "jS2Gk",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/jS2Gk/38dab3360308a4b08fab07b643cf1c38/full.png"
+        },
+        {
+            "publicId": "V90Dv",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/V90Dv/37e44aebc82eaa8e621adb859d02816a/full.png"
+        },
+        {
+            "publicId": "58NrX",
+            "type": "d3-bars-stacked",
+            "thumbnail": "//img.datawrapper.de/58NrX/05f8fb977a05ff8c5d9412628aac85ae/full.png"
+        },
+        {
+            "publicId": "QQ3EO",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/QQ3EO/c747d2be5c242b640321cd58e9e18a1a/full.png"
+        },
+        {
+            "publicId": "evVtz",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/evVtz/f0cc59a989df576678e0a5f06661ad34/full.png"
+        },
+        {
+            "publicId": "NRAPP",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/NRAPP/7a71e50f9a6da8badd6e50ed682e71c3/full.png"
+        },
+        {
+            "publicId": "0dTv9",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/0dTv9/0ff50852d5fead1dd83c3c2a65ea8e3b/full.png"
+        },
+        {
+            "publicId": "iW3WS",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/iW3WS/b2dbbf3f30d77c62e2274720c1bc175f/full.png"
+        },
+        {
+            "publicId": "Nfr8E",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/Nfr8E/b9080170f91e74e4f1a0b9e1bfad2596/full.png"
+        },
+        {
+            "publicId": "534N3",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/534N3/56a42586d952de6c29b7ed91e1d21318/full.png"
+        },
+        {
+            "publicId": "bXD1x",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/bXD1x/6cdb0308a3c935d17751413d9ee5f47a/full.png"
+        },
+        {
+            "publicId": "tAmfX",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/tAmfX/212dc50c5b17568522e6330ac9c5fc5d/full.png"
+        },
+        {
+            "publicId": "y1rCH",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/y1rCH/d36a8ac9ad229aeb1b1bc677358d75e8/full.png"
+        },
+        {
+            "publicId": "mk1WJ",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/mk1WJ/e3de0b858f91328d2125b400aaa8f7e4/full.png"
+        },
+        {
+            "publicId": "q9G6S",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/q9G6S/2c691c83c85bdfb829c8ec27c72acd50/full.png"
+        },
+        {
+            "publicId": "85BBl",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/85BBl/a422f8a943aed4e442433ea68a31dcc8/full.png"
+        },
+        {
+            "publicId": "6oKCA",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/6oKCA/6e9c55845fd2d155ab5cfe1f5ccf385b/full.png"
+        },
+        {
+            "publicId": "v3Jl7",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/v3Jl7/41acf873d93334033d57250c71004505/full.png"
+        },
+        {
+            "publicId": "l6gBX",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/l6gBX/dcd29b8a692ea414a9841dfec88c1d7e/full.png"
+        },
+        {
+            "publicId": "AHpfH",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/AHpfH/4f3f8e6d5c419390c03fd8cd2962cd8e/full.png"
+        },
+        {
+            "publicId": "VL2wr",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/VL2wr/77a48e34cc20613c8d5e3c1e910b9a66/full.png"
+        },
+        {
+            "publicId": "BCxHz",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/BCxHz/dd8ea6879dc5786c14a1e9d729792671/full.png"
+        },
+        {
+            "publicId": "Zwoc2",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/Zwoc2/3249320571d784f4673d734492e144a4/full.png"
+        },
+        {
+            "publicId": "dFHbZ",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/dFHbZ/3dc7db77da39c707704ab8e5265201d6/full.png"
+        },
+        {
+            "publicId": "Ve3Dw",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/Ve3Dw/8bd5dfac6ec55033b642569c40128d58/full.png"
+        },
+        {
+            "publicId": "DWolK",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/DWolK/2a6c4614453421edde56a77b407e867c/full.png"
+        },
+        {
+            "publicId": "OG68u",
+            "type": "d3-area",
+            "thumbnail": "//img.datawrapper.de/OG68u/5e0cad7ae8af3aba1aa31c625d221aa8/full.png"
+        },
+        {
+            "publicId": "Yl5Uo",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/Yl5Uo/2cf744a7ecee56c01189da5f22f984e2/full.png"
+        },
+        {
+            "publicId": "hh738",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/hh738/fc2e36b1da956ab2e389d08396bc8c44/full.png"
+        },
+        {
+            "publicId": "OK4HL",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/OK4HL/710caffc23c651831e76facca7e85b6b/full.png"
+        },
+        {
+            "publicId": "R4492",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/R4492/3162bbcf9f71d7d51942ce586a978783/full.png"
+        },
+        {
+            "publicId": "11WQH",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/11WQH/07649034c336e997734be8d396684d64/full.png"
+        },
+        {
+            "publicId": "0URnZ",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/0URnZ/af2469ba424b30ccbc029de083baf8ec/full.png"
+        },
+        {
+            "publicId": "TDwon",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/TDwon/0a7829c0f9c0b80c302628e1476c5f6c/full.png"
+        },
+        {
+            "publicId": "t2UR1",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/t2UR1/603f47805f617a7f8614f49a548a2213/full.png"
+        },
+        {
+            "publicId": "zEp7w",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/zEp7w/5aa6b46048c530abf030cea2f148a90b/full.png"
+        },
+        {
+            "publicId": "W2r4v",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/W2r4v/1bfd3b8ad92dee130df4ddfa96a0018a/full.png"
+        },
+        {
+            "publicId": "BtgQp",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/BtgQp/4e6f78087b5303c70d645b0881c3297e/full.png"
+        },
+        {
+            "publicId": "V7Vwt",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/V7Vwt/b214b9316323929667ec846224640e44/full.png"
+        },
+        {
+            "publicId": "bN2zD",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/bN2zD/af8914603cd4d96829e3ced656b65d07/full.png"
+        },
+        {
+            "publicId": "HDmzJ",
+            "type": "d3-bars-stacked",
+            "thumbnail": "//img.datawrapper.de/HDmzJ/816448d85db7e5a34034e20bc144c896/full.png"
+        },
+        {
+            "publicId": "uajfV",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/uajfV/6fcb8421377dfa793a00ffc4dc9e1527/full.png"
+        },
+        {
+            "publicId": "aSMqP",
+            "type": "d3-bars-stacked",
+            "thumbnail": "//img.datawrapper.de/aSMqP/ec80d6a64410a4b30a94bb2c5ea01899/full.png"
+        },
+        {
+            "publicId": "xv4Gp",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/xv4Gp/3ecb10cf5bf18e5763a227e259ec8767/full.png"
+        },
+        {
+            "publicId": "w0bca",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/w0bca/7f77471aed72a1797b82b193ffcbdd77/full.png"
+        },
+        {
+            "publicId": "o1pr1",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/o1pr1/c7e5d7880cee1a01befdcf13093f54f5/full.png"
+        },
+        {
+            "publicId": "sKzGZ",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/sKzGZ/dbfe9889bd1270eedb8dbee50f2176d0/full.png"
+        },
+        {
+            "publicId": "djFQI",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/djFQI/24e2038d4989bfc9b21e48938f2208fa/full.png"
+        },
+        {
+            "publicId": "Qc99E",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/Qc99E/f6854d7958cc7b7ed654b0bcc6dde88d/full.png"
+        },
+        {
+            "publicId": "1gTnn",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/1gTnn/0fa38a6c70e00e57a4e29c96e4af16a8/full.png"
+        },
+        {
+            "publicId": "03TQe",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/03TQe/ba590108e527a9235e6d45066bc43f9e/full.png"
+        },
+        {
+            "publicId": "m6D3s",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/m6D3s/415c87e936cd6109acc063a7a0fc43b3/full.png"
+        },
+        {
+            "publicId": "1Pjhu",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/1Pjhu/0abf0679bfcd6169bed54247fc3819b7/full.png"
+        },
+        {
+            "publicId": "9zrXv",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/9zrXv/a6cd0b39735e2945c50116f4aabe0657/full.png"
+        },
+        {
+            "publicId": "eYysS",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/eYysS/661a74758b61d4951bde034615816096/full.png"
+        },
+        {
+            "publicId": "LxR2q",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/LxR2q/657d536c2b674bdd24e475f6e1662575/full.png"
+        },
+        {
+            "publicId": "4Tqrm",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/4Tqrm/ebe43402a5d9fca1ec5a03fed359d061/full.png"
+        },
+        {
+            "publicId": "4vnmO",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/4vnmO/0cc39df73712c649da2a3b934654dc28/full.png"
+        },
+        {
+            "publicId": "AZ9WS",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/AZ9WS/62d717a21284f67e7aa8acdb86496a0f/full.png"
+        },
+        {
+            "publicId": "Nmabc",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/Nmabc/54ce732bf15e6302bddc9d905a37df2c/full.png"
+        },
+        {
+            "publicId": "oratL",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/oratL/848e4a8903e8ef16a50f51f6c9639c8c/full.png"
+        },
+        {
+            "publicId": "fDztz",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/fDztz/69b42c38839773bb5ef7e2f8386a81e2/full.png"
+        },
+        {
+            "publicId": "RFhka",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/RFhka/32f89f793567e323184785ccb7b12432/full.png"
+        },
+        {
+            "publicId": "rgTRf",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/rgTRf/7be4e232f25435a7c2e8dd571fdbea50/full.png"
+        },
+        {
+            "publicId": "PcGlS",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/PcGlS/37deb9a1417ce4ee54a0d0f2a46390a0/full.png"
+        },
+        {
+            "publicId": "8cQah",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/8cQah/73e353258927ab3ac1ae6f5f1ffadb4a/full.png"
+        },
+        {
+            "publicId": "yXeFa",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/yXeFa/a5884677a19cc68b976a2fdef4cf4e02/full.png"
+        },
+        {
+            "publicId": "VR612",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/VR612/79f195038a21c14644dad2f239d89fe0/full.png"
+        },
+        {
+            "publicId": "0XUvE",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/0XUvE/f6ab6bc40c8a81adbec0ad2d9c8cc4c1/full.png"
+        },
+        {
+            "publicId": "JWw2b",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/JWw2b/b3f280adcc15f880a55d2f0247855dce/full.png"
+        },
+        {
+            "publicId": "s1Mr1",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/s1Mr1/4b7aaee5404a2050be2727c8eae7dc45/full.png"
+        },
+        {
+            "publicId": "GqlaN",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/GqlaN/6b62c1d96ee728929fe57c58a4c059fc/full.png"
+        },
+        {
+            "publicId": "7rGni",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/7rGni/fbe24bdb4f13328c0ef958162658e011/full.png"
+        },
+        {
+            "publicId": "xodvS",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/xodvS/1d6b4c94d3bd854343b0d21cfc21ab60/full.png"
+        },
+        {
+            "publicId": "CODUY",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/CODUY/3cc560a92ac414761a0b37da36a6c089/full.png"
+        },
+        {
+            "publicId": "NH7yk",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/NH7yk/cfa5b1a6c48dbf3f807f5ba9cc0cb90a/full.png"
+        },
+        {
+            "publicId": "qubOJ",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/qubOJ/cca843b10a097564368a37974b80372b/full.png"
+        },
+        {
+            "publicId": "VESaH",
+            "type": "d3-bars-stacked",
+            "thumbnail": "//img.datawrapper.de/VESaH/92cfed4ea9b82fb9d73c591ccd8942cd/full.png"
+        },
+        {
+            "publicId": "LWjQ3",
+            "type": "d3-bars-stacked",
+            "thumbnail": "//img.datawrapper.de/LWjQ3/0f6cc158cb70ec62bc4726b4e42db4aa/full.png"
+        },
+        {
+            "publicId": "6j4Fu",
+            "type": "d3-bars-stacked",
+            "thumbnail": "//img.datawrapper.de/6j4Fu/2eec0dee862e03adbac6250ee055f426/full.png"
+        },
+        {
+            "publicId": "jX1sg",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/jX1sg/43e95cad8c5a0f212866a07b0d7c95eb/full.png"
+        },
+        {
+            "publicId": "VmEjN",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/VmEjN/c3afe76e6c7e7ff8a5285b28b738540d/full.png"
+        },
+        {
+            "publicId": "jM6HL",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/jM6HL/dd4bb857e6c08e7b89974791bf4059b6/full.png"
+        },
+        {
+            "publicId": "CPS4A",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/CPS4A/31e8388885622e4abdf7362ff9e8331b/full.png"
+        },
+        {
+            "publicId": "UGdGl",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/UGdGl/19897104d6da6876b8f1b20e06798fff/full.png"
+        },
+        {
+            "publicId": "neCFg",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/neCFg/f6eda189f43f1e8138af1bca2efcda50/full.png"
+        },
+        {
+            "publicId": "Kxekc",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/Kxekc/cb5af8a7d51044ad76a6638cd331f323/full.png"
+        },
+        {
+            "publicId": "zAYb4",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/zAYb4/f8b8d8c810721f7438a6d93d7e4877a1/full.png"
+        },
+        {
+            "publicId": "xwiqs",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/xwiqs/72a2341d25fa893dc99ffc03d0c8e08d/full.png"
+        },
+        {
+            "publicId": "1tkhf",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/1tkhf/7bb66d561aeee2297f662f5121fd34c9/full.png"
+        },
+        {
+            "publicId": "nH6vg",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/nH6vg/9eeef2c81f24bc2e280c33067ff1d4f4/full.png"
+        },
+        {
+            "publicId": "If9Ox",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/If9Ox/5e5eace382820e7bde79a5e9315f83ce/full.png"
+        },
+        {
+            "publicId": "arXfQ",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/arXfQ/97d87ed1ca503583fa72804d98e156f2/full.png"
+        },
+        {
+            "publicId": "zD1pj",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/zD1pj/a5ba0bc64bd0e1d8ed34c64c2826dc89/full.png"
+        },
+        {
+            "publicId": "dAjRL",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/dAjRL/fd7eb67d1f14a4994d0b24d81d98be6e/full.png"
+        },
+        {
+            "publicId": "UYp9C",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/UYp9C/dd8e637c0c53f64e3c7fd5bb6f66b916/full.png"
+        },
+        {
+            "publicId": "XFheY",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/XFheY/5ab9eb1cf51b9d910a7f68c5c9db6f3b/full.png"
+        },
+        {
+            "publicId": "2vSMF",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/2vSMF/aff061fa638f5793fcd01e1498a342e4/full.png"
+        },
+        {
+            "publicId": "ro8bJ",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/ro8bJ/8c9e04076f926dcdf2e582d0a3972903/full.png"
+        },
+        {
+            "publicId": "KfgYd",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/KfgYd/0525fd2084504a4cb87531883bd82e81/full.png"
+        },
+        {
+            "publicId": "4oQpu",
+            "type": "d3-bars-stacked",
+            "thumbnail": "//img.datawrapper.de/4oQpu/c7617e6bcc22fbc28ecc228645ba0fc4/full.png"
+        },
+        {
+            "publicId": "y7vLn",
+            "type": "stacked-column-chart",
+            "thumbnail": "//img.datawrapper.de/y7vLn/09efb95e45f9d436cee38fc41a719a23/full.png"
+        },
+        {
+            "publicId": "OOqnx",
+            "type": "stacked-column-chart",
+            "thumbnail": "//img.datawrapper.de/OOqnx/f7e716c508835ae3e9b572a6ff705ff3/full.png"
+        },
+        {
+            "publicId": "7eubR",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/7eubR/902353ca017021126d362426756677aa/full.png"
+        },
+        {
+            "publicId": "zTKBL",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/zTKBL/83aee7bddb8ed523813fa0da34c1374e/full.png"
+        },
+        {
+            "publicId": "m3RFp",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/m3RFp/64b2f62eca4a73be4fdacf6eaaf2f6d3/full.png"
+        },
+        {
+            "publicId": "kxrTT",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/kxrTT/bf45b3c4d0a62a48db037bd540e85412/full.png"
+        },
+        {
+            "publicId": "wAa4m",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/wAa4m/7566d5ae75a16aacba3d43ee2c0a834c/full.png"
+        },
+        {
+            "publicId": "CoQkV",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/CoQkV/1e3a53d3ad8d6ceb9632d4ce73439969/full.png"
+        },
+        {
+            "publicId": "ulJcj",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/ulJcj/163facb8f1b4d44bd9a55359b46b5332/full.png"
+        },
+        {
+            "publicId": "H7wFZ",
+            "type": "d3-area",
+            "thumbnail": "//img.datawrapper.de/H7wFZ/3b6e85d8146a0484e47a449dc10835c3/full.png"
+        },
+        {
+            "publicId": "vpQm3",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/vpQm3/1dddc96f20624572530c3b48e65e0fc9/full.png"
+        },
+        {
+            "publicId": "hDfNk",
+            "type": "d3-bars-stacked",
+            "thumbnail": "//img.datawrapper.de/hDfNk/1d9762fb7acd83adb762199d7321e57f/full.png"
+        },
+        {
+            "publicId": "K8PIA",
+            "type": "stacked-column-chart",
+            "thumbnail": "//img.datawrapper.de/K8PIA/85c876726cdb63fc321534b358c922c1/full.png"
+        },
+        {
+            "publicId": "w4BB9",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/w4BB9/10f6282aba6dae2b5ad90c0c092dc167/full.png"
+        },
+        {
+            "publicId": "sEn8L",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/sEn8L/f874dce9ce4b0b537c7ce69f8ccdfaf3/full.png"
+        },
+        {
+            "publicId": "8E9tp",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/8E9tp/68a7b9b4af0aafe6c9541f6932607335/full.png"
+        },
+        {
+            "publicId": "PfvPD",
+            "type": "d3-bars-stacked",
+            "thumbnail": "//img.datawrapper.de/PfvPD/bb7e1bc31573c571bfae482718b71924/full.png"
+        },
+        {
+            "publicId": "Yzran",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/Yzran/8aa0099917d27fba138a5e71ba9601de/full.png"
+        },
+        {
+            "publicId": "RyX9c",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/RyX9c/86162af2e9b381b8147701c59bf91a33/full.png"
+        },
+        {
+            "publicId": "GvSCl",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/GvSCl/68aadd880124bb3a69c5c87740c7b0c0/full.png"
+        },
+        {
+            "publicId": "98SuM",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/98SuM/bb773761a25d4d7bc169ee501a140f9d/full.png"
+        },
+        {
+            "publicId": "KkU12",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/KkU12/1116f74e65e054b8356e9a8f061710cb/full.png"
+        },
+        {
+            "publicId": "vziz2",
+            "type": "d3-bars-stacked",
+            "thumbnail": "//img.datawrapper.de/vziz2/a99fc2bcd26728a1de3317e062e1d2f3/full.png"
+        },
+        {
+            "publicId": "vlgv7",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/vlgv7/422af644a5b2a877de133d4c3a88a347/full.png"
+        },
+        {
+            "publicId": "j9IXA",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/j9IXA/30f482a8e2981db5c7a007b680c361a0/full.png"
+        },
+        {
+            "publicId": "SBWeX",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/SBWeX/a6dd011ead2504bf9f3ec10907be7f97/full.png"
+        },
+        {
+            "publicId": "Lt7ZI",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/Lt7ZI/4fd25f5f5d5808826fc37c01c8b88897/full.png"
+        },
+        {
+            "publicId": "aBMvH",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/aBMvH/e62f7bff5a0c2ef938202b9d942ed2af/full.png"
+        },
+        {
+            "publicId": "gNfc7",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/gNfc7/494b1419451222dd214e6e1a31fe9672/full.png"
+        },
+        {
+            "publicId": "kZdtJ",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/kZdtJ/c7221eb7bd27b691c930b1973742d4b6/full.png"
+        },
+        {
+            "publicId": "zLiB5",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/zLiB5/49725228e1e5b0a50fd76c5538f972d7/full.png"
+        },
+        {
+            "publicId": "zYuuE",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/zYuuE/cb3a308cdf70667c7ad716a3e79f98e0/full.png"
+        },
+        {
+            "publicId": "1W7gQ",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/1W7gQ/da7a8855d07609f36f13608765f9e866/full.png"
+        },
+        {
+            "publicId": "Gjkr0",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/Gjkr0/1c80a82674c2061100bb92fbb89aa23e/full.png"
+        },
+        {
+            "publicId": "kcDti",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/kcDti/565592c061343a600509e15fc7254dff/full.png"
+        },
+        {
+            "publicId": "IQcCY",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/IQcCY/d80b3c405b5a6152809cb2c75e76fbcb/full.png"
+        },
+        {
+            "publicId": "xmTb5",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/xmTb5/dd19341393667dd41148385e0fd01586/full.png"
+        },
+        {
+            "publicId": "pVpAT",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/pVpAT/882293c2c9999509a9c4afd11a5641ea/full.png"
+        },
+        {
+            "publicId": "iRjcr",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/iRjcr/4dd61e0780d36aa2e680c6d3a06eaccb/full.png"
+        },
+        {
+            "publicId": "IUlXx",
+            "type": "stacked-column-chart",
+            "thumbnail": "//img.datawrapper.de/IUlXx/49ae775527799f537670ca4db50d0101/full.png"
+        },
+        {
+            "publicId": "t6Fnc",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/t6Fnc/99cfebc53f2b7765b70c8ad4b83793fd/full.png"
+        },
+        {
+            "publicId": "pqJRx",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/pqJRx/c0a9f44cc7610a49224e1cd9acbbe9e4/full.png"
+        },
+        {
+            "publicId": "dm9FW",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/dm9FW/cbc6ba82bfdffa81aedf345245f1f739/full.png"
+        },
+        {
+            "publicId": "MmJ6q",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/MmJ6q/e67eb387d1ca2883d6f6aab9557687f2/full.png"
+        },
+        {
+            "publicId": "9YsxX",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/9YsxX/a583b8594c01d54b18538d9961517156/full.png"
+        },
+        {
+            "publicId": "Dcx9J",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/Dcx9J/1b3736e22765c5f23db10c4281a7f7c3/full.png"
+        },
+        {
+            "publicId": "5GAwt",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/5GAwt/086ef394c1c781f20f8ec02452175a39/full.png"
+        },
+        {
+            "publicId": "jWn65",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/jWn65/360f47a97c1208c95c2b575fd25b5df3/full.png"
+        },
+        {
+            "publicId": "wkdj8",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/wkdj8/e82ef9804552c4a30cc2a4844b3a5c14/full.png"
+        },
+        {
+            "publicId": "YjMVb",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/YjMVb/5196dbd0d3a8c12df5b0d6f1087a541e/full.png"
+        },
+        {
+            "publicId": "dsoer",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/dsoer/5f81e362b51d7165b194c303ffc37b29/full.png"
+        },
+        {
+            "publicId": "yVd6X",
+            "type": "stacked-column-chart",
+            "thumbnail": "//img.datawrapper.de/yVd6X/64eb30a3d78ad8ebc14a9469bb811cc0/full.png"
+        },
+        {
+            "publicId": "iu3pB",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/iu3pB/8a0bd8155a5c35ff6be003748495558d/full.png"
+        },
+        {
+            "publicId": "fCjf7",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/fCjf7/5fbd70f63e08f941e3ffc432b9a98a88/full.png"
+        },
+        {
+            "publicId": "4FQok",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/4FQok/4b30f3e42aa758c526b7951514a07ec6/full.png"
+        },
+        {
+            "publicId": "s4dIo",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/s4dIo/f86b2eca35e3041dfcd879e5f28a5f3d/full.png"
+        },
+        {
+            "publicId": "RB3JH",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/RB3JH/2067e81e2a1ac7a138c1494686706c38/full.png"
+        },
+        {
+            "publicId": "KfqMb",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/KfqMb/48de7522bb32f0acd9407e25b21be48c/full.png"
+        },
+        {
+            "publicId": "0mzzi",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/0mzzi/9e4cd0d79d4e1ed1f23cd238a75e17ec/full.png"
+        },
+        {
+            "publicId": "ibk3q",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/ibk3q/2919b44f65e70878a6d4895bc602764b/full.png"
+        },
+        {
+            "publicId": "xootM",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/xootM/bb9d9f69a69d0a4e2196ffce389abb25/full.png"
+        },
+        {
+            "publicId": "EI68e",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/EI68e/84e742ea2baa287459a4cab40e1b9216/full.png"
+        },
+        {
+            "publicId": "yaGx1",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/yaGx1/13b9e52d1ce44693bfe24f8e966fbc27/full.png"
+        },
+        {
+            "publicId": "MFZQK",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/MFZQK/7ed16223bc26f17dee830a694f8b86d7/full.png"
+        },
+        {
+            "publicId": "sYWvO",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/sYWvO/103c2de1e7b4672f44c0321ec6c52160/full.png"
+        },
+        {
+            "publicId": "XnXMo",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/XnXMo/a8d17b0cbf06dcbb2bc75bb6ae0b16e1/full.png"
+        },
+        {
+            "publicId": "ZqRYY",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/ZqRYY/dada1a44f26d23a692f97e1d1bca42c9/full.png"
+        },
+        {
+            "publicId": "ChcNf",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/ChcNf/c01a5d0a2a6cf5bbd78b932dd5968428/full.png"
+        },
+        {
+            "publicId": "0uIOc",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/0uIOc/0e42e2b29295c98a6095b4b065325824/full.png"
+        },
+        {
+            "publicId": "9dCNu",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/9dCNu/27ec4b582959d310bd1111c4227bbf1b/full.png"
+        },
+        {
+            "publicId": "Q5zwZ",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/Q5zwZ/1aa421752dddaf60f617c2b492651cc3/full.png"
+        },
+        {
+            "publicId": "zwUBE",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/zwUBE/075362acdcf55e1be49a25cfa2a3a029/full.png"
+        },
+        {
+            "publicId": "Jp1KU",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/Jp1KU/c0b5ed745e85e7efa9079ac59b35669d/full.png"
+        },
+        {
+            "publicId": "vgnQU",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/vgnQU/be6a52a39847b0287bf6b028c2464c79/full.png"
+        },
+        {
+            "publicId": "YzdeM",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/YzdeM/3d7152ca41d198820a199e144285d73b/full.png"
+        },
+        {
+            "publicId": "bFz91",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/bFz91/955966527876dd788be6a7455f71686d/full.png"
+        },
+        {
+            "publicId": "juXr6",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/juXr6/60efaaa5a1b0751b6358dfb50a4e1768/full.png"
+        },
+        {
+            "publicId": "qjwW1",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/qjwW1/2046a68e07e7627165e3fd7178e33b70/full.png"
+        },
+        {
+            "publicId": "fD5Tw",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/fD5Tw/3e76dd8214b50c2d542fbb54ca44781b/full.png"
+        },
+        {
+            "publicId": "bVoZV",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/bVoZV/24be134a87693af39732f2dc6368b5eb/full.png"
+        },
+        {
+            "publicId": "JaBQ6",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/JaBQ6/c6e883e7244055e30df4d1b692d4a266/full.png"
+        },
+        {
+            "publicId": "7FN8y",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/7FN8y/2c77139670473ac85c59f8e494d63ae4/full.png"
+        },
+        {
+            "publicId": "Sgw2K",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/Sgw2K/64d7a89ba5de7d0c6378ba8515d7e444/full.png"
+        },
+        {
+            "publicId": "mVJ67",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/mVJ67/76d3c266e56964d4d5a465598f3e6333/full.png"
+        },
+        {
+            "publicId": "8xnko",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/8xnko/ae14d5b494045fdeea2489921577e9ee/full.png"
+        },
+        {
+            "publicId": "Zvhw8",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/Zvhw8/467dc9bcd057b2c5b83e72f0e5bf3389/full.png"
+        },
+        {
+            "publicId": "VNwbB",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/VNwbB/b1b7b1586c030208259e502fc38366ca/full.png"
+        },
+        {
+            "publicId": "G6pkP",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/G6pkP/4676ce3ab3c8866587586f0f45f0df49/full.png"
+        },
+        {
+            "publicId": "G1bXb",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/G1bXb/364e1817283f2f8d594ed5a7bdd3d148/full.png"
+        },
+        {
+            "publicId": "clnNK",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/clnNK/86c83aa5b8914a66b8f79e75b5f8fdff/full.png"
+        },
+        {
+            "publicId": "8lffo",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/8lffo/6f2e53d62a80e127561eddf03a8e7699/full.png"
+        },
+        {
+            "publicId": "1wCzU",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/1wCzU/5cf14422c45c44d6d49b4de805b98ee3/full.png"
+        },
+        {
+            "publicId": "dWVLX",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/dWVLX/6894a3afef21478b02fbdee1a12d020b/full.png"
+        },
+        {
+            "publicId": "X6I0l",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/X6I0l/b1a2cde7f8de71544dfdb89e08c96bc5/full.png"
+        },
+        {
+            "publicId": "JUV9u",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/JUV9u/c028e0aabb5ed8232eb4caebb8fc0574/full.png"
+        },
+        {
+            "publicId": "rZcQz",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/rZcQz/78c4cb644bd211b6e05eb38d91e53a2f/full.png"
+        },
+        {
+            "publicId": "tJpgi",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/tJpgi/fa98394769788f22c228d8c533965bf8/full.png"
+        },
+        {
+            "publicId": "MuORX",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/MuORX/2e653bcb83af770c07532dd67fd8f009/full.png"
+        },
+        {
+            "publicId": "qG7YC",
+            "type": "stacked-column-chart",
+            "thumbnail": "//img.datawrapper.de/qG7YC/6610f70d0f9a1c51b131d7d5a39d5e55/full.png"
+        },
+        {
+            "publicId": "9iOVf",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/9iOVf/646c905e5ae6953e71ce7d2380cbfcd1/full.png"
+        },
+        {
+            "publicId": "MeQ7j",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/MeQ7j/ae1a0353fccc67306ddf78ed91adaaee/full.png"
+        },
+        {
+            "publicId": "m5T54",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/m5T54/ec3b3d6658a8f3946304706d33408052/full.png"
+        },
+        {
+            "publicId": "kvGIi",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/kvGIi/a07f53582383a524b0e310c678f374f0/full.png"
+        },
+        {
+            "publicId": "4iNc8",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/4iNc8/dbdcb417f876132e81d170ab4c61a2fc/full.png"
+        },
+        {
+            "publicId": "mW1JK",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/mW1JK/e02dc7f667d1ea973e54f7c007214e3a/full.png"
+        },
+        {
+            "publicId": "WM5aD",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/WM5aD/ddde4504991c7f17f6e1a127ca95a6e6/full.png"
+        },
+        {
+            "publicId": "WEILB",
+            "type": "d3-bars-stacked",
+            "thumbnail": "//img.datawrapper.de/WEILB/8436eda012e6bcb81d2a30a8e2a65ef8/full.png"
+        },
+        {
+            "publicId": "Oywpc",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/Oywpc/8ed28015c92938b23d36237beb7c80d7/full.png"
+        },
+        {
+            "publicId": "chDBq",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/chDBq/4cb44c7b851d17c2da068c400d9e1c3d/full.png"
+        },
+        {
+            "publicId": "uW5g2",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/uW5g2/967e2d6a2c08fcc42ce51825db89c6f7/full.png"
+        },
+        {
+            "publicId": "KjWo4",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/KjWo4/736be3a6b6c492c874480b9cda302c02/full.png"
+        },
+        {
+            "publicId": "SXHbY",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/SXHbY/481ede9e91257814e7d5e7cd8fb4a763/full.png"
+        },
+        {
+            "publicId": "9qDM6",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/9qDM6/efc5396bb267d0483f6826211da3f411/full.png"
+        },
+        {
+            "publicId": "J17bB",
+            "type": "d3-bars-stacked",
+            "thumbnail": "//img.datawrapper.de/J17bB/9305750fde25b6b4ee1f1668feff9bb7/full.png"
+        },
+        {
+            "publicId": "GDPGk",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/GDPGk/a41d21e8a2a6554d01e4b26556979a10/full.png"
+        },
+        {
+            "publicId": "vQcZG",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/vQcZG/23b9ff79b68d39835a606402ca1d6645/full.png"
+        },
+        {
+            "publicId": "w4FY9",
+            "type": "stacked-column-chart",
+            "thumbnail": "//img.datawrapper.de/w4FY9/d5531888fc95b0ed36836a38779f76c4/full.png"
+        },
+        {
+            "publicId": "MoT72",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/MoT72/1658671b42a77b39806646466ab2439b/full.png"
+        },
+        {
+            "publicId": "AlN8L",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/AlN8L/81ff02f9edf265ec776f8241e8f662d5/full.png"
+        },
+        {
+            "publicId": "9SMjr",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/9SMjr/16884e2621c1a5b6c4256cde648821b8/full.png"
+        },
+        {
+            "publicId": "xKjG6",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/xKjG6/7ce1e74507d490e18e464832b57647ed/full.png"
+        },
+        {
+            "publicId": "f3hUp",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/f3hUp/b7818b2df086aaaa7e46ac499eaa50eb/full.png"
+        },
+        {
+            "publicId": "AEjSo",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/AEjSo/075312060fbf5a031c3fcea049fdf2e0/full.png"
+        },
+        {
+            "publicId": "fCo2T",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/fCo2T/af23d01503c1c28dbe97db5751504c91/full.png"
+        },
+        {
+            "publicId": "ekbD0",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/ekbD0/d1b3b1d84408ee0db1a5d8b7b219a9a6/full.png"
+        },
+        {
+            "publicId": "7daOv",
+            "type": "stacked-column-chart",
+            "thumbnail": "//img.datawrapper.de/7daOv/891ca06b4c06d7315b1c2a7c0d48c525/full.png"
+        },
+        {
+            "publicId": "X2DF2",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/X2DF2/fccfe77469c3c77dab9158b7ad8fe7d1/full.png"
+        },
+        {
+            "publicId": "ST8A5",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/ST8A5/8bf6edbafbfdaf012ecc6776ef5600a8/full.png"
+        },
+        {
+            "publicId": "vVBda",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/vVBda/c3542e0490d452624cb9e0c8d6f1bb86/full.png"
+        },
+        {
+            "publicId": "FYQcd",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/FYQcd/d91ca6abee8f567873198e6491eb9150/full.png"
+        },
+        {
+            "publicId": "xewd4",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/xewd4/db83301d1f035ab724a57f8a23e5ce1f/full.png"
+        },
+        {
+            "publicId": "jjG5t",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/jjG5t/7592298322f1473988b77d0321f58cd0/full.png"
+        },
+        {
+            "publicId": "Qdz6N",
+            "type": "d3-area",
+            "thumbnail": "//img.datawrapper.de/Qdz6N/2ae0981f06d05e2c716b158963238745/full.png"
+        },
+        {
+            "publicId": "rkFHS",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/rkFHS/5b8acff84aad694fd19ff195016f1190/full.png"
+        },
+        {
+            "publicId": "xfIER",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/xfIER/16c60a77d13d4afd3d0e6ead0d9dd92e/full.png"
+        },
+        {
+            "publicId": "FZfbI",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/FZfbI/abc02749a194ff0b31d83b2c52d5fe41/full.png"
+        },
+        {
+            "publicId": "ODjGp",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/ODjGp/9225709a6872faa472308578bf73fc34/full.png"
+        },
+        {
+            "publicId": "3bhu1",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/3bhu1/54c235d408ad741c8a0aef55a78c1588/full.png"
+        },
+        {
+            "publicId": "ITDMg",
+            "type": "d3-bars-stacked",
+            "thumbnail": "//img.datawrapper.de/ITDMg/4c8030cb94418b7a4e773e786dc6a42d/full.png"
+        },
+        {
+            "publicId": "3YJFW",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/3YJFW/87c7098e2e78e31d3208be63dc9c49b5/full.png"
+        },
+        {
+            "publicId": "yQEc0",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/yQEc0/a2e5eb9c166e0a739896a75302d6601e/full.png"
+        },
+        {
+            "publicId": "38m80",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/38m80/5255154289f249a70b16bd8136b62c70/full.png"
+        },
+        {
+            "publicId": "wbf6J",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/wbf6J/55ae0ae449d3f60b6dbfec0a9e12f0be/full.png"
+        },
+        {
+            "publicId": "dNXm5",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/dNXm5/538cbb48a0f4169b0aadec783a77478b/full.png"
+        },
+        {
+            "publicId": "mbXjf",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/mbXjf/38e312d82d75f12f90d6b8320c431811/full.png"
+        },
+        {
+            "publicId": "5ywAb",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/5ywAb/89050e616a0e81c663f2cc312357538b/full.png"
+        },
+        {
+            "publicId": "X8lzD",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/X8lzD/7a16336e0d7eaa9672ab72a88f8c4ae0/full.png"
+        },
+        {
+            "publicId": "BtlxZ",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/BtlxZ/6023ba495dbd956e54d13e5ca64a7883/full.png"
+        },
+        {
+            "publicId": "zYd5d",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/zYd5d/78fe8c67064b377586dbca64285ca3cf/full.png"
+        },
+        {
+            "publicId": "JE3kd",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/JE3kd/059c4537b2dc19f2eee58e349778131e/full.png"
+        },
+        {
+            "publicId": "V7SzU",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/V7SzU/2361f0788ac4bbd6a726b963e8182df4/full.png"
+        },
+        {
+            "publicId": "PyPu3",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/PyPu3/e90df5931f7e72f638b17ba9544fe716/full.png"
+        },
+        {
+            "publicId": "OH9wW",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/OH9wW/3d632752ae98cf567e021bf9b0f247e3/full.png"
+        },
+        {
+            "publicId": "L6IMJ",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/L6IMJ/80cd6e26ae3f3f7e35dc16243e67c601/full.png"
+        },
+        {
+            "publicId": "UiFNq",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/UiFNq/eaceb6b849dce543b85ae39f242a09b7/full.png"
+        },
+        {
+            "publicId": "uVssy",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/uVssy/5eb3b8544e39ce7977f82a22f602c2d1/full.png"
+        },
+        {
+            "publicId": "42MIa",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/42MIa/9fd34f5beb09401af4cb7fa22dd21921/full.png"
+        },
+        {
+            "publicId": "MC5u7",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/MC5u7/acd2def7f202176059d57bca6f416188/full.png"
+        },
+        {
+            "publicId": "qDRVb",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/qDRVb/bab5f512f41e8fd3038d2c967ecfa9e6/full.png"
+        },
+        {
+            "publicId": "akB07",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/akB07/ad07d1b4bac1df9fabfa57c049a492bc/full.png"
+        },
+        {
+            "publicId": "2bgHJ",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/2bgHJ/5c3f789704fbc552d44528c094fa3bed/full.png"
+        },
+        {
+            "publicId": "n0A66",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/n0A66/bc88cfbc4a70a31b95697e98dc67e8af/full.png"
+        },
+        {
+            "publicId": "VMfp3",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/VMfp3/32fe671460fb404f76f3d612610fe75b/full.png"
+        },
+        {
+            "publicId": "g3IGu",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/g3IGu/c806e9dcc74f979ecd65708c25841706/full.png"
+        },
+        {
+            "publicId": "iZIdm",
+            "type": "stacked-column-chart",
+            "thumbnail": "//img.datawrapper.de/iZIdm/763108e3eb007277935c69f932c4aef3/full.png"
+        },
+        {
+            "publicId": "aqunJ",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/aqunJ/51835d2dad96fa78fe46230fb9436206/full.png"
+        },
+        {
+            "publicId": "7gMvy",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/7gMvy/a54213d95afbc11250d2a99b36eb93e8/full.png"
+        },
+        {
+            "publicId": "fop3Z",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/fop3Z/e791978e60c19a04e6cc81463f14da92/full.png"
+        },
+        {
+            "publicId": "Xa21D",
+            "type": "d3-area",
+            "thumbnail": "//img.datawrapper.de/Xa21D/9be89aa7cc0836daf6b74c87c1c3d665/full.png"
+        },
+        {
+            "publicId": "6s87J",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/6s87J/cada0c21e1fc423c6b9413099e14e79c/full.png"
+        },
+        {
+            "publicId": "U6udM",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/U6udM/c993c923cbb8a935e1e1f215d7dc78f9/full.png"
+        },
+        {
+            "publicId": "q2OET",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/q2OET/0a512781b22af1939165a6ae1e8e21cf/full.png"
+        },
+        {
+            "publicId": "MiLOO",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/MiLOO/25ba17447af3a2515bbba7dd2cef2134/full.png"
+        },
+        {
+            "publicId": "fbVDp",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/fbVDp/3b5fe4443e9e572731bb879649971ad9/full.png"
+        },
+        {
+            "publicId": "5y2AJ",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/5y2AJ/f8a294b1c3838f3b941f1ff67a46d951/full.png"
+        },
+        {
+            "publicId": "C7242",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/C7242/b2b134fecd2fd8b4c8bf1a8bdd8b58c5/full.png"
+        },
+        {
+            "publicId": "mynKN",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/mynKN/6f66e4cb3f003f78a83d5b1c9c5e824e/full.png"
+        },
+        {
+            "publicId": "wWbEE",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/wWbEE/00e5a7adf2cf132a32265418ad9edf39/full.png"
+        },
+        {
+            "publicId": "OLUH7",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/OLUH7/dcda33205022e4e56560809161249b63/full.png"
+        },
+        {
+            "publicId": "k9rHF",
+            "type": "stacked-column-chart",
+            "thumbnail": "//img.datawrapper.de/k9rHF/5c22ab26f2b70a70303b6e1620969e64/full.png"
+        },
+        {
+            "publicId": "r6YgJ",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/r6YgJ/d24a095d075b8cf57edf182c655e9424/full.png"
+        },
+        {
+            "publicId": "8NDhM",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/8NDhM/00bd92bff267eeba278467daa529617b/full.png"
+        },
+        {
+            "publicId": "7zsvA",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/7zsvA/4a851413ebb40953e521e867dabeee96/full.png"
+        },
+        {
+            "publicId": "UPc7b",
+            "type": "d3-area",
+            "thumbnail": "//img.datawrapper.de/UPc7b/c81d3b1e4acc98432527b3338ba26c3e/full.png"
+        },
+        {
+            "publicId": "CRqrX",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/CRqrX/150337d719bd3f3203920f02dff763b2/full.png"
+        },
+        {
+            "publicId": "ngtlT",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/ngtlT/502aea1ae2e5ae877e772c490dfee4c1/full.png"
+        },
+        {
+            "publicId": "gH6bD",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/gH6bD/d491950e8c79d06d46083d5dc5787ac6/full.png"
+        },
+        {
+            "publicId": "qwcJS",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/qwcJS/d7af7190ce514a5051ba6df6bd9e9276/full.png"
+        },
+        {
+            "publicId": "60pC5",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/60pC5/c7fc0df3fd4405b51aa8f12647bd6ae1/full.png"
+        },
+        {
+            "publicId": "aTFBi",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/aTFBi/ae51eacb9ce23064d271bb7b3e017d43/full.png"
+        },
+        {
+            "publicId": "RGdIZ",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/RGdIZ/71298f6cbc2fae4908a1bfbc4f829eed/full.png"
+        },
+        {
+            "publicId": "JxrnL",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/JxrnL/0ee96751775441e7bc96bdcc905de7ea/full.png"
+        },
+        {
+            "publicId": "yCD9L",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/yCD9L/9e70686cbdbe11ae8b0ec8b1f31b86f6/full.png"
+        },
+        {
+            "publicId": "zmqni",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/zmqni/3e9c1e9f12be133a9a70a3037a5f077d/full.png"
+        },
+        {
+            "publicId": "vjMmU",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/vjMmU/4f585cacbc3351ff74f36ec43146ab0a/full.png"
+        },
+        {
+            "publicId": "sCKiz",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/sCKiz/280c8b4b4cfa32f9cbce19db52538d16/full.png"
+        },
+        {
+            "publicId": "not3U",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/not3U/abb4ae96bdcad3728a8135261517afd1/full.png"
+        },
+        {
+            "publicId": "hjgHC",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/hjgHC/d97911921bfda115186cf80343f68231/full.png"
+        },
+        {
+            "publicId": "b1RG7",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/b1RG7/d1bb40f41012da5e7323f37c48478910/full.png"
+        },
+        {
+            "publicId": "pXITU",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/pXITU/17c1c5bb4f1f61edf7a971f5e6f1d51f/full.png"
+        },
+        {
+            "publicId": "Rghlw",
+            "type": "stacked-column-chart",
+            "thumbnail": "//img.datawrapper.de/Rghlw/7e5578c8e62794d1601b4d5f2c02d7be/full.png"
+        },
+        {
+            "publicId": "27wx9",
+            "type": "d3-area",
+            "thumbnail": "//img.datawrapper.de/27wx9/847815241cc1c86d2232fe90e599bf94/full.png"
+        },
+        {
+            "publicId": "Q7lfK",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/Q7lfK/4708e35bb0bc09295513fff956c0b72e/full.png"
+        },
+        {
+            "publicId": "N9q86",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/N9q86/57941140a18db268278ddad2ba5aef4c/full.png"
+        },
+        {
+            "publicId": "mHVhA",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/mHVhA/f78b9f94b7288af2e793c2074ba54b87/full.png"
+        },
+        {
+            "publicId": "BatJH",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/BatJH/8d0bdf7568ecd63d1f4dc8b04f52ef26/full.png"
+        },
+        {
+            "publicId": "VLbAE",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/VLbAE/33050fc566eb4fccc682a9b7b2d8db78/full.png"
+        },
+        {
+            "publicId": "wZ6xC",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/wZ6xC/2185312d749411eab5c621317fbc4568/full.png"
+        },
+        {
+            "publicId": "GeWL2",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/GeWL2/60534006fa7f2c61e080962ce45b58b1/full.png"
+        },
+        {
+            "publicId": "Sf0Fh",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/Sf0Fh/b770f48f98a761a849bd079eda493e0c/full.png"
+        },
+        {
+            "publicId": "lA8dt",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/lA8dt/8e98df907002801885b0fa4969fafde9/full.png"
+        },
+        {
+            "publicId": "rM8vQ",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/rM8vQ/e53a5ab0dd2a2bd7fea4f3349e371c0c/full.png"
+        },
+        {
+            "publicId": "F3BnE",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/F3BnE/0998525108c76a3d146ab89fcd292ac8/full.png"
+        },
+        {
+            "publicId": "XBcxU",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/XBcxU/f6435fe490cd37a526982424aaafc485/full.png"
+        },
+        {
+            "publicId": "pw0z6",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/pw0z6/34d38b0e9f1abed6d2623bc560dd6fbc/full.png"
+        },
+        {
+            "publicId": "IIQvg",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/IIQvg/00568e6313f4b937b10d4ee61057675f/full.png"
+        },
+        {
+            "publicId": "SFzpl",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/SFzpl/7e41e83f8db9a0b5105e2526fe74d030/full.png"
+        },
+        {
+            "publicId": "SB2OS",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/SB2OS/d2b8bfa6ecc7c02e082413e3bc8a4aab/full.png"
+        },
+        {
+            "publicId": "4JSyD",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/4JSyD/943fb0763ceaef2d7c5d75f5d8015dee/full.png"
+        },
+        {
+            "publicId": "COSaR",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/COSaR/79708d6508a12be54f2d21717a012b26/full.png"
+        },
+        {
+            "publicId": "PzqZu",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/PzqZu/e645b1c4eb7b9ad00a4ff2f723239d75/full.png"
+        },
+        {
+            "publicId": "rkJPq",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/rkJPq/564843a97e748b9ef0686092e52cea3d/full.png"
+        },
+        {
+            "publicId": "f4AXu",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/f4AXu/601983ceb5151de3ea2b3e822f6adb42/full.png"
+        },
+        {
+            "publicId": "oOnsd",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/oOnsd/380752c0fbb1ea70d53cce743e0277cf/full.png"
+        },
+        {
+            "publicId": "V8eCy",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/V8eCy/11774dacf9b769b0e38df9f7f04d11a4/full.png"
+        },
+        {
+            "publicId": "ak6ze",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/ak6ze/0b3421e5e2848a9fbfc7dfb64009d2ec/full.png"
+        },
+        {
+            "publicId": "dWyTh",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/dWyTh/3598c12681e0d50e0cf9a91439e9325c/full.png"
+        },
+        {
+            "publicId": "PJdxp",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/PJdxp/5b39c7f995f0c7c760500ce9eb1c8b37/full.png"
+        },
+        {
+            "publicId": "773NW",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/773NW/dd8999fca83dc2bceebb6fe8a6a391c8/full.png"
+        },
+        {
+            "publicId": "7Cei2",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/7Cei2/d5fbeab91012cd1bd2cf6c3e46d82d49/full.png"
+        },
+        {
+            "publicId": "qphMs",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/qphMs/022342b690b8b6e71df37b4f2668731a/full.png"
+        },
+        {
+            "publicId": "WBeXl",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/WBeXl/c59e84521c94f3119c7731826bed6867/full.png"
+        },
+        {
+            "publicId": "Of1yX",
+            "type": "d3-bars-stacked",
+            "thumbnail": "//img.datawrapper.de/Of1yX/6a84fccaf7a4501c3abb70413c2ac816/full.png"
+        },
+        {
+            "publicId": "ORTEk",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/ORTEk/fd8f121bd50d808e410760adf1561eaf/full.png"
+        },
+        {
+            "publicId": "Z3C68",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/Z3C68/e964f7f039c07973d067e91882f2c582/full.png"
+        },
+        {
+            "publicId": "ouOru",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/ouOru/0232c6703f58d054d05f10ff89e82121/full.png"
+        },
+        {
+            "publicId": "XoeRc",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/XoeRc/44fd2a8bc6eb26788ca8410b409828a2/full.png"
+        },
+        {
+            "publicId": "njtXs",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/njtXs/1050def7b2f6a48b7945f2aef2b142bd/full.png"
+        },
+        {
+            "publicId": "MZzjT",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/MZzjT/3eb677c8c2adf9a9eb7b112ddf5c5bb3/full.png"
+        },
+        {
+            "publicId": "giynX",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/giynX/a129991edbaebc8c9834c415178f80cc/full.png"
+        },
+        {
+            "publicId": "etJHM",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/etJHM/fc9f0b89ca4ed6d17dc0eca34bdab95e/full.png"
+        },
+        {
+            "publicId": "vy28K",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/vy28K/1ecb20594be05bbd3ef2d68fb918d972/full.png"
+        },
+        {
+            "publicId": "uHXcg",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/uHXcg/fd6f421d29f83868b75d513ff1eb50c7/full.png"
+        },
+        {
+            "publicId": "bgRFY",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/bgRFY/3e3a56c9052c3fc28363a98656172948/full.png"
+        },
+        {
+            "publicId": "qavuN",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/qavuN/2108dc35d1cf398ff5fccc67d66e3a38/full.png"
+        },
+        {
+            "publicId": "t2Zr3",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/t2Zr3/358cd44ea16b7d2d2d3ab35dbd76a61a/full.png"
+        },
+        {
+            "publicId": "ir5i1",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/ir5i1/d265808b6bf9f7e88ec5474fd2646f6e/full.png"
+        },
+        {
+            "publicId": "vbwNC",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/vbwNC/24f6532912e2468ce8e9c1a66e1357ee/full.png"
+        },
+        {
+            "publicId": "6bh0a",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/6bh0a/26bc9bbc591053c8a9911c365bcc701c/full.png"
+        },
+        {
+            "publicId": "a6yOf",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/a6yOf/d6318aa9877d751e50553dcbc08414f9/full.png"
+        },
+        {
+            "publicId": "WIXaF",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/WIXaF/60eb7bb4a316e65a155cb3be499873e7/full.png"
+        },
+        {
+            "publicId": "FBeZE",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/FBeZE/ef3aa29aeb2b25323cc49e6299f48e90/full.png"
+        },
+        {
+            "publicId": "3lj3Y",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/3lj3Y/ac7d47f787217602b6482560c815c6b8/full.png"
+        },
+        {
+            "publicId": "A4zJM",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/A4zJM/052e6dc7ce3f5a504cce8a1132b6ccab/full.png"
+        },
+        {
+            "publicId": "s8HkY",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/s8HkY/cef342edf18c58bae76a4caefee456f1/full.png"
+        },
+        {
+            "publicId": "d654n",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/d654n/f513e67163f296d427f0ede1d6c43509/full.png"
+        },
+        {
+            "publicId": "48Mjv",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/48Mjv/8d65d896720017412c6e5025dffe92f5/full.png"
+        },
+        {
+            "publicId": "LOEzX",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/LOEzX/5b532e17a0dc69af23dff6365dc71f60/full.png"
+        },
+        {
+            "publicId": "dmGML",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/dmGML/cc1b29e68d413fa6590cc31521f69a74/full.png"
+        },
+        {
+            "publicId": "QLP2u",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/QLP2u/ad19b23fedbe81406ea7ef4c8a9abb0c/full.png"
+        },
+        {
+            "publicId": "8cHXh",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/8cHXh/5f29be4d24941f66157b81f38f82949d/full.png"
+        },
+        {
+            "publicId": "paDTP",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/paDTP/d298dcf35c8fa729eb5dec5da456bf8a/full.png"
+        },
+        {
+            "publicId": "oJ8lW",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/oJ8lW/826c979d2cc84493a678647b2faa22a9/full.png"
+        },
+        {
+            "publicId": "I9DJG",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/I9DJG/925ae55d8a29a1cf1c370efdf7ca8257/full.png"
+        },
+        {
+            "publicId": "jlCqQ",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/jlCqQ/38aca7556724d6985439efbf6fc11054/full.png"
+        },
+        {
+            "publicId": "RrkzU",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/RrkzU/4dd35384e2793f0e4edab98facd3ccb6/full.png"
+        },
+        {
+            "publicId": "oxqSO",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/oxqSO/7b05107a82c4fea512cf22a7e6728f4e/full.png"
+        },
+        {
+            "publicId": "65okb",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/65okb/7a2024234d809895c6d8a364534375b8/full.png"
+        },
+        {
+            "publicId": "tU33b",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/tU33b/154dc5c48b9dcfec73ca73c3e218a93c/full.png"
+        },
+        {
+            "publicId": "LQefW",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/LQefW/d5fa8ccbe047579703e1e97a93cdcab4/full.png"
+        },
+        {
+            "publicId": "Aq5HF",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/Aq5HF/899f11a621ff2bc92d6dfc4d89c2422e/full.png"
+        },
+        {
+            "publicId": "GuMEp",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/GuMEp/c7a8ff6b66e65fa8faf9199e51f4d4b5/full.png"
+        },
+        {
+            "publicId": "woz8y",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/woz8y/addf332b4e5148630a4cc1fedaeff019/full.png"
+        },
+        {
+            "publicId": "PLdXB",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/PLdXB/6b32ce5c7209078f7d730bb327455bab/full.png"
+        },
+        {
+            "publicId": "6rUCQ",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/6rUCQ/ca7639a4ac60b3f267eba9e364adb66b/full.png"
+        },
+        {
+            "publicId": "LHgfF",
+            "type": "d3-area",
+            "thumbnail": "//img.datawrapper.de/LHgfF/e1549d24dbfa9f5b42f9e52844d882cd/full.png"
+        },
+        {
+            "publicId": "oChM1",
+            "type": "d3-area",
+            "thumbnail": "//img.datawrapper.de/oChM1/a840c7d3eff05fb3fff59651567201fe/full.png"
+        },
+        {
+            "publicId": "reRjr",
+            "type": "d3-area",
+            "thumbnail": "//img.datawrapper.de/reRjr/edfd3e13342797d21f8a535587ad2d00/full.png"
+        },
+        {
+            "publicId": "sSvkE",
+            "type": "d3-area",
+            "thumbnail": "//img.datawrapper.de/sSvkE/9e5f0fc7d14128490a377332ba82cf8e/full.png"
+        },
+        {
+            "publicId": "PnGcI",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/PnGcI/1a367a993bd97cdb9c6e0828a58da669/full.png"
+        },
+        {
+            "publicId": "3hoNY",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/3hoNY/33a9d5178aaec18b25e11a59b998e115/full.png"
+        },
+        {
+            "publicId": "y98KX",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/y98KX/892f25967e6557f0f51097f9ad3f96cf/full.png"
+        },
+        {
+            "publicId": "JZeWc",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/JZeWc/73a4b3479c996f77102ed63b2e62fc1c/full.png"
+        },
+        {
+            "publicId": "xaBRZ",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/xaBRZ/37024649a51484e8801f884d76b83d8b/full.png"
+        },
+        {
+            "publicId": "du9y7",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/du9y7/05aa11a919539190ca56877810fa40f6/full.png"
+        },
+        {
+            "publicId": "uY3YN",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/uY3YN/4774e5a73ede3e0105af8b21bb1d90d0/full.png"
+        },
+        {
+            "publicId": "6JYmN",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/6JYmN/66f3d57fe9fb18cdc6f68213332f1d93/full.png"
+        },
+        {
+            "publicId": "MhPdt",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/MhPdt/b3b08baf30ef42f23687cf00637282b1/full.png"
+        },
+        {
+            "publicId": "F2wzE",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/F2wzE/c66883027453c51ea1369c540aaa5a36/full.png"
+        },
+        {
+            "publicId": "3DHiT",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/3DHiT/816db8c00c280b1d2a6af28c66582ed2/full.png"
+        },
+        {
+            "publicId": "zHWtr",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/zHWtr/705de3366a6078196c027f9a33a361bf/full.png"
+        },
+        {
+            "publicId": "djYf3",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/djYf3/7c49cee1a86b74024fb444702ac2601e/full.png"
+        },
+        {
+            "publicId": "WKe50",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/WKe50/3405144bb8809e775ca52e6112dfd404/full.png"
+        },
+        {
+            "publicId": "sJPCO",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/sJPCO/0754b40e4a214c23b2fb490f79ceb102/full.png"
+        },
+        {
+            "publicId": "y5vY0",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/y5vY0/b2cffec276b9f0058b5f559f45f1471c/full.png"
+        },
+        {
+            "publicId": "Isf86",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/Isf86/c3d710637ec7d0531714751207208e18/full.png"
+        },
+        {
+            "publicId": "aL6B4",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/aL6B4/f4ebbb36bc85d770379418d33e48c1dd/full.png"
+        },
+        {
+            "publicId": "vZ8DW",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/vZ8DW/9d7f4c1fcaa959d724db6e741f80a175/full.png"
+        },
+        {
+            "publicId": "BHUSv",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/BHUSv/c65a6ef4265b58246808c6128922ac2d/full.png"
+        },
+        {
+            "publicId": "vROeN",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/vROeN/bf03ed124e18a129b42b2cdc53403066/full.png"
+        },
+        {
+            "publicId": "okSWc",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/okSWc/2bfa9e55c452dea4d4b8ab2194726665/full.png"
+        },
+        {
+            "publicId": "H3BoX",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/H3BoX/df699ae7127780d44dbcd6c1ab46c688/full.png"
+        },
+        {
+            "publicId": "xFKL5",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/xFKL5/a861d1c34916e559c21765c74b2ec22d/full.png"
+        },
+        {
+            "publicId": "n8m0y",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/n8m0y/f0b08aba5ad969e877fb7e0026992755/full.png"
+        },
+        {
+            "publicId": "i3js4",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/i3js4/8963d5afbdd94d4290d48896f8efb61c/full.png"
+        },
+        {
+            "publicId": "bb7Z2",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/bb7Z2/aaac7fad1349d10456551dfc84471547/full.png"
+        },
+        {
+            "publicId": "gNxCI",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/gNxCI/16cb84299174d33d9e8db01fce4d19bf/full.png"
+        },
+        {
+            "publicId": "P54Yy",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/P54Yy/0f398cad8431bd4fd7e526249c94dba7/full.png"
+        },
+        {
+            "publicId": "2eiyl",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/2eiyl/fd63d2bf6cd495ab5962d1561288bfa0/full.png"
+        },
+        {
+            "publicId": "w8I7T",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/w8I7T/a1bddc49285a73d9bc2c2edd9aaffccd/full.png"
+        },
+        {
+            "publicId": "d1l22",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/d1l22/3d9a17ac844b9fe7b6113377a77812bf/full.png"
+        },
+        {
+            "publicId": "c7oUm",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/c7oUm/be4417a14fa949ab9b4dd49c86ece91b/full.png"
+        },
+        {
+            "publicId": "Zmb6B",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/Zmb6B/ccbfe69977d182491d6ffcba085f1f67/full.png"
+        },
+        {
+            "publicId": "NE0om",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/NE0om/2337ab2da9a46fda0bffbffc12305c0a/full.png"
+        },
+        {
+            "publicId": "hh5yi",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/hh5yi/0011ec164221708978bbf148a233a7b4/full.png"
+        },
+        {
+            "publicId": "B2Udf",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/B2Udf/07ddd12c33eb19d6c51443213a95054e/full.png"
+        },
+        {
+            "publicId": "KJyEB",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/KJyEB/2b8a5f46f1e9b289c3c6076a0671379b/full.png"
+        },
+        {
+            "publicId": "22Xd3",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/22Xd3/df76c13124cb3d939a9d69c78c9e4d20/full.png"
+        },
+        {
+            "publicId": "VR0rF",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/VR0rF/6e1fe9b0c072bb12998ca2ccb6d7f6de/full.png"
+        },
+        {
+            "publicId": "DVdaE",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/DVdaE/c8e1f58c9e996b67cb7335cc86763653/full.png"
+        },
+        {
+            "publicId": "aYqee",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/aYqee/c6cc8df9c36524c6e0a81e5f84276c3c/full.png"
+        },
+        {
+            "publicId": "xdGPO",
+            "type": "stacked-column-chart",
+            "thumbnail": "//img.datawrapper.de/xdGPO/a658844707a0d60a0e3ca3ae52a81f65/full.png"
+        },
+        {
+            "publicId": "q77pw",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/q77pw/f0d8f81ecc2db8cbb9dc001201fb1605/full.png"
+        },
+        {
+            "publicId": "Q7gAW",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/Q7gAW/619851c7ec84241324000dd62ab2c913/full.png"
+        },
+        {
+            "publicId": "gQALP",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/gQALP/d60bef0cc3b15996eeecdee7e261b47a/full.png"
+        },
+        {
+            "publicId": "wHZmu",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/wHZmu/46e89539fcbc119cf88a467edda56db2/full.png"
+        },
+        {
+            "publicId": "37kL5",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/37kL5/aa9c5af829c0eca0f968c52711f11075/full.png"
+        },
+        {
+            "publicId": "gO6aG",
+            "type": "d3-bars-stacked",
+            "thumbnail": "//img.datawrapper.de/gO6aG/6e3dfca8af0a7381aea2787c61c79dc9/full.png"
+        },
+        {
+            "publicId": "ryJYe",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/ryJYe/00a25605602d4c99b05a0e04d5ac8f27/full.png"
+        },
+        {
+            "publicId": "y6zW7",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/y6zW7/b19461d1cb7e93acb8d186ce1763e89b/full.png"
+        },
+        {
+            "publicId": "pmUH3",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/pmUH3/f0968cc3b16cd87aab3e47b3b5d10f84/full.png"
+        },
+        {
+            "publicId": "I1au2",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/I1au2/c84a70027a15eb50d3307d3663cb1829/full.png"
+        },
+        {
+            "publicId": "9un0K",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/9un0K/94428e618f541b78e7cbb0ec6d8b286c/full.png"
+        },
+        {
+            "publicId": "km4WF",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/km4WF/244986c07178acf827c65dca57b096d1/full.png"
+        },
+        {
+            "publicId": "BDr2f",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/BDr2f/ab1545f3be3c4745b35f95d3a9097879/full.png"
+        },
+        {
+            "publicId": "oAyHI",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/oAyHI/a9c6e7f9297ba490061e6cea01cdf96e/full.png"
+        },
+        {
+            "publicId": "XGw6Z",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/XGw6Z/a59afb0e42af91cb65850c66d313a98f/full.png"
+        },
+        {
+            "publicId": "8EYL0",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/8EYL0/5cfa75f1cd6877a4860a0a2a44a1c1bd/full.png"
+        },
+        {
+            "publicId": "oiVSm",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/oiVSm/60c9dd946d90181f38dd989bbd8e47f9/full.png"
+        },
+        {
+            "publicId": "XR9qS",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/XR9qS/fc67cfaada78cdbbd6dbd38a8d07a3f3/full.png"
+        },
+        {
+            "publicId": "DDYKb",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/DDYKb/a7213b18a3648dbd65216244ba8b043f/full.png"
+        },
+        {
+            "publicId": "nAkh2",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/nAkh2/8def7659915af05b341fa4879d3c0db3/full.png"
+        },
+        {
+            "publicId": "4HiEV",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/4HiEV/9eb9234b1b5501bc7e46b385aa305057/full.png"
+        },
+        {
+            "publicId": "AZAjr",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/AZAjr/6bbea3974ab9dc28b0d803f35b9eef57/full.png"
+        },
+        {
+            "publicId": "rvf8W",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/rvf8W/c57f54782547cb8dfdffa681451624f0/full.png"
+        },
+        {
+            "publicId": "xr9Pe",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/xr9Pe/044b4909ad943fabb86b0880b85fdc1d/full.png"
+        },
+        {
+            "publicId": "Z57zP",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/Z57zP/52ecfa26eb21467d0864ebc9aecbf860/full.png"
+        },
+        {
+            "publicId": "tbkow",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/tbkow/c59c06856e05272a82cd33df9132ecf4/full.png"
+        },
+        {
+            "publicId": "EBita",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/EBita/0561507f50959ad2c0e1d0ec97c5a2cd/full.png"
+        },
+        {
+            "publicId": "rKe0G",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/rKe0G/58c9e797bff7a5a629ce6739a75d3b64/full.png"
+        },
+        {
+            "publicId": "zX3hC",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/zX3hC/8a0abc1e03548809f1c518e534359744/full.png"
+        },
+        {
+            "publicId": "LDYx6",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/LDYx6/4ef78980e7a237eb0bb7d1a3c4c21ca8/full.png"
+        },
+        {
+            "publicId": "k5Np0",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/k5Np0/3594c9c9d93dbdc0815d8694edbbb06b/full.png"
+        },
+        {
+            "publicId": "hAw6k",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/hAw6k/3ecee21db96d68c218215a754bda1fa6/full.png"
+        },
+        {
+            "publicId": "7a18e",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/7a18e/d30744a83c1c4f86534d5e5e8a7fb395/full.png"
+        },
+        {
+            "publicId": "zxU3H",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/zxU3H/e6bbed1e17103a0dc935a360af091a4b/full.png"
+        },
+        {
+            "publicId": "DPQRl",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/DPQRl/eb74fc1abab7a98e889c9cf90de955d2/full.png"
+        },
+        {
+            "publicId": "lmtE8",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/lmtE8/34bb02fda692ec64ee5f6d39551009d6/full.png"
+        },
+        {
+            "publicId": "swM9l",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/swM9l/9d3a464a4fa32fe3a65f2c96369ed9e0/full.png"
+        },
+        {
+            "publicId": "bFBcu",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/bFBcu/32f48a791ef43b68e08acaeb0b761a7a/full.png"
+        },
+        {
+            "publicId": "o6Upu",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/o6Upu/36ff2c88f822ff65b517be1b7709b3a0/full.png"
+        },
+        {
+            "publicId": "zQqkc",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/zQqkc/cd8f9ab05bf7766f28946ed3765e187f/full.png"
+        },
+        {
+            "publicId": "vCfHh",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/vCfHh/37f1be6a6b7a014d0ea3118cc824fa1f/full.png"
+        },
+        {
+            "publicId": "Be1Qn",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/Be1Qn/a790de096ba1d4db8427b0389ef9d389/full.png"
+        },
+        {
+            "publicId": "4bKLU",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/4bKLU/3c2693995404b99ffa91ddf1b611a704/full.png"
+        },
+        {
+            "publicId": "538Cm",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/538Cm/a8b272fee823eecd91bb599d783c872e/full.png"
+        },
+        {
+            "publicId": "r7wdk",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/r7wdk/1f4f01d98421acf3f9bac7ec9c9cc3d5/full.png"
+        },
+        {
+            "publicId": "9JAM5",
+            "type": "d3-area",
+            "thumbnail": "//img.datawrapper.de/9JAM5/ec64ed0fc66a4eef891a6c6af87d0cf7/full.png"
+        },
+        {
+            "publicId": "Mob51",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/Mob51/d5cb118106a3be9b68e28cb9eb0f3f07/full.png"
+        },
+        {
+            "publicId": "Yogr5",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/Yogr5/7ab0ccd15a20e850f476a05139dc79c4/full.png"
+        },
+        {
+            "publicId": "6fMke",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/6fMke/a220bfb4b23f8908417fe81d2a9acd67/full.png"
+        },
+        {
+            "publicId": "Btyc0",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/Btyc0/de195c9305f93ccdf7e739d4901cbda4/full.png"
+        },
+        {
+            "publicId": "9ehJ8",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/9ehJ8/50e3de3af347b4da9732242780d0ee5b/full.png"
+        },
+        {
+            "publicId": "tRzgY",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/tRzgY/6ae5347e9f8d5db0158efc6bab54c56c/full.png"
+        },
+        {
+            "publicId": "FbcVB",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/FbcVB/efff6631224a954a66d5ba5176cdb0ae/full.png"
+        },
+        {
+            "publicId": "IOr5f",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/IOr5f/4683bb81c166ff5e0f5250e0de9922dd/full.png"
+        },
+        {
+            "publicId": "kWgQ4",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/kWgQ4/bf29996e5ec6058d77d0c66a1893ee9b/full.png"
+        },
+        {
+            "publicId": "vjTpL",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/vjTpL/ab2fd4df2886ec32ca9a28f07e277585/full.png"
+        },
+        {
+            "publicId": "3BtJB",
+            "type": "stacked-column-chart",
+            "thumbnail": "//img.datawrapper.de/3BtJB/1edd7b9943a209753ac837530c0421d9/full.png"
+        },
+        {
+            "publicId": "ucMDU",
+            "type": "d3-area",
+            "thumbnail": "//img.datawrapper.de/ucMDU/6395763d909fee9a66dafdb7837b93bd/full.png"
+        },
+        {
+            "publicId": "pGIxq",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/pGIxq/f0abfeb6611dac46371da519bb49e414/full.png"
+        },
+        {
+            "publicId": "c7FdH",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/c7FdH/4cbb460c98ed59e702b478c42ccf5191/full.png"
+        },
+        {
+            "publicId": "68tnL",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/68tnL/34a692623bb7c47a9224d3f3aabf9928/full.png"
+        },
+        {
+            "publicId": "7IWxW",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/7IWxW/06c7048a63e28b9bb9e8ee6bf7cc4322/full.png"
+        },
+        {
+            "publicId": "F9fcl",
+            "type": "stacked-column-chart",
+            "thumbnail": "//img.datawrapper.de/F9fcl/c887fd88c656dbfb5341434ffba8ac60/full.png"
+        },
+        {
+            "publicId": "RyXG2",
+            "type": "stacked-column-chart",
+            "thumbnail": "//img.datawrapper.de/RyXG2/1fe38421f87d9c512235d1d3a896e44b/full.png"
+        },
+        {
+            "publicId": "6aLN3",
+            "type": "stacked-column-chart",
+            "thumbnail": "//img.datawrapper.de/6aLN3/8e1b79403e6f90459a2b59bfc1f84e87/full.png"
+        },
+        {
+            "publicId": "lSFo0",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/lSFo0/060535ea357a5327ec68c82f8c1468ff/full.png"
+        },
+        {
+            "publicId": "Teyul",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/Teyul/3d77f918bad084b5642786f3920aae9e/full.png"
+        },
+        {
+            "publicId": "Ze8vv",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/Ze8vv/eb30ae75de30404422f40fc527333708/full.png"
+        },
+        {
+            "publicId": "URjfx",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/URjfx/98df0b613ec19d75ab8a4ecdf15e1ae9/full.png"
+        },
+        {
+            "publicId": "koJ1D",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/koJ1D/2f60034fe5a77dba20b979ad83dee298/full.png"
+        },
+        {
+            "publicId": "7NFrt",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/7NFrt/9b5c33e55a53eb85581c3592479a10f1/full.png"
+        },
+        {
+            "publicId": "G1z8c",
+            "type": "d3-bars-stacked",
+            "thumbnail": "//img.datawrapper.de/G1z8c/ed887b629b9ef1e45fa72ca9975e5ace/full.png"
+        },
+        {
+            "publicId": "z6Ssj",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/z6Ssj/6be576765d1e312b896746b09f675951/full.png"
+        },
+        {
+            "publicId": "rL3eb",
+            "type": "d3-bars-stacked",
+            "thumbnail": "//img.datawrapper.de/rL3eb/90bf64a64412308a64a4c60f12446aca/full.png"
+        },
+        {
+            "publicId": "T6YRU",
+            "type": "d3-bars-stacked",
+            "thumbnail": "//img.datawrapper.de/T6YRU/a0f203e8b20108dbec49b2b35625e830/full.png"
+        },
+        {
+            "publicId": "08exS",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/08exS/02dd09a902b441807ad597c08962b0c3/full.png"
+        },
+        {
+            "publicId": "rYPBO",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/rYPBO/11be9d30a0e69b404fd5811e5ddf3cfd/full.png"
+        },
+        {
+            "publicId": "GlTEa",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/GlTEa/ef9a8cd5f3e0d2b199c3ba2ca056e6d3/full.png"
+        },
+        {
+            "publicId": "vDdVx",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/vDdVx/15b366b8ff8091cf149b6e6fe1d5ef6b/full.png"
+        },
+        {
+            "publicId": "V5lb5",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/V5lb5/95b4c76ce0bbd3b357bbf3a9e653f204/full.png"
+        },
+        {
+            "publicId": "1XAqa",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/1XAqa/dc4c29015f2d24498c98f2d4d39fd123/full.png"
+        },
+        {
+            "publicId": "218sZ",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/218sZ/7e11087f7ca2588dd45da1067a15bae1/full.png"
+        },
+        {
+            "publicId": "BF04m",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/BF04m/ac473279ded71fdeedd708823cc97c81/full.png"
+        },
+        {
+            "publicId": "SdvNT",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/SdvNT/d27bfbb97c41026fa94dd244c3efbcd6/full.png"
+        },
+        {
+            "publicId": "deXEK",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/deXEK/e2c6663f9bcd282e6773eb602d829d23/full.png"
+        },
+        {
+            "publicId": "xnZyC",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/xnZyC/daad8b850d6b993e71e749c4df1e96cf/full.png"
+        },
+        {
+            "publicId": "KpeLM",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/KpeLM/f531bf81f40e2f848590bf0463508f6a/full.png"
+        },
+        {
+            "publicId": "B3i5T",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/B3i5T/f72c9c6cae1ac6b5f28c80a05a9e5893/full.png"
+        },
+        {
+            "publicId": "F0h6H",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/F0h6H/42861266fb7f45c56518b2600dcf8173/full.png"
+        },
+        {
+            "publicId": "pk45E",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/pk45E/c52cf2fb8ff1038b8b37a8e1a744b2f6/full.png"
+        },
+        {
+            "publicId": "LAdo8",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/LAdo8/c97a45ba5a48671c69dd4f8ea6b76dbd/full.png"
+        },
+        {
+            "publicId": "xkEGx",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/xkEGx/1c99226eac8bcca1bcd4005ebdc619be/full.png"
+        },
+        {
+            "publicId": "bF8yX",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/bF8yX/7e1414172b7fe1d3f4b2a7dc0c246dee/full.png"
+        },
+        {
+            "publicId": "FvpN7",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/FvpN7/aea62602205d339b8338b83fa435f632/full.png"
+        },
+        {
+            "publicId": "d54Ml",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/d54Ml/47b72cd745a6c4b4b61e449fdb2819fc/full.png"
+        },
+        {
+            "publicId": "HRHKT",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/HRHKT/e68994ab1ef1cfe0cafd30e3fdaa4dc2/full.png"
+        },
+        {
+            "publicId": "LlGFa",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/LlGFa/e30b305966604bd396e4e1cd5576a6f4/full.png"
+        },
+        {
+            "publicId": "9PZOO",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/9PZOO/79df5898fbaa63d29b5e4ee885f7b237/full.png"
+        },
+        {
+            "publicId": "qed7i",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/qed7i/4b1fd4bc38faff1266a5d16367be215f/full.png"
+        },
+        {
+            "publicId": "E88L7",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/E88L7/b0d1bdde76378a45ddf90dc4e001d660/full.png"
+        },
+        {
+            "publicId": "rxEtt",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/rxEtt/5f24b696cdcdc52d4b9ef8b99eacde3d/full.png"
+        },
+        {
+            "publicId": "4WrRq",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/4WrRq/fc73026ded769e911619bf37dc862974/full.png"
+        },
+        {
+            "publicId": "SvoNI",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/SvoNI/05d6516a916b54155cc6b32d8cc2ee87/full.png"
+        },
+        {
+            "publicId": "nTins",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/nTins/4287ef770a808a97edbc5b1afc37c120/full.png"
+        },
+        {
+            "publicId": "sH6XI",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/sH6XI/e0e14d5e8d197b53d50fe1ece2d7fcc8/full.png"
+        },
+        {
+            "publicId": "qJCMa",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/qJCMa/d6a60c834f792d8f2bc05971fcc6e17f/full.png"
+        },
+        {
+            "publicId": "8xov6",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/8xov6/a0edfdd40d4bf7c535a49d593d254a7c/full.png"
+        },
+        {
+            "publicId": "zJjc1",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/zJjc1/880dd68436eb1e701e4702a173a9a6ea/full.png"
+        },
+        {
+            "publicId": "i69QV",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/i69QV/be3fecf0ad0e03d2cfdfb2858400053e/full.png"
+        },
+        {
+            "publicId": "MPFMc",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/MPFMc/a389540f2dd5fda83e5a6d66eb532e46/full.png"
+        },
+        {
+            "publicId": "KDibH",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/KDibH/4744b300c98fa6c469270913965fb315/full.png"
+        },
+        {
+            "publicId": "M5Zsx",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/M5Zsx/5c3c859585d86397873a092a10138880/full.png"
+        },
+        {
+            "publicId": "mJdnB",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/mJdnB/7a6872c422785bf65ad7ec9247f4300d/full.png"
+        },
+        {
+            "publicId": "RIuTz",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/RIuTz/c0faa7b5c13358cc1d3ef90a84be3c60/full.png"
+        },
+        {
+            "publicId": "PBGyz",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/PBGyz/2504bc1745b0f45aa293f709916f6e11/full.png"
+        },
+        {
+            "publicId": "4qhQ5",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/4qhQ5/617cb45e91259ae7ab089dfb53d6990a/full.png"
+        },
+        {
+            "publicId": "8u9J1",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/8u9J1/f0e82d290c9a73beb3a0e7aca096fecd/full.png"
+        },
+        {
+            "publicId": "z5Lqy",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/z5Lqy/5773fda3899ae6ab11cad177c5c4ed64/full.png"
+        },
+        {
+            "publicId": "CaDoI",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/CaDoI/bdb522059624f970f5ee81b39bf24ab1/full.png"
+        },
+        {
+            "publicId": "fPV7R",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/fPV7R/2bae0640e0400f504a02967ebcd40185/full.png"
+        },
+        {
+            "publicId": "XX7ZB",
+            "type": "d3-bars-stacked",
+            "thumbnail": "//img.datawrapper.de/XX7ZB/a59946cd59d395e2c96774bdf079fd7f/full.png"
+        },
+        {
+            "publicId": "nP5yc",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/nP5yc/03f1ef94d465b759615678ffe31c8642/full.png"
+        },
+        {
+            "publicId": "fVWwK",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/fVWwK/ee99b11e6f857ef34be0e15b0ad64e75/full.png"
+        },
+        {
+            "publicId": "ir29d",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/ir29d/c1821da6ae66018913a1d6a9d71fd7dd/full.png"
+        },
+        {
+            "publicId": "OsVrS",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/OsVrS/6bc6db728dd9498c4da3d5e919f56304/full.png"
+        },
+        {
+            "publicId": "WQO99",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/WQO99/4549850da4aef8b0b85ede6ccc6b15ab/full.png"
+        },
+        {
+            "publicId": "ijI1l",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/ijI1l/8647ad371584a08dc1e9baebd33e59c9/full.png"
+        },
+        {
+            "publicId": "gAuMP",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/gAuMP/302549bf30b4273304326f353f6e09a8/full.png"
+        },
+        {
+            "publicId": "ggtgD",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/ggtgD/d720ba48e2f3c6ba0f51a3ebfa23a472/full.png"
+        },
+        {
+            "publicId": "RQH1R",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/RQH1R/6f39b9922227572d45d5f572336ad1c8/full.png"
+        },
+        {
+            "publicId": "VWqpe",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/VWqpe/731a3ee70dee47c751a038446b7eb4c7/full.png"
+        },
+        {
+            "publicId": "zAeBq",
+            "type": "stacked-column-chart",
+            "thumbnail": "//img.datawrapper.de/zAeBq/0c4488335e73e29608770f46323c12bf/full.png"
+        },
+        {
+            "publicId": "2Se1q",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/2Se1q/787299cabcd3b579e04bed4d26931e80/full.png"
+        },
+        {
+            "publicId": "MDwYW",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/MDwYW/d96b963e46224f99e9d3bdc5020eeceb/full.png"
+        },
+        {
+            "publicId": "FbE3q",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/FbE3q/cea0050b3e24835520cd4b0c4f54e6ed/full.png"
+        },
+        {
+            "publicId": "cClgh",
+            "type": "stacked-column-chart",
+            "thumbnail": "//img.datawrapper.de/cClgh/968c2fa274692d0a9c2c7226b71c2c46/full.png"
+        },
+        {
+            "publicId": "X2ryJ",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/X2ryJ/2024a58c8d0905e153c264f52b5fd92a/full.png"
+        },
+        {
+            "publicId": "OCwht",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/OCwht/9a0fb5a56f9e21656a1c0620cf2854e3/full.png"
+        },
+        {
+            "publicId": "ZhB21",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/ZhB21/922862dd9678345d6cf1cd209cae8d3d/full.png"
+        },
+        {
+            "publicId": "PVn7O",
+            "type": "stacked-column-chart",
+            "thumbnail": "//img.datawrapper.de/PVn7O/ba53feda68d07c3e8b5ceb7cff46aa44/full.png"
+        },
+        {
+            "publicId": "KTnhV",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/KTnhV/3e8bba79ac8a273eeeafcc45a8a1400f/full.png"
+        },
+        {
+            "publicId": "fhigD",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/fhigD/f140fc914f3373eeb0052da760544c5a/full.png"
+        },
+        {
+            "publicId": "lzvy8",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/lzvy8/d7fe76c9221a0c9dbb7de55467ce7ea5/full.png"
+        },
+        {
+            "publicId": "IDuLX",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/IDuLX/2a33d07457b94d934ca466c655bac94e/full.png"
+        },
+        {
+            "publicId": "T0i0w",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/T0i0w/0194fb85047ca41139c7fd506fc3af03/full.png"
+        },
+        {
+            "publicId": "NiXml",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/NiXml/5be90b461be62bedb76eadf2b15d7ca9/full.png"
+        },
+        {
+            "publicId": "IKALt",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/IKALt/c546c17a0704c8ac43a4bea6c4c7832f/full.png"
+        },
+        {
+            "publicId": "7uE6a",
+            "type": "d3-bars-stacked",
+            "thumbnail": "//img.datawrapper.de/7uE6a/608072a3a4cac426c7be30c89056712e/full.png"
+        },
+        {
+            "publicId": "iXqwD",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/iXqwD/b76c34b8206743892b5d6c96398b7bbf/full.png"
+        },
+        {
+            "publicId": "8NX7B",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/8NX7B/7c7bf027301a515c7f1db839740b14ac/full.png"
+        },
+        {
+            "publicId": "q8cUz",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/q8cUz/dcc076151c865915c9e413654fc2135c/full.png"
+        },
+        {
+            "publicId": "4MGtC",
+            "type": "d3-bars-stacked",
+            "thumbnail": "//img.datawrapper.de/4MGtC/b378572e686957eff807a39ebc43e8be/full.png"
+        },
+        {
+            "publicId": "ylE6l",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/ylE6l/bb3878b9e705ca6d84b8e7c3d2123a6e/full.png"
+        },
+        {
+            "publicId": "hxaNX",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/hxaNX/490f4a069e44daad0c31374b582c8de8/full.png"
+        },
+        {
+            "publicId": "OG2J0",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/OG2J0/3344287941359efad49275597a447510/full.png"
+        },
+        {
+            "publicId": "GV6LO",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/GV6LO/b0fa9c50f61d1ecf53e64e73167b24ad/full.png"
+        },
+        {
+            "publicId": "vkeEv",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/vkeEv/daebc32808e65647f21c49938968e283/full.png"
+        },
+        {
+            "publicId": "tsLSR",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/tsLSR/c17593033748225d382ef33b801518e6/full.png"
+        },
+        {
+            "publicId": "CSjiG",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/CSjiG/1e59fe5463a6a60e4b6edd399d00c02c/full.png"
+        },
+        {
+            "publicId": "nMRRq",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/nMRRq/3214ed1cc56c81e3dc7ff17806a55a2a/full.png"
+        },
+        {
+            "publicId": "10J7v",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/10J7v/142b305920f77cf3c9f77bd9da67c47b/full.png"
+        },
+        {
+            "publicId": "fzTsI",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/fzTsI/2801621c6c2e3e989f9318fff873947e/full.png"
+        },
+        {
+            "publicId": "HWR7K",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/HWR7K/0cf6cc36adbff3d32168d6fc6d9164f1/full.png"
+        },
+        {
+            "publicId": "dxvwc",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/dxvwc/20c5c2f8fe62d9834972d5c5d3cda7f1/full.png"
+        },
+        {
+            "publicId": "6rygF",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/6rygF/3d1cda670bc08cb9a0765f1eba613b93/full.png"
+        },
+        {
+            "publicId": "5ZMdH",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/5ZMdH/9fcf9b4484bf43f0edcccb5913e1b465/full.png"
+        },
+        {
+            "publicId": "5jOh2",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/5jOh2/e843271ecf5d87ad7ca0f4ab6809d363/full.png"
+        },
+        {
+            "publicId": "x7N0N",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/x7N0N/23df16e33a794497e453b97a86caea2e/full.png"
+        },
+        {
+            "publicId": "EhQX3",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/EhQX3/4bf539b174cf12ad3ef76378999a47f1/full.png"
+        },
+        {
+            "publicId": "DynwH",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/DynwH/ff97c6fa61041bc3b0c5897af732a78c/full.png"
+        },
+        {
+            "publicId": "DujT3",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/DujT3/f20de33b4e416fa6c255a79c9f5c101e/full.png"
+        },
+        {
+            "publicId": "VPhYn",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/VPhYn/d7723d5b682a1850cc02e61548cdc379/full.png"
+        },
+        {
+            "publicId": "KwCHI",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/KwCHI/b4c52f771fbc30b2289aa4b2b2507680/full.png"
+        },
+        {
+            "publicId": "wmDTv",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/wmDTv/973ac76929479571a73f07cd725a5322/full.png"
+        },
+        {
+            "publicId": "vrRRA",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/vrRRA/df0ac20c5e306fd43bc2c9469d85f956/full.png"
+        },
+        {
+            "publicId": "JA0ny",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/JA0ny/d494cd900dd546f27738a3602c0f361f/full.png"
+        },
+        {
+            "publicId": "lkeeW",
+            "type": "d3-bars-split",
+            "thumbnail": "//img.datawrapper.de/lkeeW/28aba4841145428bdb93f01ef27f7047/full.png"
+        },
+        {
+            "publicId": "8tTbi",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/8tTbi/a6529aa1d7d10a2c84d0249b018fdf85/full.png"
+        },
+        {
+            "publicId": "OzGNc",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/OzGNc/e976e15432cb25469f533d3076303742/full.png"
+        },
+        {
+            "publicId": "3vyMz",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/3vyMz/995fd1fd9c53baf04663d3af90317b8c/full.png"
+        },
+        {
+            "publicId": "8BGK4",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/8BGK4/44ecb8029f99f3fc9796ae4f1556820c/full.png"
+        },
+        {
+            "publicId": "6y0qP",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/6y0qP/d48dc0044ddb03ec696b2ff63fb11b2a/full.png"
+        },
+        {
+            "publicId": "aJSeK",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/aJSeK/ce8bd44a48dd2b82366941a93667e28b/full.png"
+        },
+        {
+            "publicId": "zPxMy",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/zPxMy/88c20f639c914734df46958fd6385197/full.png"
+        },
+        {
+            "publicId": "yqH0n",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/yqH0n/8a4932fbf1a9c80af48d85b7fcafe51d/full.png"
+        },
+        {
+            "publicId": "WpINj",
+            "type": "d3-bars-grouped",
+            "thumbnail": "//img.datawrapper.de/WpINj/22cf022ff3a3a082d8498136d5bb6f2a/full.png"
+        },
+        {
+            "publicId": "1evLu",
+            "type": "grouped-column-chart",
+            "thumbnail": "//img.datawrapper.de/1evLu/26a552a6541b8a67fc4f29f8df02da18/full.png"
+        },
+        {
+            "publicId": "nyQtm",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/nyQtm/0f1a147655bc1966d32e0a63ac2b412f/full.png"
+        },
+        {
+            "publicId": "hTYEd",
+            "type": "d3-pies",
+            "thumbnail": "//img.datawrapper.de/hTYEd/85e0187076d88f350233b0543ab55d03/full.png"
+        },
+        {
+            "publicId": "xyNU0",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/xyNU0/4c68180bfb2293bcdef1b26a6260a542/full.png"
+        },
+        {
+            "publicId": "vGUjl",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/vGUjl/1fed8c1c11d6186a913bb9ccdf77882e/full.png"
+        },
+        {
+            "publicId": "zd1Z4",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/zd1Z4/99cdafe87b234c7c3ff0392e460d5b6e/full.png"
+        },
+        {
+            "publicId": "rzCr7",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/rzCr7/5ab0c12b50daf623c49bd0e69a02f626/full.png"
+        },
+        {
+            "publicId": "qM3v9",
+            "type": "d3-bars",
+            "thumbnail": "//img.datawrapper.de/qM3v9/fd7be9adb65015a7f3f258ea47c8067e/full.png"
+        },
+        {
+            "publicId": "FPnDL",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/FPnDL/d9e2b3b116edb9af1dc026b494762855/full.png"
+        },
+        {
+            "publicId": "5uPB5",
+            "type": "d3-lines",
+            "thumbnail": "//img.datawrapper.de/5uPB5/91f43325b215589065520c63f7efbdeb/full.png"
+        },
+        {
+            "publicId": "hVaMm",
+            "type": "column-chart",
+            "thumbnail": "//img.datawrapper.de/hVaMm/a5787207bf8531a90417d79829b1bb4b/full.png"
+        },
+        {
+            "publicId": "LPNZi",
+            "type": "stacked-column-chart",
+            "thumbnail": "//img.datawrapper.de/LPNZi/f3d01b64c0b606af117036f4081e7dfd/full.png"
+        }
+    ]
+}

@@ -1,0 +1,1522 @@
+{
+  "L1-info": {
+    "L1-0": {
+      "tag": {"en": "type", "fr": "type"},
+      "description": {
+        "en": "The chart is a {}.",
+        "fr": "Le graphique est un {}."
+      }
+    },
+    "L1-1": {
+      "tag": {"en": "title", "fr": "titre"},
+      "description": {
+        "en": "The title is \"{}\".",
+        "fr": "Le titre est «{}»."
+      }
+    },
+    "L1-2": {
+      "tag": {"en": "intro", "fr": "intro"},
+      "description": {
+        "en": "The subtitle is \"{}\".",
+        "fr": "Le sous-titre est «{}»."
+      }
+    },
+    "L1-3": {
+      "tag": {"en": "notes", "fr": "notes"},
+      "description": {
+        "en": "The footnote is \"{}\".",
+        "fr": "La note de bas de page est «{}»."
+      }
+    }
+  },
+  "d3-bars": {
+    "L1-4-0": {
+      "tag": {"en": "x-axis", "fr": "axe des x"},
+      "description": {
+        "en": "The horizontal x-axis represents {} and the values range from {} to {}.",
+        "fr": "L'axe horizontal représente {} et les valeurs vont de {} à {}."
+      }
+    },
+    "L1-4-1": {
+      "tag": {"en": "y-axis", "fr": "axe des y"},
+      "description": {
+        "numerical": {
+          "en": "The vertical y-axis represents {} and the values range from {} to {}.",
+          "fr": "L'axe vertical représente {} et les valeurs vont de {} à {}."
+        },
+        "categorical": {
+          "en": "The vertical y-axis represents {} and contains the following items: {}.",
+          "fr": "L'axe vertical représente {} et contient les éléments suivants: {}."
+        }
+      }
+    },
+    "L1-5": {
+      "tag": {"en": "color", "fr": "couleur"},
+      "description": {
+        "single-color": {
+          "en": "The bars are plotted in {}.",
+          "fr": "Les barres sont tracées en {}."
+        },
+        "multi-color": {
+          "en": "The color {} is used for {}.",
+          "fr": "La couleur {} est utilisée pour {}."
+        },
+        "last-element": {
+          "en": "The color {} is used for the rest.",
+          "fr": "La couleur {} est utilisée pour le reste."
+        }
+      }
+    },
+    "L2-0": {
+      "tag": {"en": "data points", "fr": "points de données"},
+      "description": {
+        "en": "The chart has the following data: {}.",
+        "fr": "Le graphique contient les données suivantes: {}."
+      }
+    },
+    "L2-1-0": {
+      "tag": {"en": "maximum", "fr": "maximum"},
+      "description": {
+        "en": "{} has a maximum value of {}.",
+        "fr": "{} a la valeur maximale de {}."
+      }
+    },
+    "L2-1-1": {
+      "tag": {"en": "minimum", "fr": "minimum"},
+      "description": {
+        "en": "{} has the minimum value of {}.",
+        "fr": "{} a la valeur minimale de {}."
+      }
+    },
+    "L2-2-0": {
+      "tag": {"en": "mean", "fr": "moyenne"},
+      "description": {
+        "en": "The average value is {}.",
+        "fr": "La valeur moyenne est {}."
+      }
+    },
+    "L2-2-1": {
+      "tag": {"en": "std", "fr": "écart-type"},
+      "description": {
+        "en": "The standard deviation is {}.",
+        "fr": "L'écart-type est {}."
+      }
+    },
+    "L2-2-2": {
+      "tag": {"en": "median", "fr": "médiane"},
+      "description": {
+        "en": "The median value is {}.",
+        "fr": "La valeur médiane est {}."
+      }
+    },
+    "L2-3": {
+      "tag": {"en": "outliers", "fr": "valeurs aberrantes"}
+    },
+    "L2-4": {
+      "tag": {"en": "correlation", "fr": "corrélation"},
+      "description": {
+        "strong-positive": {
+          "en": "The data show a strong positive correlation.",
+          "fr": "Les données montrent une forte corrélation positive."
+        },
+        "weak-positive": {
+          "en": "The data show a weak positive correlation.",
+          "fr": "Les données montrent une faible corrélation positive."
+        },
+        "no-correlation": {
+          "en": "There is no correlation observed in the data.",
+          "fr": "Aucune corrélation n'est observée dans les données."
+        },
+        "weak-negative": {
+          "en": "The data show a weak negative correlation.",
+          "fr": "Les données montrent une faible corrélation négative."
+        },
+        "strong-negative": {
+          "en": "The data show a strong negative correlation.",
+          "fr": "Les données montrent une forte corrélation négative."
+        }
+      }
+    },
+    "L2-5": {
+      "tag": {"en": "trend", "fr": "tendance"},
+      "description": {
+        "constant": {
+          "en": "The data exhibit a constant trend.",
+          "fr": "Les données présentent une tendance constante."
+        },
+        "increasing": {
+          "en": "The data exhibit a monotonic increasing trend.",
+          "fr": "Les données présentent une tendance monotone à la hausse."
+        },
+        "decreasing": {
+          "en": "The data exhibit a monotonic decreasing trend.",
+          "fr": "Les données présentent une tendance monotone à la baisse."
+        }
+      }
+    }
+  },
+  "d3-bars-split": {
+    "L1-4-0": {
+      "tag": {"en": "x-axis", "fr": "axe des x"},
+      "description": {
+        "en": "The graphs for {} are arranged adjacently over the horizontal x-axis.",
+        "fr": "Les graphiques pour {} sont disposés de manière adjacente sur l'axe horizontal."
+      }
+    },
+    "L1-4-1": {
+      "tag": {"en": "y-axis", "fr": "axe des y"},
+      "description": {
+        "en": "The vertical y-axis represents {} and contains the following items for each of the graphs: {}.",
+        "fr": "L'axe vertical représente {} et contient les éléments suivants pour chacun des graphiques: {}."
+      }
+    },
+    "L1-5": {
+      "tag": {"en": "color", "fr": "couleur"},
+      "description": {
+        "single-color": {
+          "en": "The bars are plotted in {}.",
+          "fr": "Les barres sont tracées en {}."
+        },
+        "colored-by-group": {
+          "en": "The color {} is used for the column {}.",
+          "fr": "La couleur {} est utilisée pour la colonne {}."
+        },
+        "colored-by-element": {
+          "en": "The color {} is used for the row {}.",
+          "fr": "La couleur {} est utilisée pour la rangée {}."
+        }
+      }
+    },
+    "L2-0": {
+      "tag": {"en": "data points", "fr": "points de données"},
+      "description": {
+        "group-wise": {
+          "en": "The column {} has the following data: {}.",
+          "fr": "La colonne {} contient les données suivantes: {}."
+        },
+        "element-wise": {
+          "en": "The row {} has the following data: {}.",
+          "fr": "La rangée {} contient les données suivantes: {}."
+        }
+      }
+    },
+    "L2-1-0-0": {
+      "tag": {"en": "maximum - column wise", "fr": "maximum - par colonne"},
+      "description": {
+        "en": "for the column {}, {} has a maximum value of {}",
+        "fr": "pour la colonne {}, {} a une valeur maximale de {}"
+      }
+    },
+    "L2-1-0-1": {
+      "tag": {"en": "maximum - row wise", "fr": "maximum - par rangée"},
+      "description": { 
+        "en": "for the row {}, {} has a maximum value of {}",
+        "fr": "pour la rangée {}, {} a une valeur maximale de {}"
+      }
+    },
+    "L2-1-1-0": {
+      "tag": {"en": "minimum - column wise", "fr": "minimum - par colonne"},
+      "description": {
+        "en": "for the column {}, {} has a minimum value of {}",
+        "fr": "pour la colonne {}, {} a une valeur minimale de {}"
+      }
+    },
+    "L2-1-1-1": {
+      "tag": {"en": "minimum - row wise", "fr": "minimum - par rangée"},
+      "description": {
+        "en": "for the row {}, {} has a minimum value of {}",
+        "fr": "pour la rangée {}, {} a une valeur minimale de {}"
+      }
+    },
+    "L2-2-0-0": {
+      "tag": {"en": "mean - column wise", "fr": "moyenne - par colonne"},
+      "description": {
+        "en": "the column {} has an average value of {}",
+        "fr": "la colonne {} a une valeur moyenne de {}"
+      }
+    },
+    "L2-2-0-1": {
+      "tag": {"en": "mean - row wise", "fr": "moyenne - par rangée"},
+      "description": {
+        "en": "the row {} has an average value of {}",
+        "fr": "la rangée {} a une valeur moyenne de {}"
+      }
+    },
+    "L2-2-1-0": {
+      "tag": {"en": "std - column wise", "fr": "écart-type - par colonne"},
+      "description": {
+        "en": "the column {} has a standard deviation of {}",
+        "fr": "la colonne {} a un écart-type de {}"
+      }
+    },
+    "L2-2-1-1": {
+      "tag": {"en": "std - row wise", "fr": "écart-type - par rangée"},
+      "description": {
+        "en": "the row {} has a standard deviation of {}",
+        "fr": "la rangée {} a un écart-type de {}"
+      }
+    },
+    "L2-2-2-0": {
+      "tag": {"en": "median - column wise", "fr": "médiane - par colonne"},
+      "description": {
+        "en": "the column {} has a median value of {}",
+        "fr": "la colonne {} a une valeur médiane de {}"
+      }
+    },
+    "L2-2-2-1": {
+      "tag": {"en": "median - row wise", "fr": "médiane - par rangée"},
+      "description": {
+        "en": "the row {} has a median value of {}",
+        "fr": "la rangée {} a une valeur médiane de {}"
+      }
+    },
+    "L2-3-0": {
+      "tag": {"en": "outliers", "fr": "valeurs aberrantes"}
+    },
+    "L2-3-1": {
+      "tag": {"en": "outliers", "fr": "valeurs aberrantes"}
+    }
+  },
+  "d3-bars-stacked": {
+    "L1-4-0": {
+      "tag": {"en": "x-axis", "fr": "axe des x"},
+      "description": {
+        "en": "The horizontal x-axis represents the numerical values for {}. The bars are stacked on top of one another and the values range from {} to {}.",
+        "fr": "L'axe horizontal représente les valeurs numériques pour {}. Les barres sont empilées les unes sur les autres et les valeurs vont de {} à {}."
+      }
+    },
+    "L1-4-1": {
+      "tag": {"en": "y-axis", "fr": "axe des y"},
+      "description": {
+        "numerical": {
+          "en": "The vertical y-axis represents {} and the values range from {} to {}.",
+          "fr": "L'axe vertical représente {} et les valeurs vont de {} à {}."
+        },
+        "categorical": {
+          "en": "The vertical y-axis represents {} and contains the following items: {}.",
+          "fr": "L'axe vertical représente {} et contient les éléments suivants: {}."
+        }
+      }
+    },
+    "L1-5": {
+      "tag": {"en": "color", "fr": "couleur"},
+      "description": {
+        "single-color": {
+          "en": "The bars are plotted in {}.",
+          "fr": "Les barres sont tracées en {}."
+        },
+        "multi-color": {
+          "en": "The color {} is used for {}.",
+          "fr": "La couleur {} est utilisée pour {}."
+        }
+      }
+    },
+    "L2-0-0": {
+      "tag": {"en": "data points - aggregate values", "fr": "points de données - aggregate values"},
+      "description": {
+        "en": "The stacked bar chart has the following aggregate values: {}.",
+        "fr": "Le diagramme à barres empilées contient les valeurs agrégées suivantes: {}."
+      }
+    },
+    "L2-0-1": {
+      "tag": {"en": "data points - category wise", "fr": "points de données - par catégorie"},
+      "description": {
+        "en": "The category {} has the following data: {}.",
+        "fr": "La catégorie {} contient les données suivantes: {}."
+      }
+    },
+    "L2-1-0-0": {
+      "tag": {"en": "maximum - aggregate values", "fr": "maximum - valeurs agrégées"},
+      "description": { 
+        "en": "{} has a maximum aggregate value of {}.",
+        "fr": "{} a une valeur agrégée maximale de {}."
+      }
+    },
+    "L2-1-0-1": {
+      "tag": {"en": "maximum - category wise", "fr": "maximum - par catégorie"},
+      "description": {
+        "en": "for the category {}, {} has a maximum value of {}",
+        "fr": "pour la catégorie {}, {} a une valeur maximale de {}"
+      }
+    },
+    "L2-1-0-2": {
+      "tag": {"en": "maximum - element wise", "fr": "maximum - par élément"},
+      "description": {
+        "en": "for the element {}, {} has a maximum value of {}",
+        "fr": "pour l'élément {}, {} a une valeur maximale de {}"
+      }
+    },
+    "L2-1-1-0": {
+      "tag": {"en": "minimum - aggregate values", "fr": "minimum - valeurs agrégées"},
+      "description": {
+        "en": "{} has a minimum aggregate value of {}",
+        "fr": "{} a une valeur agrégée minimale de {}"
+      }
+    },
+    "L2-1-1-1": {
+      "tag": {"en": "minimum - category wise", "fr": "minimum - par catégorie"},
+      "description": {
+        "en": "for the category {}, {} has a minimum value of {}",
+        "fr": "pour la catégorie {}, {} a une valeur minimale de {}"
+      }
+    },
+    "L2-1-1-2": {
+      "tag": {"en": "minimum - element wise", "fr": "minimum - par élément"},
+      "description": {
+        "en": "for the element {}, {} has a minimum value of {}",
+        "fr": "pour l'élément {}, {} a une valeur minimale de {}"
+      }
+    },
+    "L2-2-0": {
+      "tag": {"en": "mean", "fr": "moyenne"},
+      "description": {
+        "en": "The aggregate values have an average of {}.",
+        "fr": "Les valeurs agrégées ont une moyenne de {}."
+      }
+    },
+    "L2-2-1": {
+      "tag": {"en": "std", "fr": "écart-type"},
+      "description": {
+        "en": "The aggregate values have a standard deviation of {}.",
+        "fr": "Les valeurs agrégées ont un écart-type de {}."
+      }
+    },
+    "L2-2-2": {
+      "tag": {"en": "median", "fr": "médiane"},
+      "description": {
+        "en": "The aggregate values have a median of {}.",
+        "fr": "Les valeurs agrégées ont une médiane de {}."
+      }
+    },
+    "L2-3-0": {
+      "tag": {"en": "outliers", "fr": "valeurs aberrantes"}
+    },
+    "L2-3-1": {
+      "tag": {"en": "outliers", "fr": "valeurs aberrantes"}
+    },
+    "L2-3-2": {
+      "tag": {"en": "outliers", "fr": "valeurs aberrantes"}
+    },
+    "L2-4": {
+      "tag": {"en": "correlation", "fr": "corrélation"},
+      "description": {
+        "strong-positive": {
+          "en": "The aggregate values show a strong positive correlation.",
+          "fr": "Les valeurs agrégées montrent une forte corrélation positive."
+        },
+        "weak-positive": {
+          "en": "The aggregate values show a weak positive correlation.",
+          "fr": "Les valeurs agrégées montrent une faible corrélation positive."
+        },
+        "no-correlation": {
+          "en": "There is no correlation observed in the aggregate values.",
+          "fr": "Aucune corrélation n'est observée dans les valeurs agrégées."
+        },
+        "weak-negative": {
+          "en": "The aggregate values show a weak negative correlation.",
+          "fr": "Les valeurs agrégées montrent une faible corrélation négative."
+        },
+        "strong-negative": {
+          "en": "The aggregate values show a strong negative correlation.",
+          "fr": "Les valeurs agrégées montrent une forte corrélation négative."
+        }
+      }
+    },
+    "L2-5": {
+      "tag": {"en": "trend", "fr": "tendance"},
+      "description": {
+        "constant": {
+          "en": "The aggregate values exhibit a constant trend.",
+          "fr": "Les valeurs agrégées présentent une tendance constante."
+        },
+        "increasing": {
+          "en": "The aggregate values exhibit a monotonic increasing trend.",
+          "fr": "Les valeurs agrégées présentent une tendance monotone à la hausse."
+        },
+        "decreasing": {
+          "en": "The aggregate values exhibit a monotonic decreasing trend.",
+          "fr": "Les valeurs agrégées présentent une tendance monotone à la baisse."
+        }
+      }
+    }
+  },
+  "d3-bars-grouped": {
+    "L1-4-0": {
+      "tag": {"en": "x-axis", "fr": "axe des x"},
+      "description": {
+        "en": "The horizontal x-axis represents the numerical values for {}. The bars of each category are placed side-by-side.",
+        "fr": "L'axe horizontal représente les valeurs numériques pour {}. Les barres de chaque catégorie sont placées côte à côte."
+      }
+    },
+    "L1-4-1": {
+      "tag": {"en": "y-axis", "fr": "axe des y"},
+      "description": {
+        "numerical": {
+          "en": "The vertical y-axis represents {} and the values range from {} to {}.",
+          "fr": "L'axe vertical représente {} et les valeurs vont de {} à {}."
+        },
+        "categorical": {
+          "en": "The vertical y-axis represents {} and contains the following items: {}.",
+          "fr": "L'axe vertical représente {} et contient les éléments suivants: {}."
+        }
+      }
+    },
+    "L1-5": {
+      "tag": {"en": "color", "fr": "couleur"},
+      "description": {
+        "single-color": {
+          "en": "The bars are plotted in {}.",
+          "fr": "Les barres sont tracées en {}."
+        },
+        "multi-color": {
+          "en": "The color {} is used for {}.",
+          "fr": "La couleur {} est utilisée pour {}."
+        }
+      }
+    },
+    "L2-0": {
+      "tag": {"en": "data points", "fr": "points de données"},
+      "description": {
+        "en": "The category {} has the following data: {}.",
+        "fr": "La catégorie {} contient les données suivantes: {}."
+      }
+    },
+    "L2-1-0-0": {
+      "tag": {"en": "maximum - category wise", "fr": "maximum - par catégorie"},
+      "description": {
+        "en": "for the category {}, {} has a maximum value of {}",
+        "fr": "pour la catégorie {}, {} a une valeur maximale de {}"
+      }
+    },
+    "L2-1-0-1": {
+      "tag": {"en": "maximum - element wise", "fr": "maximum - par élément"},
+      "description": {
+        "en": "for element {}, {} has a maximum value of {}",
+        "fr": "pour l'élément {}, {} a une valeur maximale de {}"
+      }
+    },
+    "L2-1-1-0": {
+      "tag": {"en": "minimum - category wise", "fr": "minimum - par catégorie"},
+      "description": {
+        "en": "for the category {}, {} has a minimum value of {}",
+        "fr": "pour la catégorie {}, {} a une valeur minimale de {}"
+      }
+    },
+    "L2-1-1-1": {
+      "tag": {"en": "minimum - element wise", "fr": "minimum - par élément"},
+      "description": {
+        "en": "for the element {}, {} has a minimum value of {}",
+        "fr": "pour l'élément {}, {} a une valeur minimale de {}"
+      }
+    },
+    "L2-2-0-0": {
+      "tag": {"en": "mean - category wise", "fr": "moyenne - par catégorie"},
+      "description": {
+        "en": "the category {} has an average value of {}",
+        "fr": "la catégorie {} a une valeur moyenne de {}"
+      }
+    },
+    "L2-2-0-1": {
+      "tag": {"en": "mean - element wise", "fr": "moyenne - par élément"},
+      "description": {
+        "en": "the element {} has an average value of {}",
+        "fr": "l'élément {} a une valeur moyenne de {}"
+      }
+    },
+    "L2-2-1-0": {
+      "tag": {"en": "std - category wise", "fr": "écart-type - par catégorie"},
+      "description": {
+        "en": "the category {} has a standard deviation of {}",
+        "fr": "la catégorie {} a un écart-type de {}"
+      }
+    },
+    "L2-2-1-1": {
+      "tag": {"en": "std - element wise", "fr": "écart-type - par élément"},
+      "description": {
+        "en": "the element {} has a standard deviation of {}",
+        "fr": "l'élément {} a un écart-type de {}"
+      }
+    },
+    "L2-2-2-0": {
+      "tag": {"en": "median - category wise", "fr": "médiane - par catégorie"},
+      "description": {
+        "en": "the category has a median value of {}",
+        "fr": "la catégorie {} a une valeur médiane de {}"
+      }
+    },
+    "L2-2-2-1": {
+      "tag": {"en": "median - element wise", "fr": "médiane - par élément"},
+      "description": {
+        "en": "the element {} has a median value of {}",
+        "fr": "l'élément {} a une valeur médiane de {}"
+      }
+    },
+    "L2-3": {
+      "tag": {"en": "outliers", "fr": "valeurs aberrantes"}
+    },
+    "L2-4": {
+      "tag": {"en": "correlation", "fr": "corrélation"},
+      "description": {
+        "strong-positive": {
+          "en": "The series {} shows a strong positive correlation.",
+          "fr": "La série {} montre une forte corrélation positive."
+        },
+        "weak-positive": {
+          "en": "The series {} shows a weak positive correlation.",
+          "fr": "La série {} montre une faible corrélation positive."
+        },
+        "no-correlation": {
+          "en": "There is no correlation observed in the series {}.",
+          "fr": "Aucune corrélation n'est observée dans la série {}."
+        },
+        "weak-negative": {
+          "en": "The series {} shows a weak negative correlation.",
+          "fr": "La série {} montre une faible corrélation négative."
+        },
+        "strong-negative": {
+          "en": "The series {} shows a strong negative correlation.",
+          "fr": "La série {} montre une forte corrélation négative."
+        }
+      }
+    },
+    "L2-5": {
+      "tag": {"en": "trend", "fr": "tendance"},
+      "description": {
+        "constant": {
+          "en": "The series {} exhibits a constant trend.",
+          "fr": "La série {} présente une tendance constante."
+        },
+        "increasing": {
+          "en": "The series {} exhibits a monotonic increasing trend.",
+          "fr": "La série {} présente une tendance monotone à la hausse."
+        },
+        "decreasing": {
+          "en": "The series {} exhibits a monotonic decreasing trend.",
+          "fr": "La série {} présente une tendance monotone à la baisse."
+        }
+      }
+    }
+  },
+  "column-chart": {
+    "L1-4-0": {
+      "tag": {"en": "x-axis", "fr": "axe des x"},
+      "description": {
+        "numerical": {
+          "en": "The horizontal x-axis represents {} and the values range from {} to {}.",
+          "fr": "L'axe horizontal représente {} et les valeurs vont de {} à {}."
+        },
+        "categorical": {
+          "en": "The horizontal x-axis represents {} and contains the following items: {}.",
+          "fr": "L'axe horizontal représente {} et contient les éléments suivants: {}."
+        }
+      }
+    },
+    "L1-4-1": {
+      "tag": {"en": "y-axis", "fr": "axe des y"},
+      "description": {
+        "en": "The vertical y-axis represents {} and the values range from {} to {}.",
+        "fr": "L'axe vertical représente {} et les valeurs vont de {} à {}."
+      }
+    },
+    "L1-5": {
+      "tag": {"en": "color", "fr": "couleurs"},
+      "description": {
+        "single-color": {
+          "en": "The columns are plotted in {}.",
+          "fr": "Les colonnes sont tracées en {}."
+        },
+        "multi-color": {
+          "en": "The color {} is used for {}.",
+          "fr": "La couleur {} est utilisée pour {}."
+        },
+        "last-element": {
+          "en": "The color {} is used for the rest.",
+          "fr": "La couleur {} est utilisée pour le reste."
+        }
+      }
+    },
+    "L2-0": {
+      "tag": {"en": "data points", "fr": "points de données"},
+      "description": {
+        "en": "The chart has the following data: {}.",
+        "fr": "Le graphique contient les données suivantes: {}."
+      }
+    },
+    "L2-1-0": {
+      "tag": {"en": "maximum", "fr": "maximum"},
+      "description": {
+        "en": "{} has the maximum value of {}.",
+        "fr": "{} a la valeur maximale de {}."
+      }
+    },
+    "L2-1-1": {
+      "tag": {"en": "minimum", "fr": "minimum"},
+      "description": {
+        "en": "{} has the minimum value of {}.",
+        "fr": "{} a la valeur minimale de {}."
+      }
+    },
+    "L2-2-0": {
+      "tag": {"en": "mean", "fr": "moyenne"},
+      "description": {
+        "en": "The average value is {}.",
+        "fr": "La valeur moyenne est {}."
+      }
+    },
+    "L2-2-1": {
+      "tag": {"en": "std", "fr": "écart-type"},
+      "description": {
+        "en": "The standard deviation is {}.",
+        "fr": "L'écart-type est {}."
+      }
+    },
+    "L2-2-2": {
+      "tag": {"en": "median", "fr": "médiane"},
+      "description": {
+        "en": "The median value is {}.",
+        "fr": "La valeur médiane est {}."
+      }
+    },
+    "L2-3": {
+      "tag": {"en": "outliers", "fr": "valeurs aberrantes"}
+    },
+    "L2-4": {
+      "tag": {"en": "correlation", "fr": "corrélation"},
+      "description": {
+        "strong-positive": {
+          "en": "The data show a strong positive correlation.",
+          "fr": "Les données montrent une forte corrélation positive."
+        },
+        "weak-positive": {
+          "en": "The data show a weak positive correlation.",
+          "fr": "Les données montrent une faible corrélation positive."
+        },
+        "no-correlation": {
+          "en": "There is no correlation observed in the data.",
+          "fr": "Aucune corrélation n'est observée dans les données."
+        },
+        "weak-negative": {
+          "en": "The data show a weak negative correlation.",
+          "fr": "Les données montrent une faible corrélation négative."
+        },
+        "strong-negative": {
+          "en": "The data show a strong negative correlation.",
+          "fr": "Les données montrent une forte corrélation négative."
+        }
+      }
+    },
+    "L2-5": {
+      "tag": {"en": "trend", "fr": "tendance"},
+      "description": {
+        "constant": {
+          "en": "The data exhibit a constant trend.",
+          "fr": "Les données présentent une tendance constante."
+        },
+        "increasing": {
+          "en": "The data exhibit a monotonic increasing trend.",
+          "fr": "Les données présentent une tendance monotone à la hausse."
+        },
+        "decreasing": {
+          "en": "The data exhibit a monotonic decreasing trend.",
+          "fr": "Les données présentent une tendance monotone à la baisse."
+        }
+      }
+    }
+  },
+  "grouped-column-chart": {
+    "L1-4-0": {
+      "tag": {"en": "x-axis", "fr": "axe des x"},
+      "description": {
+        "numerical": {
+          "en": "The horizontal x-axis represents {} and the values range from {} to {}.",
+          "fr": "L'axe horizontal représente {} et les valeurs vont de {} à {}."
+        },
+        "categorical": {
+          "en": "The horizontal x-axis represents {} and contains the following items: {}.",
+          "fr": "L'axe horizontal représente {} et contient les éléments suivants: {}."
+        }
+      }
+    },
+    "L1-4-1": {
+      "tag": {"en": "y-axis", "fr": "axe des y"},
+      "description": {
+        "en": "The vertical y-axis represents the numerical values for {}. The columns of each category are placed side-by-side.",
+        "fr": "L'axe vertical représente les valeurs numériques pour {}. Les colonnes de chaque catégorie sont placées côte à côte."
+      }
+    },
+    "L1-5": {
+      "tag": {"en": "color", "fr": "couleur"},
+      "description": {
+        "single-color": {
+          "en": "The columns are plotted in {}.",
+          "fr": "Les colonnes sont tracées en {}."
+        },
+        "multi-color": {
+          "en": "The color {} is used for {}.",
+          "fr": "La couleur {} est utilisée pour {}."
+        }
+      }
+    },
+    "L2-0": {
+      "tag": {"en": "data points", "fr": "points de données"},
+      "description": {
+        "en": "The category {} has the following data: {}.",
+        "fr": "La catégorie {} contient les données suivantes: {}."
+      }
+    },
+    "L2-1-0-0": {
+      "tag": {"en": "maximum - category wise", "fr": "maximum - par catégorie"},
+      "description": {
+        "en": "for the category {}, {} has a maximum value of {}",
+        "fr": "pour la catégorie {}, {} a une valeur maximale de {}"
+      }
+    },
+    "L2-1-0-1": {
+      "tag": {"en": "maximum - element wise", "fr": "maximum - par élément"},
+      "description": {
+        "en": "for element {}, {} has a maximum value of {}",
+        "fr": "pour l'élément {}, {} a une valeur maximale de {}"
+      }
+    },
+    "L2-1-1-0": {
+      "tag": {"en": "minimum - category wise", "fr": "minimum - par catégorie"},
+      "description": {
+        "en": "for the category {}, {} has a minimum value of {}",
+        "fr": "pour la catégorie {}, {} a une valeur minimale de {}"
+      }
+    },
+    "L2-1-1-1": {
+      "tag": {"en": "minimum - element wise", "fr": "minimum - par élément"},
+      "description": {
+        "en": "for the element {}, {} has a minimum value of {}",
+        "fr": "pour l'élément {}, {} a une valeur minimale de {}"
+      }
+    },
+    "L2-2-0-0": {
+      "tag": {"en": "mean - category wise", "fr": "moyenne - par catégorie"},
+      "description": {
+        "en": "the category {} has an average value of {}",
+        "fr": "la catégorie {} a une valeur moyenne de {}"
+      }
+    },
+    "L2-2-0-1": {
+      "tag": {"en": "mean - element wise", "fr": "moyenne - par élément"},
+      "description": {
+        "en": "the element {} has an average value of {}",
+        "fr": "l'élément {} a une valeur moyenne de {}"
+      }
+    },
+    "L2-2-1-0": {
+      "tag": {"en": "std - category wise", "fr": "écart-type - par catégorie"},
+      "description": {
+        "en": "the category {} has a standard deviation of {}",
+        "fr": "la catégorie {} a un écart-type de {}"
+      }
+    },
+    "L2-2-1-1": {
+      "tag": {"en": "std - element wise", "fr": "écart-type - par élément"},
+      "description": {
+        "en": "the element {} has a standard deviation of {}",
+        "fr": "l'élément {} a un écart-type de {}"
+      }
+    },
+    "L2-2-2-0": {
+      "tag": {"en": "median - category wise", "fr": "médiane - par catégorie"},
+      "description": {
+        "en": "the category has a median value of {}",
+        "fr": "la catégorie {} a une valeur médiane de {}"
+      }
+    },
+    "L2-2-2-1": {
+      "tag": {"en": "median - element wise", "fr": "médiane - par élément"},
+      "description": {
+        "en": "the element {} has a median value of {}",
+        "fr": "l'élément {} a une valeur médiane de {}"
+      }
+    },
+    "L2-3": {
+      "tag": {"en": "outliers", "fr": "valeurs aberrantes"}
+    },
+    "L2-4": {
+      "tag": {"en": "correlation", "fr": "corrélation"},
+      "description": {
+        "strong-positive": {
+          "en": "The series {} shows a strong positive correlation.",
+          "fr": "La série {} montre une forte corrélation positive."
+        },
+        "weak-positive": {
+          "en": "The series {} shows a weak positive correlation.",
+          "fr": "La série {} montre une faible corrélation positive."
+        },
+        "no-correlation": {
+          "en": "There is no correlation observed in the series {}.",
+          "fr": "Aucune corrélation n'est observée dans la série {}."
+        },
+        "weak-negative": {
+          "en": "The series {} shows a weak negative correlation.",
+          "fr": "La série {} montre une faible corrélation négative."
+        },
+        "strong-negative": {
+          "en": "The series {} shows a strong negative correlation.",
+          "fr": "La série {} montre une forte corrélation négative."
+        }
+      }
+    },
+    "L2-5": {
+      "tag": {"en": "trend", "fr": "tendance"},
+      "description": {
+        "constant": {
+          "en": "The series {} exhibits a constant trend.",
+          "fr": "La série {} présente une tendance constante."
+        },
+        "increasing": {
+          "en": "The series {} exhibits a monotonic increasing trend.",
+          "fr": "La série {} présente une tendance monotone à la hausse."
+        },
+        "decreasing": {
+          "en": "The series {} exhibits a monotonic decreasing trend.",
+          "fr": "La série {} présente une tendance monotone à la baisse."
+        }
+      }
+    }
+  },
+  "stacked-column-chart": {
+    "L1-4-0": {
+      "tag": {"en": "x-axis", "fr": "axe des x"},
+      "description": {
+        "numerical": {
+          "en": "The horizontal x-axis represents {} and the values range from {} to {}.",
+          "fr": "L'axe horizontal représente {} et les valeurs vont de {} à {}."
+        },
+        "categorical": {
+          "en": "The horizontal x-axis represents {} and contains the following items: {}.",
+          "fr": "L'axe des x horizontal représente {} et contient les éléments suivants: {}."
+        }
+      }
+    },
+    "L1-4-1": {
+      "tag": {"en": "y-axis", "fr": "axe des y"},
+      "description": {
+        "en": "The vertical y-axis represents the numerical values for {}. The columns are stacked on top of one another and the values range from {} to {}.",
+        "fr": "L'axe vertical représente les valeurs numériques pour {}. Les colonnes sont empilées les unes sur les autres et les valeurs vont de {} à {}."
+      }
+    },
+    "L1-5": {
+      "tag": {"en": "color", "fr": "couleur"},
+      "description": {
+        "single-color": {
+          "en": "The columns are plotted in {}.",
+          "fr": "Les colonnes sont tracées en {}."
+        },
+        "multi-color": {
+          "en": "The color {} is used for {}.",
+          "fr": "La couleur {} est utilisée pour {}."
+        }
+      }
+    },
+    "L2-0-0": {
+      "tag": {"en": "data points - aggregate values", "fr": "points de données - valeurs agrégées"},
+      "description": {
+        "en": "The stacked column chart has the following aggregate values: {}.",
+        "fr": "Le graphique à colonnes empilées contient les valeurs agrégées suivantes: {}."
+      }
+    },
+    "L2-0-1": {
+      "tag": {"en": "data points - category wise", "fr": "points de données - par catégorie"},
+      "description": {
+        "en": "The category {} has the following data: {}.",
+        "fr": "La catégorie {} contient les données suivantes: {}."
+      }
+    },
+    "L2-1-0-0": {
+      "tag": {"en": "maximum - aggregate values", "fr": "maximum - valeurs agrégées"},
+      "description": {
+        "en": "{} has a maximum aggregate value of {}.",
+        "fr": "{} a une valeur agrégée maximale de {}."
+      }
+    },
+    "L2-1-0-1": {
+      "tag": {"en": "maximum - category wise", "fr": "maximum - par catégorie"},
+      "description": {
+        "en": "for the category {}, {} has a maximum value of {}",
+        "fr": "pour la catégorie {}, {} a une valeur maximale de {}"
+      }
+    },
+    "L2-1-0-2": {
+      "tag": {"en": "maximum - element wise", "fr": "maximum - par élément"},
+      "description": {
+        "en": "for the element {}, {} has a maximum value of {}",
+        "fr": "pour l'élément {}, {} a une valeur maximale de {}"
+      }
+    },
+    "L2-1-1-0": {
+      "tag": {"en": "minimum - aggregate values", "fr": "minimum - valeurs agrégées"},
+      "description": {
+        "en": "{} has a minimum aggregate value of {}",
+        "fr": "{} a une valeur agrégée minimale de {}"
+      }
+    },
+    "L2-1-1-1": {
+      "tag": {"en": "minimum - category wise", "fr": "minimum - par catégorie"},
+      "description": {
+        "en": "for the category {}, {} has a minimum value of {}",
+        "fr": "pour la catégorie {}, {} a une valeur minimale de {}"
+      }
+    },
+    "L2-1-1-2": {
+      "tag": {"en": "minimum - element wise", "fr": "minimum - par élément"},
+      "description": {
+        "en": "for the element {}, {} has a minimum value of {}",
+        "fr": "pour l'élément {}, {} a une valeur minimale de {}"
+      }
+    },
+    "L2-2-0": {
+      "tag": {"en": "mean", "fr": "moyenne "},
+      "description": {
+        "en": "The aggregate values have an average of {}.",
+        "fr": "Les valeurs agrégées ont une moyenne de {}."
+      }
+    },
+    "L2-2-1": {
+      "tag": {"en": "std", "fr": "écart-type"},
+      "description": {
+        "en": "The aggregate values have a standard deviation of {}.",
+        "fr": "Les valeurs agrégées ont un écart-type de {}."
+      }
+    },
+    "L2-2-2": {
+      "tag": {"en": "median", "fr": "médiane"},
+      "description": {
+        "en": "The aggregate values have a median of {}.",
+        "fr": "Les valeurs agrégées ont une médiane de {}."
+      }
+    },
+    "L2-3-0": {
+      "tag": {"en": "outliers", "fr": "valeurs aberrantes"}
+    },
+    "L2-3-1": {
+      "tag": {"en": "outliers", "fr": "valeurs aberrantes"}
+    },
+    "L2-3-2": {
+      "tag": {"en": "outliers", "fr": "valeurs aberrantes"}
+    },
+    "L2-4": {
+      "tag": {"en": "correlation", "fr": "corrélation"},
+      "description": {
+        "strong-positive": {
+          "en": "The aggregate values show a strong positive correlation.",
+          "fr": "Les valeurs agrégées montrent une forte corrélation positive."
+        },
+        "weak-positive": {
+          "en": "The aggregate values show a weak positive correlation.",
+          "fr": "Les valeurs agrégées montrent une faible corrélation positive."
+        },
+        "no-correlation": {
+          "en": "There is no correlation observed in the aggregate values.",
+          "fr": "Aucune corrélation n'est observée dans les valeurs agrégées."
+        },
+        "weak-negative": {
+          "en": "The aggregate values show a weak negative correlation.",
+          "fr": "Les valeurs agrégées montrent une faible corrélation négative."
+        },
+        "strong-negative": {
+          "en": "The aggregate values show a strong negative correlation.",
+          "fr": "Les valeurs agrégées montrent une forte corrélation négative."
+        }
+      }
+    },
+    "L2-5": {
+      "tag": {"en": "trend", "fr": "tendance"},
+      "description": {
+        "constant": {
+          "en": "The aggregate values exhibit a constant trend.",
+          "fr": "Les valeurs agrégées présentent une tendance constante."
+        },
+        "increasing": {
+          "en": "The aggregate values exhibit a monotonic increasing trend.",
+          "fr": "Les valeurs agrégées présentent une tendance monotone à la hausse."
+        },
+        "decreasing": {
+          "en": "The aggregate values exhibit a monotonic decreasing trend.",
+          "fr": "Les valeurs agrégées présentent une tendance monotone à la baisse."
+        }
+      }
+    }
+  },
+  "d3-area": {
+    "L1-4-0": {
+      "tag": {"en": "x-axis", "fr": "axe des x"},
+      "description": {
+        "univariate": {
+          "en": "The horizontal x-axis represents {} and the values range from {} to {}.",
+          "fr": "L'axe horizontal représente {} et les valeurs vont de {} à {}."
+        },
+        "multivariate": {
+          "en": "The horizontal x-axis represents {} and the values range from {} to {}.",
+          "fr": "L'axe horizontal représente {} et les valeurs vont de {} à {}."
+        }
+      }
+    },
+    "L1-4-1": {
+      "tag": {"en": "y-axis", "fr": "axe des y"},
+      "description": {
+        "univariate": {
+          "en": "The vertical y-axis represents {} and the values range from {} to {}.",
+          "fr": "L'axe vertical représente {} et les valeurs vont de {} à {}."
+        },
+        "multivariate": {
+          "en": "The values for {} are plotted on the vertical y-axis from {} to {}.",
+          "fr": "Les valeurs pour {} sont tracées sur l'axe vertical de {} à {}."
+        }
+      }
+    },
+    "L1-5": {
+      "tag": {"en": "color", "fr": "couleur"},
+      "description": {
+        "single-color": {
+          "en": "The area is plotted in {}.",
+          "fr": "La zone est tracée en {}."
+        },
+        "multi-color": {
+          "en": "The color {} is used for {}.",
+          "fr": "La couleur {} est utilisée pour {}."
+        }
+      }
+    },
+    "L2-0": {
+      "tag": {"en": "data points", "fr": "points de données"},
+      "description": {
+        "univariate": {
+          "en": "The chart has the following data: {}.",
+          "fr": "Le graphique contient les données suivantes: {}."
+        },
+        "multivariate": {
+          "en": "The series {} has the following data: {}.",
+          "fr": "La série {} contient les données suivantes: {}."
+        }
+      }
+    },
+    "L2-1-0": {
+      "tag": {"en": "maximum", "fr": "maximum"},
+      "description": {
+        "univariate": {
+          "en": "The data reached its maximum value of {} in {}.",
+          "fr": "Les données ont atteint leur valeur maximale de {} en {}."
+        }
+      }
+    },
+    "L2-1-0-0": {
+      "tag": {"en": "maximum - stacked values", "fr": "maximum - valeurs empilées"},
+      "description": {
+        "multivariate": {
+          "en": "the cumulative totals for {} has a maximum value of {} in {}",
+          "fr": "les totaux cumulés pour {} ont une valeur maximale de {} en {}"
+        }
+      }
+    },
+    "L2-1-0-1": {
+      "tag": {"en": "maximum - category wise", "fr": "maximum - par catégorie"},
+      "description": {
+        "multivariate": {
+          "en": "{} has a maximum value of {} in {}",
+          "fr": "{} a une valeur maximale de {} en {}"
+        }
+      }
+    },
+    "L2-1-1": {
+      "tag": {"en": "minimum", "fr": "minimum"},
+      "description": {
+        "univariate": {
+          "en": "The data reached its minimum value of {} in {}.",
+          "fr": "Les données ont atteint leur valeur minimale de {} en {}."
+        }
+      }
+    },
+    "L2-1-1-0": {
+      "tag": {"en": "minimum - stacked values", "fr": "minimum - valeurs empilées"},
+      "description": {
+        "multivariate": {
+          "en": "the aggregate values for {} has a maximum value of {} in {}",
+          "fr": "les valeurs agrégées pour {} ont une valeur minimale de {} en {}"
+        }
+      }
+    },
+    "L2-1-1-1": {
+      "tag": {"en": "minimum - category wise", "fr": "minimum - par catégorie"},
+      "description": {
+        "multivariate": {
+          "en": "{} has a minimum value of {} in {}",
+          "fr": "{} a une valeur minimale de {} en {}"
+        }
+      }
+    },
+    "L2-2-0": {
+      "tag": {"en": "mean", "fr": "moyenne"},
+      "description": {
+        "univariate": {
+          "en": "The average value is {}.",
+          "fr": "La valeur moyenne est {}."
+        },
+        "multivariate": {
+          "en": "the aggregate values for {} has an average value of {}",
+          "fr": "les valeurs agrégées pour {} ont une valeur moyenne de {}"
+        }
+      }
+    },
+    "L2-2-1": {
+      "tag": {"en": "std", "fr": "écart-type"},
+      "description": {
+        "univariate": {
+          "en": "The standard deviation is {}.",
+          "fr": "L'écart-type est {}."
+        },
+        "multivariate": {
+          "en": "the aggregate values for {} has a standard deviation of {}",
+          "fr": "les valeurs agrégées pour {} ont un écart-type de {}"
+        }
+      }
+    },
+    "L2-2-2": {
+      "tag": {"en": "median", "fr": "médiane"},
+      "description": {
+        "univariate": {
+          "en": "The median value is {}.",
+          "fr": "La valeur médiane est {}."
+        },
+        "multivariate": {
+          "en": "the aggregate values for {} has a median value of {}",
+          "fr": "les valeurs agrégées pour {} ont une valeur médiane de {}"
+        }
+      }
+    },
+    "L2-3": {
+      "tag": {"en": "outliers", "fr": "valeurs aberrantes"}
+    },
+    "L2-4": {
+      "tag": {"en": "correlation", "fr": "corrélation"},
+      "description": {
+        "univariate": {
+          "strong-positive": {
+            "en": "The data show a strong positive correlation.",
+            "fr": "Les données montrent une forte corrélation positive."
+          },
+          "weak-positive": {
+            "en": "The data show a weak positive correlation.",
+            "fr": "Les données montrent une faible corrélation positive."
+          },
+          "no-correlation": {
+            "en": "There is no correlation observed in the data.",
+            "fr": "Aucune corrélation n'est observée dans les données."
+          },
+          "weak-negative": {
+            "en": "The data show a weak negative correlation.",
+            "fr": "Les données montrent une faible corrélation négative."
+          },
+          "strong-negative": {
+            "en": "The data show a strong negative correlation.",
+            "fr": "Les données montrent une forte corrélation négative."
+          }
+        },
+        "multivariate": {
+          "strong-positive": {
+            "en": "The aggregate values for {} show a strong positive correlation.",
+            "fr": "Les valeurs agrégées pour {} montrent une forte corrélation positive."
+          },
+          "weak-positive": {
+            "en": "The aggregate values for {} show a weak positive correlation.",
+            "fr": "Les valeurs agrégées pour {} montrent une faible corrélation positive."
+          },
+          "no-correlation": {
+            "en": "There is no correlation observed in the cumulative totals for {}.",
+            "fr": "Aucune corrélation n'est observée dans les totaux cumulés pour {}."
+          },
+          "weak-negative": {
+            "en": "The aggregate values for {} show a weak negative correlation.",
+            "fr": "Les valeurs agrégées pour {} montrent une faible corrélation négative."
+          },
+          "strong-negative": {
+            "en": "The aggregate values for {} show a strong negative correlation.",
+            "fr": "Les valeurs agrégées pour {} montrent une forte corrélation négative."
+          }
+        }
+      }
+    },
+    "L2-5": {
+      "tag": {"en": "trend", "fr": "tendance"},
+      "description": {
+        "univariate": {
+          "constant": {
+            "en": "The data exhibit a constant trend.",
+            "fr": "Les données présentent une tendance constante."
+          },
+          "increasing": {
+            "en": "The data exhibit a monotonic increasing trend.",
+            "fr": "Les données présentent une tendance monotone à la hausse."
+          },
+          "decreasing": {
+            "en": "The data exhibit a monotonic decreasing trend.",
+            "fr": "Les données présentent une tendance monotone à la baisse."
+          }
+        },
+        "multivariate": {
+          "constant": {
+            "en": "The aggregate values for {} exhibit a constant trend.",
+            "fr": "Les valeurs agrégées pour {} présentent une tendance constante."
+          },
+          "increasing": {
+            "en": "The aggregate values for {} exhibit a monotonic increasing trend.",
+            "fr": "Les valeurs agrégées pour {} présentent une tendance monotone à la hausse."
+          },
+          "decreasing": {
+            "en": "The aggregate values for {} exhibit a monotonic decreasing trend.",
+            "fr": "Les valeurs agrégées pour {} présentent une tendance monotone à la baisse."
+          }
+        }
+      }
+    }
+  },
+  "d3-lines": {
+    "L1-4-0": {
+      "tag": {"en": "x-axis", "fr": "axe des x"},
+      "description": {
+        "univariate": {
+          "en": "The horizontal x-axis represents {} and the values range from {} to {}.",
+          "fr": "L'axe horizontal représente {} et les valeurs vont de {} à {}."
+        },
+        "multivariate": {
+          "en": "The horizontal x-axis represents {} and the values range from {} to {}.",
+          "fr": "L'axe horizontal représente {} et les valeurs vont de {} à {}."
+        }
+      }
+    },
+    "L1-4-1": {
+      "tag": {"en": "y-axis", "fr": "axe des y"},
+      "description": {
+        "univariate": {
+            "en": "The vertical y-axis represents {} and the values range from {} to {}.",
+            "fr": "L'axe des y vertical représente {} et les valeurs vont de {} à {}."
+        },
+        "multivariate": {
+          "en": "The values for {} are plotted on the vertical y-axis from {} to {}.",
+          "fr": "Les valeurs pour {} sont tracées sur l'axe vertical de {} à {}."
+        }
+      }
+    },
+    "L1-5": {
+      "tag": {"en": "color", "fr": "couleur"},
+      "description": {
+        "single-color": {
+          "en": "The line is plotted in {}.",
+          "fr": "La ligne est tracée en {}."
+        },
+        "multi-color": {
+          "en": "The color {} is used for {}.",
+          "fr": "La couleur {} est utilisée pour {}."
+        }
+      }
+    },
+    "L2-0": {
+      "tag": {"en": "data points", "fr": "points de données"},
+      "description": {
+        "univariate": {
+          "en": "The chart has the following data: {}.",
+          "fr": "Le graphique contient les données suivantes: {}."
+        },
+        "multivariate": {
+          "en": "The series {} has the following data: {}.",
+          "fr": "La série {} contient les données suivantes: {}."
+        }
+      }
+    },
+    "L2-1-0": {
+      "tag": {"en": "maximum", "fr": "maximum"},
+      "description": {
+        "univariate": {
+          "en": "The data reached its maximum value of {} in {}.",
+          "fr": "Les données ont atteint leur valeur maximale de {} en {}."
+        },
+        "multivariate": {
+          "en": "{} has a maximum value of {} in {}",
+          "fr": "{} a une valeur maximale de {} en {}"
+        }
+      }
+    },
+    "L2-1-1": {
+      "tag": {"en": "minimum", "fr": "minimum"},
+      "description": {
+        "univariate": {
+          "en": "The data reached its minimum value of {} in {}.",
+          "fr": "Les données ont atteint leur valeur minimale de {} en {}."
+        },
+        "multivariate": {
+          "en": "{} has a minimum value of {} in {}",
+          "fr": "{} a une valeur minimale de {} en {}"
+        }
+      }
+    },
+    "L2-2-0": {
+      "tag": {"en": "mean", "fr": "moyenne"},
+      "description": {
+        "univariate": {
+          "en": "The average value is {}.",
+          "fr": "La valeur moyenne est {}."
+        },
+        "multivariate": {
+          "en": "{} has an average value of {}",
+          "fr": "{} a une valeur moyenne de {}"
+        }
+      }
+    },
+    "L2-2-1": {
+      "tag": {"en": "std", "fr": "écart-type"},
+      "description": {
+        "univariate": {
+          "en": "The standard deviation is {}.",
+          "fr": "L'écart-type est {}."
+        },
+        "multivariate": {
+          "en": "{} has a standard deviation of {}",
+          "fr": "{} a un écart-type de {}"
+        }
+      }
+    },
+    "L2-2-2": {
+      "tag": {"en": "median", "fr": "médiane"},
+      "description": {
+        "univariate": {
+          "en": "The median value is {}.",
+          "fr": "La valeur médiane est {}."
+        },
+        "multivariate": {
+          "en": "{} has a median value of {}",
+          "fr": "{} a une valeur médiane de {}"
+        }
+      }
+    },
+    "L2-3": {
+      "tag": {"en": "outliers", "fr": "valeurs aberrantes"}
+    },
+    "L2-4": {
+      "tag": {"en": "correlation", "fr": "corrélation"},
+      "description": {
+        "univariate": {
+          "strong-positive": {
+            "en": "The data show a strong positive correlation.",
+            "fr": "Les données montrent une forte corrélation positive."
+          },
+          "weak-positive": {
+            "en": "The data show a weak positive correlation.",
+            "fr": "Les données montrent une faible corrélation positive."
+          },
+          "no-correlation": {
+            "en": "There is no correlation observed in the data.",
+            "fr": "Aucune corrélation n'est observée dans les données."
+          },
+          "weak-negative": {
+            "en": "The data show a weak negative correlation.",
+            "fr": "Les données montrent une faible corrélation négative."
+          },
+          "strong-negative": {
+            "en": "The data show a strong negative correlation.",
+            "fr": "Les données montrent une forte corrélation négative."
+          }
+        },
+        "multivariate": {
+          "strong-positive": {
+            "en": "The series {} shows a strong positive correlation.",
+            "fr": "La série {} montre une forte corrélation positive."
+          },
+          "weak-positive": {
+            "en": "The series {} shows a weak positive correlation.",
+            "fr": "La série {} montre une faible corrélation positive."
+          },
+          "no-correlation": {
+            "en": "There is no correlation observed in the series {}.",
+            "fr": "Aucune corrélation n'est observée dans la série {}."
+          },
+          "weak-negative": {
+            "en": "The series {} shows a weak negative correlation.",
+            "fr": "La série {} montre une faible corrélation négative."
+          },
+          "strong-negative": {
+            "en": "The series {} shows a strong negative correlation.",
+            "fr": "La série {} montre une forte corrélation négative."
+          }
+        }
+      }
+    },
+    "L2-5": {
+      "tag": {"en": "trend", "fr": "tendance"},
+      "description": {
+        "univariate": {
+          "constant": {
+            "en": "The data exhibit a constant trend.",
+            "fr": "Les données présentent une tendance constante."
+          },
+          "increasing": {
+            "en": "The data exhibit a monotonic increasing trend.",
+            "fr": "Les données présentent une tendance monotone à la hausse."
+          },
+          "decreasing": {
+            "en": "The data exhibit a monotonic decreasing trend.",
+            "fr": "Les données présentent une tendance monotone à la baisse."
+          }
+        },
+        "multivariate": {
+          "constant": {
+            "en": "The series {} exhibits a constant trend.",
+            "fr": "La série {} présente une tendance constante."
+          },
+          "increasing": {
+            "en": "The series {} exhibits a monotonic increasing trend.",
+            "fr": "La série {} présente une tendance monotone à la hausse."
+          },
+          "decreasing": {
+            "en": "The series {} exhibits a monotonic decreasing trend.",
+            "fr": "La série {} présente une tendance monotone à la baisse."
+          }
+        }
+      }
+    }
+  },
+  "d3-pies": {
+    "L1-4": {
+      "tag": {"en": "order", "fr": "ordre"},
+      "description": {
+        "en": "The data are plotted in {} order in clockwise direction.",
+        "fr": "Les données sont tracées dans l'ordre {} dans le sens des aiguilles d'une montre."
+      }
+    },
+    "L1-5": {
+      "tag": {"en": "color", "fr": "couleur"},
+      "description": {
+        "en": "The color {} is used for {}.",
+        "fr": "La couleur {} est utilisée pour {}."
+      }
+    },
+    "L2-0": {
+      "tag": {"en": "data points", "fr": "points de données"},
+      "description": {
+        "en": "The pie chart has the following data: {}.",
+        "fr": "Le diagramme circulaire contient les données suivantes: {}."
+      }
+    },
+    "L2-1-0": {
+      "tag": {"en": "maximum", "fr": "maximum"},
+      "description": {
+        "en": "{} has the maximum value of {}.",
+        "fr": "{} a la valeur maximale de {}."
+      }
+    },
+    "L2-1-1": {
+      "tag": {"en": "minimum", "fr": "minimum"},
+      "description": {
+        "en": "{} has the minimum value of {}.",
+        "fr": "{} a la valeur minimale de {}."
+      }
+    },
+    "L2-2": {
+      "tag": {"en": "outliers", "fr": "valeurs aberrantes"}
+    }
+  }
+}

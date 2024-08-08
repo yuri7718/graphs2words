@@ -1,0 +1,20 @@
+{
+  "en": {
+    "home": "Home",
+    "import": "Import",
+    "export": "Export",
+    "samples": "Samples",
+    "language": "English",
+    "login": "Login",
+    "logout": "Logout"
+  },
+  "fr": {
+    "home": "Accueil",
+    "import": "Importer",
+    "export": "Exporter",
+    "samples": "Exemples",
+    "language": "Français",
+    "login": "Connexion",
+    "logout": "Se déconnecter"
+  }
+}

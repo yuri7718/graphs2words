@@ -1,0 +1,27 @@
+.tree-L1 {
+  color: #c41d7f;
+  background: #fff0f6;
+  border: 1px solid #ffadd2;
+  padding: 0 7px;
+}
+
+.tree-L2 {
+  color: #389e0d;
+  background: #f6ffed;
+  border: 1px solid #b7eb8f;
+  padding: 0 7px;
+}
+
+.tree-L3 {
+  color: #d4380d;
+  background: #fff2e8;
+  border: 1px solid #ffbb96;
+  padding: 0 7px;
+}
+
+.tree-L4 {
+  color: #096dd9;
+  background: #e6f7ff;
+  border: 1px solid #91d5ff;
+  padding: 0 7px;
+}

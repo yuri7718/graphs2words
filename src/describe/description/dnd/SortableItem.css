@@ -1,0 +1,51 @@
+.description-tag:hover {
+  cursor: pointer;
+}
+
+.description-paragraph {
+  display: inline;
+}
+
+.description-L1 .description-tag {
+  color: #c41d7f;
+  background: #fff0f6;
+  border: 1px solid #ffadd2;
+  padding: 0 7px;
+}
+
+.description-L2 .description-tag {
+  color: #389e0d;
+  background: #f6ffed;
+  border: 1px solid #b7eb8f;
+  padding: 0 7p
+}
+
+.description-L3 .description-tag {
+  color: #d4380d;
+  background: #fff2e8;
+  border: 1px solid #ffbb96;
+  padding: 0 7px
+}
+
+.description-L4 .description-tag {
+  color: #096dd9;
+  background: #e6f7ff;
+  border: 1px solid #91d5ff;
+  padding: 0 7px;
+}
+
+.description-L1:hover .description-paragraph {
+  background-color: #fff0f6;
+}
+
+.description-L2:hover .description-paragraph {
+  background-color: #f6ffed;
+}
+
+.description-L3:hover .description-paragraph {
+  background-color: #fff2e8;
+}
+
+.description-L4:hover .description-paragraph {
+  background-color: #e6f7ff;
+}

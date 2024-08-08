@@ -1,0 +1,12 @@
+{
+  "en": {
+    "L1": "General Information" ,
+    "L2": "Data Facts",
+    "L3": "Contextual Knowledge"
+  },
+  "fr": {
+    "L1": "Informations générales",
+    "L2": "Faits et observations",
+    "L3": "Connaissance contextuelle"
+  }
+}

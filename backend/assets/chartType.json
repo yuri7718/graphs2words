@@ -1,0 +1,12 @@
+{
+    "d3-bars": {"en": "bar chart", "fr": "diagramme en barres"},
+    "d3-bars-split": {"en": "split bar chart", "fr": "diagramme à barres séparées"},
+    "d3-bars-stacked": {"en": "stacked bar chart", "fr": "diagramme à barres empilées"},
+    "d3-bars-grouped": {"en": "grouped bar chart", "fr": "diagramme à barres regroupées"},
+    "column-chart": {"en": "column chart", "fr": "graphique en colonnes"},
+    "grouped-column-chart": {"en": "grouped column chart", "fr": "graphique à colonnes groupées"},
+    "stacked-column-chart": {"en": "stacked column chart", "fr": "graphique à colonnes empilées"},
+    "d3-area": {"en": "area chart", "fr": "diagramme par zone"},
+    "d3-lines": {"en": "line chart", "fr": "graphique linéaire"},
+    "d3-pies": {"en": "pie chart", "fr": "diagramme circulaire"}
+}
