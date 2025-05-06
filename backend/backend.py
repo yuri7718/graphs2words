@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 import requests
 from datawrapper_api import *
 from vis_helper import *
-from preprocess import text2data, preprocess_df
+from preprocess import text2data, preprocess_df, format_df
 from charts.bars.d3_bars import *
 from charts.bars.d3_bars_split import *
 from charts.bars.d3_bars_stacked import *
@@ -106,19 +106,29 @@ def get_visualization():
                 text = json.load(f)[chart_id]
             with open('./assets/RadioCanadaSVG.json') as f:
                 svg = json.load(f)[chart_id]
+        case 'radio-canada-25':
+            with open('./assets/RadioCanadaChart25.json') as f:
+                chart = json.load(f)[chart_id]
+            with open('./assets/RadioCanadaData25.json') as f:
+                text = json.load(f)[chart_id]
+            with open('./assets/RadioCanadaSVG25.json') as f:
+                svg = json.load(f)[chart_id]
         case _:
             return jsonify({'message': 'Error in dataset key'}), 400
 
     try:
         df = text2data(text, chart['metadata']['data']['horizontal-header'])
-        df, COLUMNS = preprocess_df(chart, df)
+        if chart['publicId'] == 'GrU5A' and dataset_key == 'radio-canada-25':
+            COLUMNS = df.columns.astype(str).tolist()
+            df = format_df(df)
+        else:
+            df, COLUMNS = preprocess_df(chart, df)
     except Exception as e:
         print('Exception',e.args[0])
         return jsonify({'message': e.args[0]}), 503
     
     #svg = export_chart(chart_id, token)
     color = get_svg_color(svg, chart, df, COLUMNS)
-    
     schema = json.load(open('./assets/schema.json'))[chart['type']]
     template = json.load(open('./assets/template.json'))
 
@@ -137,7 +147,6 @@ def get_visualization():
 
     #add_L1_description(response, chart, template['L1-info'])
     add_L3_description(response)
-
     match chart['type']:
         case 'd3-bars':
             add_d3_bars_option(response, chart, df, color)

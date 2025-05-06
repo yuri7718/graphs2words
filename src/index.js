@@ -6,6 +6,7 @@ import reportWebVitals from './reportWebVitals';
 import { BrowserRouter } from 'react-router-dom';
 import LE_DEVOIR_DATA from './assets/LeDevoir.json';
 import RADIO_CANADA_DATA from './assets/RadioCanada.json';
+import RADIO_CANADA_DATA_25 from './assets/RadioCanada25.json';
 
 export const Context = React.createContext();
 
@@ -31,6 +32,12 @@ const Provider = (props) => {
     types: [],
     searchValue: ''
   });
+  const [radioCanadaState25, setRadioCanadaState25] = useState({
+    charts: RADIO_CANADA_DATA_25.data,
+    pageNumber: 1,
+    types: [],
+    searchValue: ''
+  })
 
   return (
     <Context.Provider value={{
@@ -38,7 +45,8 @@ const Provider = (props) => {
       descriptionContext: [descriptionState, setDescriptionState],
       importContext: [importState, setImportState],
       leDevoirContext: [leDevoirState, setLeDevoirState],
-      radioCanadaContext: [radioCanadaState, setRadioCanadaState]
+      radioCanadaContext: [radioCanadaState, setRadioCanadaState],
+      radioCanadaContext25: [radioCanadaState25, setRadioCanadaState25]
     }}>
       {props.children}
     </Context.Provider>

@@ -4,14 +4,16 @@ import { Context } from '../index';
 import SelectChart from '../dataset/SelectChart';
 import LE_DEVOIR_DATA from '../assets/LeDevoir.json';
 import RADIO_CANADA_DATA from '../assets/RadioCanada.json';
+import RADIO_CANADA_DATA_25 from '../assets/RadioCanada25.json';
 
 export default function Dataset(props) {
 
   const { state } = useLocation();
   
-  const {leDevoirContext, radioCanadaContext} = React.useContext(Context);
+  const {leDevoirContext, radioCanadaContext, radioCanadaContext25} = React.useContext(Context);
   const [leDevoirState, setLeDevoirState] = leDevoirContext;
   const [radioCanadaState, setRadioCanadaState] = radioCanadaContext;
+  const [radioCanadaState25, setRadioCanadaState25] = radioCanadaContext25;
 
   if (state == null) {
     return (
@@ -45,5 +47,17 @@ export default function Dataset(props) {
           />
         </div>
       );
+    case 'radio-canada-25':
+      return (
+        <div>
+          <SelectChart
+            state={radioCanadaState25}
+            setState={setRadioCanadaState25}
+            dataset={RADIO_CANADA_DATA_25.data}
+            datasetKey={'radio-canada-25'}
+            onSelectChart={props.onSelectChart}
+          />
+        </div>
+      )
   }
 }

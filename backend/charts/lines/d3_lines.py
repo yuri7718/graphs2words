@@ -29,7 +29,7 @@ def add_d3_lines_option(response, chart, df, color):
         option['series'].append({
             'type': 'line',
             'data': df[col].tolist(),
-            'showSymbol': chart['metadata']['visualize']['line-symbols']
+            'showSymbol': chart['metadata']['visualize']['line-symbols'] if 'line-symbols' in chart['metadata']['visualize'] else None
         })
 
     response['visualize']['option'] = option

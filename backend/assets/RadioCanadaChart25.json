@@ -1,0 +1,149 @@
+{
+    "GrU5A": {
+        "metadata": {
+            "data": {
+                "changes": [
+                    {
+                        "id": "Ubfim1b2aO",
+                        "row": 0,
+                        "time": 1745596590023,
+                        "value": "Indice de r\u00e9f\u00e9rence global",
+                        "column": 2,
+                        "ignored": false,
+                        "previous": "Indice de r\u00e9f\u00e9rence global1"
+                    }
+                ],
+                "transpose": false,
+                "vertical-header": true,
+                "horizontal-header": true,
+                "upload-method": "copy"
+            },
+            "describe": {
+                "source-name": "L\u2019Association canadienne de l\u2019immobilier",
+                "source-url": "https://www.crea.ca/fr/analyses-du-marche-de-lhabitation/indice-des-prix-des-proprietes-mls-ipp-mls/essayez-loutil-ipp-mls/",
+                "intro": "",
+                "byline": "Martin Bruy\u00e8re",
+                "aria-description": "Ce graphique \u00e0 lignes montre la performance des prix de r\u00e9f\u00e9rence \u00e0 Saskatoon. L'indice de r\u00e9f\u00e9rence pour les maisons unifamiliales, global, pour les maisons en rang\u00e9e et pour les appartements augmentent de fa\u00e7on semblable dans le temps. En 2007, la hausse est tr\u00e8s fort pour les quatre indice; ils passent alors \u00e0 moins de 150 000$ \u00e0 environ 250 000 $. On observe une nouvelle augmentation entre 2019 et 2025, mais celle-ci se fait de fa\u00e7on plus graduelle. ",
+                "number-format": "-",
+                "number-divisor": 0,
+                "number-append": "",
+                "number-prepend": ""
+            },
+            "visualize": {
+                "dark-mode-invert": true,
+                "highlighted-series": [],
+                "highlighted-values": [],
+                "sharing": {
+                    "enabled": false
+                },
+                "lines": {
+                    "Indice de r\u00e9f\u00e9rence global": {},
+                    "Indice de r\u00e9f\u00e9rence \u2013 Appartements": {},
+                    "Indice de r\u00e9f\u00e9rence \u2013 Maisons en rang\u00e9e": {},
+                    "Indice de r\u00e9f\u00e9rence \u2013 Maisons unifamiliales": {}
+                },
+                "x-grid": "on",
+                "y-grid": "on",
+                "scale-y": "linear",
+                "overlays": [],
+                "base-color": 0,
+                "label-colors": true,
+                "label-margin": 122,
+                "stack-to-100": false,
+                "interpolation": "linear",
+                "show-tooltips": true,
+                "x-grid-format": "auto",
+                "y-grid-format": "0,0 $",
+                "y-grid-labels": "auto",
+                "chart-type-set": true,
+                "color-category": {
+                    "map": {
+                        "Indice de r\u00e9f\u00e9rence global": "#CC0000",
+                        "Indice de r\u00e9f\u00e9rence \u2013 Appartements": "#6a3d99",
+                        "Indice de r\u00e9f\u00e9rence \u2013 Maisons en rang\u00e9e": "#ff7f00",
+                        "Indice de r\u00e9f\u00e9rence \u2013 Maisons unifamiliales": "#1f78b4"
+                    }
+                },
+                "custom-range-x": [
+                    "",
+                    ""
+                ],
+                "custom-range-y": [
+                    "0",
+                    "500000"
+                ],
+                "custom-ticks-x": "2005,2007,2009,2011,2013,2015,2017,2019,2021,2023,2025",
+                "custom-ticks-y": "100000,200000,300000,400000,500000",
+                "plotHeightMode": "fixed",
+                "variate-colors": false,
+                "connector-lines": true,
+                "plotHeightFixed": 353,
+                "plotHeightRatio": 0.5,
+                "text-annotations": [],
+                "y-grid-subdivide": true,
+                "custom-area-fills": [],
+                "range-annotations": [],
+                "value-label-colors": true,
+                "y-grid-label-align": "left"
+            },
+            "axes": {},
+            "publish": {
+                "embed-width": 600,
+                "embed-height": 437,
+                "blocks": {
+                    "logo": {
+                        "enabled": true
+                    },
+                    "embed": false,
+                    "download-pdf": false,
+                    "download-svg": false,
+                    "get-the-data": false,
+                    "download-image": false
+                },
+                "export-pdf": {},
+                "embed-codes": {
+                    "embed-method-iframe": "<iframe title=\"Quelle est la performance des prix de r\u00e9f\u00e9rence \u00e0 Saskatoon?\" aria-label=\"Interactive line chart\" id=\"datawrapper-chart-hDzrw\" src=\"https://datawrapper.dwcdn.net/hDzrw/1/\" scrolling=\"no\" frameborder=\"0\" style=\"border: none;\" width=\"600\" height=\"457\" data-external=\"1\"></iframe>",
+                    "embed-method-responsive": "<iframe title=\"Quelle est la performance des prix de r\u00e9f\u00e9rence \u00e0 Saskatoon?\" aria-label=\"Interactive line chart\" id=\"datawrapper-chart-hDzrw\" src=\"https://datawrapper.dwcdn.net/hDzrw/1/\" scrolling=\"no\" frameborder=\"0\" style=\"width: 0; min-width: 100% !important; border: none;\" height=\"457\" data-external=\"1\"></iframe><script type=\"text/javascript\">!function(){\"use strict\";window.addEventListener(\"message\",(function(a){if(void 0!==a.data[\"datawrapper-height\"]){var e=document.querySelectorAll(\"iframe\");for(var t in a.data[\"datawrapper-height\"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data[\"datawrapper-height\"][t]+\"px\";r.style.height=d}}}))}();\n</script>",
+                    "embed-method-web-component": "<div style=\"min-height:457px\" id=\"datawrapper-vis-hDzrw\"><script type=\"text/javascript\" defer src=\"https://datawrapper.dwcdn.net/hDzrw/embed.js\" charset=\"utf-8\" data-target=\"#datawrapper-vis-hDzrw\"></script><noscript><img src=\"https://datawrapper.dwcdn.net/hDzrw/full.png\" alt=\"Ce graphique \u00e0 lignes montre la performance des prix de r\u00e9f\u00e9rence \u00e0 Saskatoon. L'indice de r\u00e9f\u00e9rence pour les maisons unifamiliales, global, pour les maisons en rang\u00e9e et pour les appartements augmentent de fa\u00e7on semblable dans le temps. En 2007, la hausse est tr\u00e8s fort pour les quatre indice; ils passent alors \u00e0 moins de 150 000$ \u00e0 environ 250 000 $. On observe une nouvelle augmentation entre 2019 et 2025, mais celle-ci se fait de fa\u00e7on plus graduelle. \" /></noscript></div>"
+                },
+                "chart-height": 381
+            },
+            "annotate": {
+                "notes": ""
+            },
+            "custom": {
+                "custom-field-1": "",
+                "custom-field-2": ""
+            }
+        },
+        "title": "Quelle est la performance des prix de r\u00e9f\u00e9rence \u00e0 Saskatoon? (Copie)",
+        "readonlyKeys": [],
+        "thumbnails": {
+            "full": "//img.datawrapper.de/GrU5A/c88457f8ae04d1e3826e9884ba22eb94/full.png",
+            "plain": "//img.datawrapper.de/GrU5A/c88457f8ae04d1e3826e9884ba22eb94/plain.png"
+        },
+        "publicId": "GrU5A",
+        "language": "fr-CA",
+        "theme": "cbc-france",
+        "authorId": 16745,
+        "createdAt": "2025-05-01T13:34:37.000Z",
+        "externalData": null,
+        "forkable": false,
+        "forkedFrom": "hDzrw",
+        "id": "GrU5A",
+        "isFork": false,
+        "lastEditStep": 3,
+        "lastModifiedAt": "2025-05-04T23:49:49.000Z",
+        "organizationId": "radiocanada",
+        "publicUrl": null,
+        "publicVersion": 0,
+        "publishedAt": null,
+        "type": "d3-lines",
+        "folderId": 409,
+        "author": {
+            "name": null,
+            "email": "pupitres-web@radio-canada.ca"
+        },
+        "url": "/v3/charts/GrU5A"
+    }
+}

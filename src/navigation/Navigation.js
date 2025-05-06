@@ -42,7 +42,8 @@ export default function Navigation({token, setToken}) {
     {
       label: <>{translation.samples}</>, key: '/dataset', children: [
         {label: <Link to='/dataset' state={{data: 'le-devoir'}}>Le Devoir</Link>, key: 'le-devoir'},
-        {label: <Link to='/dataset' state={{data: 'radio-canada'}}>Radio Canada</Link>, key: 'radio-canada'}
+        {label: <Link to='/dataset' state={{data: 'radio-canada'}}>Radio Canada</Link>, key: 'radio-canada'},
+        {label: <Link to='/dataset' state={{data: 'radio-canada-25'}}>Radio Canada 2025</Link>, key: 'radio-canada-25'}
       ]
     },
     {
